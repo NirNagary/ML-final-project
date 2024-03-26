@@ -1,0 +1,45 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import QuantileTransformer
+from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans
+import numpy as np
+import seaborn as sns
+import yfinance as yf
+from sklearn.metrics import silhouette_score
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+import pandas as pd
+from sklearn.cluster import AgglomerativeClustering
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder
+import yfinance as yf
+from IPython.utils.io import capture_output
+from sklearn.preprocessing import RobustScaler
+from pandas import json_normalize
+import ast
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.manifold import TSNE
+from sklearn.cluster import DBSCAN
+from sklearn.neighbors import NearestNeighbors
+from sklearn.mixture import GaussianMixture
+from scipy.cluster.hierarchy import dendrogram, linkage
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
+
+
+pip install in prompt: 
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install seaborn
+pip install yfinance
+pip install ipython
+pip install scipy
+pip install matplotlib
+
