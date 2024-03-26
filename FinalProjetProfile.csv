@@ -1,0 +1,1911 @@
+symbol,name,exchange,sector,industry,employees,zip,state,country
+MSFT,Microsoft Corp,NASDAQ,Technology,Software—Infrastructure,221000,98052-6399,WA,United States
+AAPL,Apple Inc,NASDAQ,Technology,Consumer Electronics,161000,95014,CA,United States
+NVDA,NVIDIA Corp,NASDAQ,Technology,Semiconductors,29600,95051,CA,United States
+AMZN,Amazon.com Inc,NASDAQ,Consumer Cyclical,Internet Retail,1525000,98109-5210,WA,United States
+GOOGL,Alphabet Inc,NASDAQ,Communication Services,Internet Content & Information,182502,94043,CA,United States
+META,"Meta Platforms, Inc.",NASDAQ,Communication Services,Internet Content & Information,67317,94025,CA,United States
+BRK.B,Berkshire Hathaway Inc,NYSE,Financial Services,Insurance—Diversified,396500,68131,NE,United States
+LLY,Eli Lilly & Co,NYSE,Healthcare,Drug Manufacturers—General,43000,46285,IN,United States
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,NYSE,Technology,Semiconductors,0,300096,,Taiwan
+AVGO,Broadcom Inc,NASDAQ,Technology,Semiconductors,20000,94304,CA,United States
+TSLA,Tesla Inc,NASDAQ,Consumer Cyclical,Auto Manufacturers,140473,78725,TX,United States
+V,Visa Inc,NYSE,Financial Services,Credit Services,28800,94128-8999,CA,United States
+NVO,Novo Nordisk A/S ,NYSE,Healthcare,Biotechnology,63370,2880,,Denmark
+JPM,JPMorgan Chase & Co,NYSE,Financial Services,Banks—Diversified,309926,10179,NY,United States
+WMT,Walmart Inc,NYSE,Consumer Defensive,Discount Stores,2100000,72716,AR,United States
+UNH,UnitedHealth Group Inc,NYSE,Healthcare,Healthcare Plans,440000,55343,MN,United States
+MA,Mastercard Inc,NYSE,Financial Services,Credit Services,33400,10577,NY,United States
+XOM,Exxon Mobil Corp,NYSE,Energy,Oil & Gas Integrated,62000,77389-1425,TX,United States
+ASML,ASML Holding NV,NASDAQ,Technology,Semiconductor Equipment & Materials,40309,5504 DR,,Netherlands
+JNJ,Johnson & Johnson,NYSE,Healthcare,Drug Manufacturers—General,131900,08933,NJ,United States
+HD,Home Depot Inc-The,NYSE,Consumer Cyclical,Home Improvement Retail,465000,30339,GA,United States
+PG,Procter & Gamble Co-The,NYSE,Consumer Defensive,Household & Personal Products,107000,45202,OH,United States
+COST,Costco Wholesale Corp,NASDAQ,Consumer Defensive,Discount Stores,316000,98027,WA,United States
+TM,Toyota Motor Corp,NYSE,Consumer Cyclical,Auto Manufacturers,380737,471-8571,,Japan
+AMD,Advanced Micro Devices Inc,NASDAQ,Technology,Semiconductors,26000,95054,CA,United States
+MRK,Merck & Co Inc,NYSE,Healthcare,Drug Manufacturers—General,70000,07065,NJ,United States
+ABBV,AbbVie Inc,NYSE,Healthcare,Drug Manufacturers—General,50000,60064-6400,IL,United States
+ORCL,Oracle Corp,NYSE,Technology,Software—Infrastructure,164000,78741,TX,United States
+CRM,salesforce.com Inc,NYSE,Technology,Software—Application,72682,94105,CA,United States
+CVX,Chevron Corp,NYSE,Energy,Oil & Gas Integrated,45600,94583-2324,CA,United States
+BAC,Bank of America Corp,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+NFLX,Netflix Inc,NASDAQ,Communication Services,Entertainment,13000,95032,CA,United States
+ADBE,Adobe Inc,NASDAQ,Technology,Software - Infrastructure,29945,95110-2704,CA,United States
+KO,Coca-Cola Co-The,NYSE,Consumer Defensive,Beverages—Non-Alcoholic,79100,30313,GA,United States
+ACN,Accenture PLC,NYSE,Technology,Information Technology Services,743000,D02 P820,,Ireland
+PEP,PepsiCo Inc,NASDAQ,Consumer Defensive,Beverages—Non-Alcoholic,318000,10577,NY,United States
+FMX,Fomento Economico Mexicano SAB de CV,NYSE,Consumer Defensive,Beverages—Brewers,350000,64410,NL,Mexico
+SAP,SAP SE,NYSE,Technology,Software - Application,107602,69190,,Germany
+TMO,Thermo Fisher Scientific Inc,NYSE,Healthcare,Diagnostics & Research,122000,02451,MA,United States
+LIN,Linde plc,NASDAQ,Basic Materials,Specialty Chemicals,66323,GU21 6HT,,United Kingdom
+MCD,McDonald's Corp,NYSE,Consumer Cyclical,Restaurants,100000,60607,IL,United States
+NVS,Novartis AG,NYSE,Healthcare,Drug Manufacturers—General,76057,4056,,Switzerland
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Devices,114000,60064-6400,IL,United States
+DIS,Walt Disney Co-The,NYSE,Communication Services,Entertainment,173250,91521,CA,United States
+SHEL,Shell plc,NYSE,Energy,Oil & Gas Integrated,91140,SE1 7NA,,United Kingdom
+AZN,AstraZeneca PLC,NASDAQ,Healthcare,Drug Manufacturers—General,89900,CB2 0AA,,United Kingdom
+WFC,Wells Fargo & Co,NYSE,Financial Services,Banks - Diversified,226000,94104,CA,United States
+CSCO,Cisco Systems Inc,NASDAQ,Technology,Communication Equipment,84900,95134-1706,CA,United States
+TMUS,T-Mobile US Inc,NASDAQ,Communication Services,Telecom Services,67000,98006-1350,WA,United States
+DHR,Danaher Corp,NYSE,Healthcare,Diagnostics & Research,61000,20037-1701,DC,United States
+BABA,Alibaba Group Holding Ltd,NYSE,Consumer Cyclical,Internet Retail,219260,311121,,China
+INTU,Intuit Inc,NASDAQ,Technology,Software - Application,18200,94043,CA,United States
+INTC,Intel Corp,NASDAQ,Technology,Semiconductors,124800,95054-1549,CA,United States
+QCOM,QUALCOMM Inc,NASDAQ,Technology,Semiconductors,50000,92121-1714,CA,United States
+AMAT,Applied Materials Inc,NASDAQ,Technology,Semiconductor Equipment & Materials,34500,95052-8039,CA,United States
+GE,General Electric Co,NYSE,Industrials,Specialty Industrial Machinery,125000,02111,MA,United States
+IBM,International Business Machines Corp,NYSE,Technology,Information Technology Services,282200,10504,NY,United States
+CMCSA,Comcast Corp,NASDAQ,Communication Services,Telecom Services,186000,19103-2838,PA,United States
+VZ,Verizon Communications Inc,NYSE,Communication Services,Telecom Services,105400,10036,NY,United States
+PDD,Pinduoduo Inc,NASDAQ,Consumer Cyclical,Internet Retail,12992,D02 XF99,,Ireland
+UBER,Uber Technologies Inc,NYSE,Technology,Software—Application,30400,94158,CA,United States
+CAT,Caterpillar Inc,NYSE,Industrials,Farm & Heavy Construction Machinery,113200,75039,TX,United States
+AXP,American Express Co,NYSE,Financial Services,Credit Services,74600,10285,NY,United States
+NOW,ServiceNow Inc,NYSE,Technology,Software - Application,22668,95054,CA,United States
+TXN,Texas Instruments Inc,NASDAQ,Technology,Semiconductors,34000,75243,TX,United States
+BX,Blackstone Group Inc-The,NYSE,Financial Services,Asset Management,4735,10154,NY,United States
+NKE,NIKE Inc,NYSE,Consumer Cyclical,Footwear & Accessories,83700,97005-6453,OR,United States
+UNP,Union Pacific Corp,NYSE,Industrials,Railroads,32973,68179,NE,United States
+TTE,TotalEnergies SE,NYSE,Energy,Oil & Gas Integrated,101279,92078,,France
+AMGN,Amgen Inc,NASDAQ,Healthcare,Drug Manufacturers—General,26700,91320-1799,CA,United States
+PFE,Pfizer Inc,NYSE,Healthcare,Drug Manufacturers—General,88000,10001-2192,NY,United States
+HSBC,HSBC Holdings PLC,NYSE,Financial Services,Banks—Diversified,220861,E14 5HQ,,United Kingdom
+BHP,BHP Group Ltd,NYSE,Basic Materials,Other Industrial Metals & Mining,49089,3000,VIC,Australia
+MS,Morgan Stanley,NYSE,Financial Services,Capital Markets,80000,10036,NY,United States
+LOW,Lowe's Cos Inc,NYSE,Consumer Cyclical,Home Improvement Retail,300000,28117,NC,United States
+ISRG,Intuitive Surgical Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,13676,94086-5304,CA,United States
+PM,Philip Morris International Inc,NYSE,Consumer Defensive,Tobacco,82700,06901,CT,United States
+HDB,HDFC Bank Ltd,NYSE,Financial Services,Banks—Regional,173222,400013,,India
+RY,Royal Bank of Canada,NYSE,Financial Services,Banks - Diversified,90166,M5J 2J5,ON,Canada
+SPGI,S&P Global Inc,NYSE,Financial Services,Financial Data & Stock Exchanges,40450,10041,NY,United States
+COP,ConocoPhillips,NYSE,Energy,Oil & Gas E&P,9900,77079-2703,TX,United States
+SYK,Stryker Corp,NYSE,Healthcare,Medical Devices,52000,49002,MI,United States
+HON,Honeywell International Inc,NASDAQ,Industrials,Conglomerates,95000,28202,NC,United States
+LRCX,Lam Research Corp,NASDAQ,Technology,Semiconductor Equipment & Materials,17200,94538,CA,United States
+GS,Goldman Sachs Group Inc-The,NYSE,Financial Services,Capital Markets,45300,10282,NY,United States
+UPS,United Parcel Service Inc,NYSE,Industrials,Integrated Freight & Logistics,265100,30328,GA,United States
+PLD,Prologis Inc,NYSE,Real Estate,REIT—Industrial,2574,94111,CA,United States
+MUFG,Mitsubishi UFJ Financial Group Inc,NYSE,Financial Services,Banks—Diversified,143111,100-8330,,Japan
+UL,Unilever PLC,NYSE,Consumer Defensive,Household & Personal Products,126988,EC4Y 0DY,,United Kingdom
+BA,Boeing Co-The,NYSE,Industrials,Aerospace & Defense,171000,22202,VA,United States
+T,AT&T Inc,NYSE,Communication Services,Telecom Services,149900,75202,TX,United States
+BLK,BlackRock Inc,NYSE,Financial Services,Asset Management,19800,10001,NY,United States
+SCHW,Charles Schwab Corp-The,NYSE,Financial Services,Capital Markets,33000,76262,TX,United States
+BUD,Anheuser-Busch InBev SA-NV,NYSE,Consumer Defensive,Beverages—Brewers,154540,3000,,Belgium
+BKNG,Booking Holdings Inc,NASDAQ,Consumer Cyclical,Travel Services,23364,06854,CT,United States
+RTX,Raytheon Technologies Corp,NYSE,Industrials,Aerospace & Defense,185000,22209,VA,United States
+SNY,Sanofi,NASDAQ,Healthcare,Drug Manufacturers—General,86088,75017,,France
+ETN,Eaton Corp PLC,NYSE,Industrials,Specialty Industrial Machinery,94000,D04 Y0C2,,Ireland
+ELV,"Elevance Health, Inc.",NYSE,Healthcare,Healthcare Plans,104900,46204,IN,United States
+NEE,NextEra Energy Inc,NYSE,Utilities,Utilities—Regulated Electric,16800,33408,FL,United States
+TJX,TJX Cos Inc-The,NYSE,Consumer Cyclical,Apparel Retail,329000,01701,MA,United States
+VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,5400,02210,MA,United States
+MDT,Medtronic PLC,NYSE,Healthcare,Medical Devices,95000,2,,Ireland
+PGR,Progressive Corp-The,NYSE,Financial Services,Insurance—Property & Casualty,61432,44143,OH,United States
+SONY,Sony Group Corporation,NYSE,Technology,Consumer Electronics,113000,108-0075,,Japan
+FMC,FMC Corp,NYSE,Basic Materials,Agricultural Inputs,6600,19104,PA,United States
+CIVI,"Civitas Resources, Inc.",NYSE,Energy,Oil & Gas E&P,516,80202,CO,United States
+UI,Ubiquiti Inc,NYSE,Technology,Communication Equipment,1535,10017,NY,United States
+AZEK,AZEK Co Inc-The,NYSE,Industrials,Building Products & Equipment,2236,60607,IL,United States
+YMM,Full Truck Alliance Co. Ltd.,NYSE,Technology,Software—Application,6795,550025,,China
+RHP,Ryman Hospitality Properties Inc,NYSE,Real Estate,REIT - Hotel & Motel,824,37214-1207,TN,United States
+BZ,Kanzhun Limited,NASDAQ,Industrials,Staffing & Employment Services,5602,100020,,China
+TKO,"TKO Group Holdings, Inc. Class A Common Stock",NYSE,Communication Services,Entertainment,0,10010,NY,United States
+NYT,New York Times Co-The,NYSE,Communication Services,Publishing,5900,10018,NY,United States
+GPS,Gap Inc-The,NYSE,Consumer Cyclical,Apparel Retail,95000,94105,CA,United States
+ALTR,Altair Engineering Inc,NASDAQ,Technology,Software—Infrastructure,3400,48083,MI,United States
+NFE,New Fortress Energy LLC,NASDAQ,Utilities,Utilities—Regulated Gas,677,10011,NY,United States
+XRAY,DENTSPLY SIRONA Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,15000,28277-3607,NC,United States
+CCCS,CCC Intelligent Solutions Holdings Inc.,NASDAQ,Technology,Software—Infrastructure,2325,60607,IL,United States
+SPSC,SPS Commerce Inc,NASDAQ,Technology,Software - Infrastructure,2489,55402,MN,United States
+STAG,STAG Industrial Inc,NYSE,Real Estate,REIT—Industrial,95,02110-2320,MA,United States
+IVZ,Invesco Ltd,NYSE,Financial Services,Asset Management,8489,30309,GA,United States
+HAS,Hasbro Inc,NASDAQ,Consumer Cyclical,Leisure,5502,02861,RI,United States
+DAR,Darling Ingredients Inc,NYSE,Consumer Defensive,Packaged Foods,15800,75038,TX,United States
+RMBS,Rambus Inc,NASDAQ,Technology,Semiconductors,623,95134,CA,United States
+HQY,HealthEquity Inc,NASDAQ,Healthcare,Health Information Services,3170,84020,UT,United States
+RGLD,Royal Gold Inc,NASDAQ,Basic Materials,Gold,30,80202-1161,CO,United States
+ICL,Israel Chemicals Ltd,NYSE,Basic Materials,Agricultural Inputs,12500,6107025,,Israel
+BILL,Bill.Com Holdings Inc,NYSE,Technology,Software - Application,2521,95002,CA,United States
+VOYA,Voya Financial Inc,NYSE,Financial Services,Financial Conglomerates,9000,10169,NY,United States
+CFR,Cullen-Frost Bankers Inc,NYSE,Financial Services,Banks—Regional,5495,78205,TX,United States
+ITCI,Intra-Cellular Therapies Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,610,10016,NY,United States
+ENSG,Ensign Group Inc-The,NASDAQ,Healthcare,Medical Care Facilities,35300,92675,CA,United States
+MAT,Mattel Inc,NASDAQ,Consumer Cyclical,Leisure,33900,90245-5012,CA,United States
+FOUR,Shift4 Payments Inc,NYSE,Technology,Software - Infrastructure,3030,18034,PA,United States
+GNRC,Generac Holdings Inc,NYSE,Industrials,Specialty Industrial Machinery,8315,53189,WI,United States
+THO,Thor Industries Inc,NYSE,Consumer Cyclical,Recreational Vehicles,24900,46514-3305,IN,United States
+BRX,Brixmor Property Group Inc,NYSE,Real Estate,REIT - Retail,510,10017-3956,NY,United States
+IBP,Installed Building Products Inc,NYSE,Consumer Cyclical,Residential Construction,10600,43215,OH,United States
+WTS,Watts Water Technologies Inc,NYSE,Industrials,Specialty Industrial Machinery,5100,01845-6098,MA,United States
+CGNX,Cognex Corp,NASDAQ,Technology,Scientific & Technical Instruments,2992,01760-2059,MA,United States
+CHRD,Chord Energy Corp,NASDAQ,Energy,Oil & Gas E&P,514,77002,TX,United States
+CACC,Credit Acceptance Corp,NASDAQ,Financial Services,Credit Services,2232,48034-8339,MI,United States
+AAON,AAON Inc,NASDAQ,Industrials,Building Products & Equipment,3856,74107,OK,United States
+BERY,Berry Global Group Inc,NYSE,Consumer Cyclical,Packaging & Containers,40000,47710,IN,United States
+MMYT,MakeMyTrip Ltd,NASDAQ,Consumer Cyclical,Travel Services,4090,122002,,India
+LBTYK,Liberty Global PLC,NASDAQ,Communication Services,Telecom Services,9860,HM 11,,Bermuda
+ALSN,Allison Transmission Holdings Inc,NYSE,Consumer Cyclical,Auto Parts,3700,46222,IN,United States
+CBSH,Commerce Bancshares Inc-MO,NASDAQ,Financial Services,Banks - Regional,4592,64106,MO,United States
+EXEL,Exelixis Inc,NASDAQ,Healthcare,Biotechnology,1310,94502,CA,United States
+NOV,National Oilwell Varco Inc,NYSE,Energy,Oil & Gas Equipment & Services,33676,77042-4103,TX,United States
+ADT,ADT Inc,NYSE,Industrials,Security & Protection Services,14300,33431,FL,United States
+BFAM,Bright Horizons Family Solutions Inc,NYSE,Consumer Cyclical,Personal Services,31400,02459,MA,United States
+CRSP,CRISPR Therapeutics AG,NASDAQ,Healthcare,Biotechnology,407,6300,,Switzerland
+HRB,H&R Block Inc,NYSE,Consumer Cyclical,Personal Services,4000,64105,MO,United States
+MTZ,MasTec Inc,NYSE,Industrials,Engineering & Construction,34000,33134,FL,United States
+MASI,Masimo Corp,NASDAQ,Healthcare,Medical Devices,3800,92618,CA,United States
+MTSI,MACOM Technology Solutions Holdings Inc,NASDAQ,Technology,Semiconductors,1500,01851,MA,United States
+RLI,RLI Corp-DE,NYSE,Financial Services,Insurance—Property & Casualty,1099,61615,IL,United States
+DDS,Dillard's Inc,NYSE,Consumer Cyclical,Department Stores,0,72201,AR,United States
+LSTR,Landstar System Inc,NASDAQ,Industrials,Integrated Freight & Logistics,1468,32224,FL,United States
+AGNC,AGNC Investment Corp,NASDAQ,Real Estate,REIT—Mortgage,53,20814,MD,United States
+WFG,West Fraser Timber Co. Ltd.,NYSE,Basic Materials,Lumber & Wood Production,10800,V6C 3E8,BC,Canada
+STWD,Starwood Property Trust Inc,NYSE,Real Estate,REIT—Mortgage,293,06830,CT,United States
+VNT,Vontier Corp,NYSE,Technology,Scientific & Technical Instruments,8000,27607,NC,United States
+IONS,Ionis Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,927,92010,CA,United States
+CAVA,"CAVA Group, Inc. Common Stock",NYSE,Consumer Cyclical,Restaurants,8100,20016,DC,United States
+ANF,Abercrombie & Fitch Co,NYSE,Consumer Cyclical,Apparel Retail,7200,43054,OH,United States
+OGE,OGE Energy Corp,NYSE,Utilities,Utilities - Regulated Electric,2329,73101-0321,OK,United States
+OLN,Olin Corp,NYSE,Basic Materials,Specialty Chemicals,7326,63105,MO,United States
+CMA,Comerica Inc,NYSE,Financial Services,Banks—Regional,7496,75201-6404,TX,United States
+LYFT,Lyft Inc,NASDAQ,Technology,Software—Application,2945,94107,CA,United States
+UGP,Ultrapar Participacoes SA,NYSE,Energy,Oil & Gas Refining & Marketing,10094,01317-910,SP,Brazil
+AM,Antero Midstream Corp,NYSE,Energy,Oil & Gas Midstream,604,80202,CO,United States
+VNOM,Viper Energy Partners LP,NASDAQ,Energy,Oil & Gas Midstream,0,79701,TX,United States
+CART,Carolina Trust Bancshares Inc,NASDAQ,Consumer Cyclical,Internet Retail,3486,94105,CA,United States
+ARW,Arrow Electronics Inc,NYSE,Technology,Electronics & Computer Distribution,22100,80112,CO,United States
+TNET,TriNet Group Inc,NYSE,Industrials,Staffing & Employment Services,351142,94568,CA,United States
+CR,Crane Co,NYSE,Industrials,Specialty Industrial Machinery,7300,06902,CT,United States
+SFM,Sprouts Farmers Market Inc,NASDAQ,Consumer Defensive,Grocery Stores,32000,85054,AZ,United States
+CSAN,Cosan S.A.,NYSE,Energy,Oil & Gas Refining & Marketing,0,04538-132,SP,Brazil
+KVYO,"Klaviyo, Inc. Series A",NYSE,Technology,Software—Infrastructure,1815,02111,MA,United States
+ATKR,Atkore International Group Inc,NYSE,Industrials,Electrical Equipment & Parts,4816,60426,IL,United States
+AN,AutoNation Inc,NYSE,Consumer Cyclical,Auto & Truck Dealerships,25300,33301,FL,United States
+POST,Post Holdings Inc,NYSE,Consumer Defensive,Packaged Foods,11430,63144,MO,United States
+HXL,Hexcel Corp,NYSE,Industrials,Aerospace & Defense,5590,06901-3261,CT,United States
+VFC,VF Corp,NYSE,Consumer Cyclical,Apparel Manufacturing,19800,80202,CO,United States
+SIGI,Selective Insurance Group Inc,NASDAQ,Financial Services,Insurance - Property & Casualty,2650,07890,NJ,United States
+ATI,Allegheny Technologies Inc,NYSE,Industrials,Metal Fabrication,7300,75201,TX,United States
+BROS,Dutch Bros Inc.,NYSE,Consumer Cyclical,Restaurants,16000,97526,OR,United States
+NOVT,Novanta Inc,NASDAQ,Technology,Scientific & Technical Instruments,2900,01730,MA,United States
+ALGM,Allegro MicroSystems Inc,NASDAQ,Technology,Semiconductors,4687,03103,NH,United States
+GTLS,Chart Industries Inc,NYSE,Industrials,Specialty Industrial Machinery,11637,30107,GA,United States
+BBIO,Bridgebio Pharma Inc,NASDAQ,Healthcare,Biotechnology,550,94304,CA,United States
+HLNE,Hamilton Lane Inc,NASDAQ,Financial Services,Asset Management,600,19428,PA,United States
+SSB,South State Corp,NYSE,Financial Services,Banks—Regional,5070,33880,FL,United States
+FLR,Fluor Corp,NYSE,Industrials,Engineering & Construction,30187,75039,TX,United States
+CMC,Commercial Metals Co,NYSE,Basic Materials,Steel,13022,75039,TX,United States
+KGC,Kinross Gold Corp,NYSE,Basic Materials,Gold,0,M5J 2V5,ON,Canada
+BYD,Boyd Gaming Corp,NYSE,Consumer Cyclical,Resorts & Casinos,16129,89118,NV,United States
+PNFP,Pinnacle Financial Partners Inc,NASDAQ,Financial Services,Banks - Regional,3357,37201,TN,United States
+WAL,Western Alliance Bancorp,NYSE,Financial Services,Banks—Regional,3260,85004,AZ,United States
+QLYS,Qualys Inc,NASDAQ,Technology,Software—Infrastructure,2188,94404,CA,United States
+NE,Noble Corp plc,NYSE,Energy,Oil & Gas Drilling,3600,77478,TX,United States
+MUR,Murphy Oil Corp,NYSE,Energy,Oil & Gas E&P,725,77024,TX,United States
+NEU,NewMarket Corp,NYSE,Basic Materials,Specialty Chemicals,2000,23219-4350,VA,United States
+REYN,Reynolds Consumer Products Inc,NASDAQ,Consumer Cyclical,Packaging & Containers,6000,60045,IL,United States
+WH,Wyndham Hotels & Resorts Inc,NYSE,Consumer Cyclical,Lodging,2300,07054,NJ,United States
+NSIT,Insight Enterprises Inc,NASDAQ,Technology,Electronics & Computer Distribution,14437,85286,AZ,United States
+TMHC,Taylor Morrison Home Corp,NYSE,Consumer Cyclical,Residential Construction,2800,85251,AZ,United States
+CHX,ChampionX Corporation,NASDAQ,Energy,Oil & Gas Equipment & Services,7100,77381,TX,United States
+G,Genpact Ltd,NYSE,Technology,Information Technology Services,129100,HM 12,,Bermuda
+GXO,"GXO Logistics, Inc.",NYSE,Industrials,Integrated Freight & Logistics,87000,06831,CT,United States
+FAF,First American Financial Corp,NYSE,Financial Services,Insurance - Specialty,19210,92707-5913,CA,United States
+ELP,Cia Paranaense de Energia,NYSE,Utilities,Utilities—Diversified,5959,81200-240,PR,Brazil
+FRSH,Freshworks Inc.,NASDAQ,Technology,Software—Application,4900,94403,CA,United States
+CAE,CAE Inc,NYSE,Industrials,Aerospace & Defense,13000,H4T 1G6,QC,Canada
+MARA,Marathon Patent Group Inc,NASDAQ,Financial Services,Capital Markets,60,33301,FL,United States
+DRS,"Leonardo DRS, Inc.",NASDAQ,Industrials,Aerospace & Defense,6600,22202,VA,United States
+BC,Brunswick Corp-DE,NYSE,Consumer Cyclical,Recreational Vehicles,16608,60045-3420,IL,United States
+ESAB,ESAB Corporation,NYSE,Industrials,Metal Fabrication,7700,20852,MD,United States
+MNSO,MINISO Group Holding Ltd,NYSE,Consumer Cyclical,Specialty Retail,3696,510000,,China
+BPOP,Popular Inc,NASDAQ,Financial Services,Banks—Regional,9088,00918,PR,United States
+LFUS,Littelfuse Inc,NASDAQ,Technology,Electronic Components,17000,60631,IL,United States
+WTFC,Wintrust Financial Corp,NASDAQ,Financial Services,Banks - Regional,5521,60018,IL,United States
+ALTM,Altus Midstream Co,NYSE,Basic Materials,Specialty Chemicals,1470,V14 E370,TX,Ireland
+TKR,Timken Co-The,NYSE,Industrials,Tools & Accessories,19602,44720-5450,OH,United States
+RRR,Red Rock Resorts Inc,NASDAQ,Consumer Cyclical,Resorts & Casinos,9385,89135,NV,United States
+GRFS,Grifols SA,NASDAQ,Healthcare,Drug Manufacturers—General,23000,08174,,Spain
+OBDC,Owl Rock Capital Corp,NYSE,Financial Services,Credit Services,0,10022,NY,United States
+CIGI,Colliers International Group Inc,NASDAQ,Real Estate,Real Estate Services,19230,M5S 2B4,ON,Canada
+RCM,R1 RCM Inc,NASDAQ,Healthcare,Health Information Services,29400,84123,UT,United States
+SMAR,Smartsheet Inc,NYSE,Technology,Software—Application,3370,98004,WA,United States
+FYBR,"Frontier Communications Parent, Inc.",NASDAQ,Communication Services,Telecom Services,13300,75201,TX,United States
+MLI,Mueller Industries Inc,NYSE,Industrials,Metal Fabrication,4509,38017,TN,United States
+GIL,Gildan Activewear Inc,NYSE,Consumer Cyclical,Apparel Manufacturing,43000,H3A 3J2,QC,Canada
+WHR,Whirlpool Corp,NYSE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",59000,49022-2692,MI,United States
+FTAI,Fortress Transportation & Infrastructure Investors LLC,NASDAQ,Industrials,Rental & Leasing Services,170,10105,NY,United States
+OMF,OneMain Holdings Inc,NYSE,Financial Services,Credit Services,9100,47708-1013,IN,United States
+PBF,PBF Energy Inc,NYSE,Energy,Oil & Gas Refining & Marketing,3776,07054,NJ,United States
+BPMC,Blueprint Medicines Corp,NASDAQ,Healthcare,Biotechnology,655,02139,MA,United States
+PB,Prosperity Bancshares Inc,NYSE,Financial Services,Banks - Regional,3850,77027,TX,United States
+BLCO,Bausch + Lomb Corporation,NYSE,Healthcare,Medical Instruments & Supplies,13300,L4K 4B4,ON,Canada
+MTH,Meritage Homes Corp,NYSE,Consumer Cyclical,Residential Construction,1838,85255,AZ,United States
+CIG,Cia Energetica de Minas Gerais,NYSE,Utilities,Utilities - Diversified,4969,30190-131,MG,Brazil
+ENLC,EnLink Midstream LLC,NYSE,Energy,Oil & Gas Midstream,1072,75201,TX,United States
+ZION,Zions Bancorp NA,NASDAQ,Financial Services,Banks - Regional,9679,84133-1109,UT,United States
+TRNO,Terreno Realty Corp,NYSE,Real Estate,REIT—Industrial,42,98004-8617,WA,United States
+ESNT,Essent Group Ltd,NYSE,Financial Services,Insurance—Specialty,536,,,Bermuda
+ESI,Element Solutions Inc,NYSE,Basic Materials,Specialty Chemicals,5300,33394,FL,United States
+ADC,Agree Realty Corp,NYSE,Real Estate,REIT - Retail,72,48073,MI,United States
+BRZE,"Braze, Inc. Class A Common Stock",NASDAQ,Technology,Software - Application,1501,10001,NY,United States
+LANC,Lancaster Colony Corp,NASDAQ,Consumer Defensive,Packaged Foods,3400,43082,OH,United States
+TENB,Tenable Holdings Inc,NASDAQ,Technology,Software—Infrastructure,1999,21044,MD,United States
+MSM,MSC Industrial Direct Co Inc,NYSE,Industrials,Industrial Distribution,7000,11747,NY,United States
+MXCT,"MaxCyte, Inc.",NASDAQ,Healthcare,Medical Devices,125,20850,MD,United States
+BALY,Bally's Corporation,NYSE,Consumer Cyclical,Resorts & Casinos,10500,02903,RI,United States
+SRI,Stoneridge Inc,NYSE,Consumer Cyclical,Auto Parts,4850,48377,MI,United States
+IVVD,Invivyd Inc,NASDAQ,Healthcare,Biotechnology,84,02451,MA,United States
+BWMN,Bowman Consulting Group Ltd.,NASDAQ,Industrials,Engineering & Construction,1600,20191,VA,United States
+EQBK,Equity Bancshares Inc,NYSE,Financial Services,Banks—Regional,732,67207,KS,United States
+SD,SandRidge Energy Inc,NYSE,Energy,Oil & Gas E&P,102,73104,OK,United States
+DJCO,Daily Journal Corp,NASDAQ,Technology,Software—Application,350,90012,CA,United States
+ATLC,Atlanticus Holdings Corp,NASDAQ,Financial Services,Credit Services,386,30328,GA,United States
+LSEA,Landsea Homes Corporation,NASDAQ,Real Estate,Real Estate - Development,497,75202,TX,United States
+DENN,Denny's Corp,NASDAQ,Consumer Cyclical,Restaurants,3500,29319-9966,SC,United States
+SMBC,Southern Missouri Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,665,63901,MO,United States
+GUTS,"Fractyl Health, Inc. Common Stock",NASDAQ,Healthcare,Biotechnology,88,02421,MA,United States
+ASLE,AerSale Corporation,NASDAQ,Industrials,Airports & Air Services,606,33134,FL,United States
+CCBG,Capital City Bank Group Inc,NASDAQ,Financial Services,Banks—Regional,992,32301,FL,United States
+VPG,Vishay Precision Group Inc,NYSE,Technology,Scientific & Technical Instruments,2300,19355,PA,United States
+LWLG,"Lightwave Logic, Inc.",NASDAQ,Basic Materials,Specialty Chemicals,33,80112,CO,United States
+OFIX,Orthofix Medical Inc,NASDAQ,Healthcare,Medical Devices,1634,75056,TX,United States
+AEON,"AEON Biopharma, Inc.",NYSE,Healthcare,Biotechnology,8,92614,CA,United States
+LIND,Lindblad Expeditions Holdings Inc,NASDAQ,Consumer Cyclical,Travel Services,870,10014,NY,United States
+LND,BrasilAgro - Co Brasileira de Propriedades Agricolas,NYSE,Consumer Defensive,Farm Products,0,01452-002,SP,Brazil
+MTW,Manitowoc Co Inc-The,NYSE,Industrials,Farm & Heavy Construction Machinery,4800,53224,WI,United States
+CTLP,"Cantaloupe, Inc.",NASDAQ,Technology,Information Technology Services,280,19355,PA,United States
+RSVR,"Reservoir Media, Inc.",NASDAQ,Communication Services,Entertainment,92,10014,NY,United States
+ABUS,Arbutus Biopharma Corp,NASDAQ,Healthcare,Biotechnology,96,18974,PA,United States
+AMNB,American National Bankshares Inc,NASDAQ,Financial Services,Banks—Regional,352,24541,VA,United States
+NN,NextNav Inc.,NASDAQ,Technology,Software—Infrastructure,106,22102,VA,United States
+LAND,Gladstone Land Corp,NASDAQ,Real Estate,REIT—Specialty,0,22102-3211,VA,United States
+FPH,Five Point Holdings LLC,NYSE,Real Estate,Real Estate - Development,105,92618,CA,United States
+HCAT,Health Catalyst Inc,NASDAQ,Healthcare,Health Information Services,1300,84095,UT,United States
+ESPR,Esperion Therapeutics Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,240,48108,MI,United States
+JOUT,Johnson Outdoors Inc,NASDAQ,Consumer Cyclical,Leisure,1400,53403,WI,United States
+ALNT,Allient Inc,NASDAQ,Technology,Electronic Components,2287,14228,NY,United States
+RXT,Rackspace Technology Inc,NASDAQ,Technology,Software - Infrastructure,6800,78218,TX,United States
+CATX,"Perspective Therapeutics, Inc. Common Stock",NYSE,Healthcare,Medical Devices,91,99354,WA,United States
+GCBC,Greene County Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,195,12414,NY,United States
+ANNX,"Annexon, Inc.",NASDAQ,Healthcare,Biotechnology,76,94005,CA,United States
+RGP,Resources Connection Inc,NASDAQ,Industrials,Consulting Services,850,92614,CA,United States
+EGY,VAALCO Energy Inc,NYSE,Energy,Oil & Gas E&P,185,77042,TX,United States
+TPB,Turning Point Brands Inc,NYSE,Consumer Defensive,Tobacco,373,40229,KY,United States
+ZH,Zhihu Inc.,NYSE,Communication Services,Internet Content & Information,2515,100083,,China
+VTRU,Vitru Limited,NASDAQ,Consumer Defensive,Education & Training Services,0,88032-005,SC,Brazil
+DGICA,Donegal Group Inc,NASDAQ,Financial Services,Insurance - Property & Casualty,0,17547-0302,PA,United States
+CWCO,Consolidated Water Co Ltd,NASDAQ,Utilities,Utilities—Regulated Water,223,KY1-1102,,Cayman Islands
+RCEL,Avita Medical Ltd,NASDAQ,Healthcare,Medical Devices,207,91355,CA,United States
+CLFD,Clearfield Inc,NASDAQ,Technology,Communication Equipment,400,55428,MN,United States
+DGICB,Donegal Group Inc,NASDAQ,Financial Services,Insurance - Property & Casualty,0,17547-0302,PA,United States
+AXGN,AxoGen Inc,NASDAQ,Healthcare,Medical Devices,426,32615,FL,United States
+ZIMV,ZimVie Inc.,NASDAQ,Healthcare,Medical Devices,2600,80021,CO,United States
+ALCC,AltC Acquisition Corp.,NYSE,Financial Services,Shell Companies,0,10019,NY,United States
+TRDA,"Entrada Therapeutics, Inc.",NASDAQ,Healthcare,Biotechnology,150,02210,MA,United States
+ADTN,ADTRAN Inc,NASDAQ,Technology,Communication Equipment,3307,35806-2807,AL,United States
+HONE,HarborOne Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,529,02301,MA,United States
+CAC,Camden National Corp,NASDAQ,Financial Services,Banks—Regional,630,04843,ME,United States
+SRDX,Surmodics Inc,NASDAQ,Healthcare,Medical Devices,376,55344-3523,MN,United States
+AVAH,Aveanna Healthcare Holdings Inc.,NASDAQ,Healthcare,Medical Care Facilities,33700,30339,GA,United States
+HAFC,Hanmi Financial Corp,NASDAQ,Financial Services,Banks—Regional,615,90017,CA,United States
+AURA,"Aura Biosciences, Inc.",NASDAQ,Healthcare,Biotechnology,70,02135,MA,United States
+STTK,Shattuck Labs Inc,NASDAQ,Healthcare,Biotechnology,105,78701,TX,United States
+MCS,Marcus Corp-The,NYSE,Communication Services,Entertainment,2801,53202-4125,WI,United States
+TBPH,Theravance Biopharma Inc,NASDAQ,Healthcare,Biotechnology,99,94080,CA,United States
+TGB,Taseko Mines Ltd,NYSE,Basic Materials,Copper,0,V6E 4H1,BC,Canada
+KODK,Eastman Kodak Co,NYSE,Industrials,Specialty Business Services,4200,14650,NY,United States
+TERN,"Terns Pharmaceuticals, Inc.",NASDAQ,Healthcare,Biotechnology,46,94404,CA,United States
+HTBI,HomeTrust Bancshares Inc,NASDAQ,Financial Services,Banks - Regional,532,28801,NC,United States
+MGX,"Metagenomi, Inc. Common Stock",NASDAQ,Healthcare,Biotechnology,223,94608,CA,United States
+NTGR,NETGEAR Inc,NASDAQ,Technology,Communication Equipment,635,95134,CA,United States
+NFBK,Northfield Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,397,07095,NJ,United States
+TRC,Tejon Ranch Co,NYSE,Industrials,Conglomerates,78,93243,CA,United States
+BETR,Better Home & Finance Holding Co.,NASDAQ,Financial Services,Mortgage Finance,1300,10007,NY,United States
+ORC,Orchid Island Capital Inc,NYSE,Real Estate,REIT—Mortgage,0,32963,FL,United States
+GDEV,Nexters Inc.,NASDAQ,Communication Services,Electronic Gaming & Multimedia,848,3101,,Cyprus
+URG,Ur-Energy Inc,NYSE,Energy,Uranium,36,80127,CO,United States
+RDZN,Roadzen Inc,NASDAQ,Technology,Software—Application,324,,,India
+WTI,W&T Offshore Inc,NYSE,Energy,Oil & Gas E&P,365,77057-5745,TX,United States
+PNNT,PennantPark Investment Corp,NYSE,Financial Services,Asset Management,0,33139,FL,United States
+GHRS,GH Research PLC,NASDAQ,Healthcare,Biotechnology,32,D02 RY95,,Ireland
+GATO,Gatos Silver Inc,NYSE,Basic Materials,Other Precious Metals & Mining,19,V6C 3L2,BC,Canada
+EHAB,Enhabit Inc,NYSE,Healthcare,Medical Care Facilities,10000,75206,TX,United States
+GLAD,Gladstone Capital Corp,NASDAQ,Financial Services,Asset Management,0,22102,VA,United States
+TSAT,Telesat Corporation,NASDAQ,Technology,Communication Equipment,455,K2P 2P7,ON,Canada
+MED,Medifast Inc,NYSE,Consumer Cyclical,Personal Services,634,21202,MD,United States
+BBCP,Concrete Pumping Holdings Inc,NASDAQ,Industrials,Engineering & Construction,1720,80229,CO,United States
+BLZE,"Backblaze, Inc.",NASDAQ,Technology,Software—Infrastructure,393,94401,CA,United States
+CELC,Celcuity Inc,NASDAQ,Healthcare,Biotechnology,45,55446,MN,United States
+XERS,Xeris Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,355,60601,IL,United States
+SVM,Silvercorp Metals Inc,NYSE,Basic Materials,Silver,0,V6E 3X1,BC,Canada
+MVIS,MicroVision Inc,NASDAQ,Technology,Scientific & Technical Instruments,340,98052,WA,United States
+WASH,Washington Trust Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,665,02891,RI,United States
+GLRE,Greenlight Capital Re Ltd,NASDAQ,Financial Services,Insurance—Reinsurance,48,KY1-1205,,Cayman Islands
+IVR,Invesco Mortgage Capital Inc,NYSE,Real Estate,REIT - Mortgage,0,30309,GA,United States
+AVNW,Aviat Networks Inc,NASDAQ,Technology,Communication Equipment,685,78728,TX,United States
+ANSC,Agriculture & Natural Solutions Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,10019,NY,United States
+OCS,Oculis Holding AG - Ordinary shares,NASDAQ,Healthcare,Biotechnology,28,6300,,Switzerland
+OSG,Overseas Shipholding Group Inc,NYSE,Energy,Oil & Gas Midstream,1023,33602,FL,United States
+DHIL,Diamond Hill Investment Group Inc,NASDAQ,Financial Services,Asset Management,129,43215,OH,United States
+EAF,GrafTech International Ltd,NYSE,Industrials,Electrical Equipment & Parts,1249,44131,OH,United States
+THFF,First Financial Corp-IN,NASDAQ,Financial Services,Banks - Regional,900,47807,IN,United States
+CVRX,"CVRx, Inc.",NASDAQ,Healthcare,Medical Devices,200,55445,MN,United States
+SLAM,Slam Corp.,NASDAQ,Financial Services,Shell Companies,0,10001,NY,United States
+AVXL,Anavex Life Sciences Corp,NASDAQ,Healthcare,Biotechnology,40,10111,NY,United States
+AMRN,Amarin Corp PLC,NASDAQ,Healthcare,Drug Manufacturers—General,275,112-114,,Ireland
+CRMT,America's Car-Mart Inc-TX,NASDAQ,Consumer Cyclical,Auto & Truck Dealerships,2260,72756,AR,United States
+FFWM,First Foundation Inc,NYSE,Financial Services,Banks—Regional,567,75201,TX,United States
+DCGO,DocGo Inc.,NASDAQ,Healthcare,Medical Care Facilities,2915,10001,NY,United States
+OLP,One Liberty Properties Inc,NYSE,Real Estate,REIT—Diversified,10,11021-3104,NY,United States
+AUDC,AudioCodes Ltd,NASDAQ,Technology,Communication Equipment,966,7019900,,Israel
+ALRS,Alerus Financial Corp,NASDAQ,Financial Services,Banks—Regional,773,58201,ND,United States
+BTMD,Biote Corp,NASDAQ,Healthcare,Medical Care Facilities,186,75038,TX,United States
+GDOT,Green Dot Corp,NYSE,Financial Services,Credit Services,1200,78701,TX,United States
+NYXH,Nyxoah S.A.,NASDAQ,Healthcare,Medical Instruments & Supplies,137,1435,,Belgium
+SPFI,South Plains Financial Inc,NASDAQ,Financial Services,Banks - Regional,600,79407,TX,United States
+FBLG,"FibroBiologics, Inc. Common Stock",NASDAQ,Healthcare,Biotechnology,10,77598,TX,United States
+ACRE,Ares Commercial Real Estate Corp,NYSE,Real Estate,REIT - Mortgage,0,10167,NY,United States
+PGC,Peapack Gladstone Financial Corp,NASDAQ,Financial Services,Banks—Regional,498,07921,NJ,United States
+CLOV,"Clover Health Investments, Corp.",NASDAQ,Healthcare,Healthcare Plans,656,37067,TN,United States
+CCG,Cheche Group Inc. - Class A Ordinary Shares,NASDAQ,Communication Services,Internet Content & Information,635,100088,,China
+DOMO,Domo Inc,NASDAQ,Technology,Software—Application,967,84003,UT,United States
+MCB,Metropolitan Bank Holding Corp,NYSE,Financial Services,Banks—Regional,275,10016,NY,United States
+PGEN,Precigen Inc,NASDAQ,Healthcare,Biotechnology,209,20876,MD,United States
+NPCE,"NeuroPace, Inc.",NASDAQ,Healthcare,Medical Devices,169,94043,CA,United States
+ONEW,OneWater Marine Inc,NASDAQ,Consumer Cyclical,Specialty Retail,2319,30518,GA,United States
+NVEC,NVE Corp,NASDAQ,Technology,Semiconductors,51,55344-3617,MN,United States
+EPIX,Essa Pharma Inc,NASDAQ,Healthcare,Biotechnology,50,V5Z 1K5,BC,Canada
+LYTS,LSI Industries Inc,NASDAQ,Technology,Electronic Components,1600,45242,OH,United States
+FARO,FARO Technologies Inc,NASDAQ,Technology,Scientific & Technical Instruments,1243,32746,FL,United States
+TMC,TMC the metals company Inc.,NASDAQ,Basic Materials,Other Industrial Metals & Mining,39,V6C 2T5,BC,Canada
+GFR,Greenfire Resources Ltd. Common Shares,NYSE,Energy,Oil & Gas E&P,165,T2P 2V7,AB,Canada
+ESQ,Esquire Financial Holdings Inc,NASDAQ,Financial Services,Banks—Regional,116,11753,NY,United States
+THRD,Third Harmonic Bio Inc,NASDAQ,Healthcare,Biotechnology,32,02139,MA,United States
+CCNE,CNB Financial Corp-PA,NASDAQ,Financial Services,Banks—Regional,722,16830,PA,United States
+PBPB,Potbelly Corp,NASDAQ,Consumer Cyclical,Restaurants,6000,60606,IL,United States
+NBN,Northeast Bank,NASDAQ,Financial Services,Banks—Regional,182,04101,ME,United States
+STRW,"Strawberry Fields REIT, Inc.",NYSE,Real Estate,REIT—Healthcare Facilities,8,46628,IN,United States
+FSBC,FSB Bancorp Inc-NY,NASDAQ,Financial Services,Banks—Regional,180,95670,CA,United States
+BHRB,"Burke & Herbert Bank & Trust Co. (Alexandria, VA)",NASDAQ,Financial Services,Banks—Regional,404,22314,VA,United States
+LXEO,"Lexeo Therapeutics, Inc.",NASDAQ,Healthcare,Biotechnology,0,10010,NY,United States
+IAUX,i-80 Gold Corp.,NYSE,Basic Materials,Gold,0,89502,NV,United States
+LAW,"CS Disco, Inc.",NYSE,Technology,Software—Application,543,78701,TX,United States
+MGTX,MeiraGTx Holdings plc,NASDAQ,Healthcare,Biotechnology,407,10016,NY,United States
+RMR,RMR GROUP INC-THE - A,NASDAQ,Real Estate,Real Estate Services,600,02458-1634,MA,United States
+NGNE,Neurogene Inc.,NASDAQ,Healthcare,Biotechnology,82,10011,NY,United States
+AROW,Arrow Financial Corp,NASDAQ,Financial Services,Banks - Regional,500,12801,NY,United States
+GBLI,Global Indemnity Ltd,NYSE,Financial Services,Insurance—Property & Casualty,355,19801,DE,United States
+ACTG,Acacia Research Corp,NASDAQ,Industrials,Business Equipment & Supplies,263,10017,NY,United States
+INZY,"Inozyme Pharma, Inc.",NASDAQ,Healthcare,Biotechnology,56,02210,MA,United States
+ITOS,"iTeos Therapeutics, Inc.",NASDAQ,Healthcare,Biotechnology,125,02472,MA,United States
+STEM,"Stem, Inc.",NYSE,Technology,Software—Infrastructure,624,94111,CA,United States
+ARMN,Aris Mining Corporation Common Shares,NYSE,Basic Materials,Gold,0,V6C 0A3,BC,Canada
+MODV,ModivCare Inc.,NASDAQ,Healthcare,Medical Care Facilities,21200,80237,CO,United States
+NCMI,National CineMedia Inc,NASDAQ,Communication Services,Advertising Agencies,297,80111,CO,United States
+ANRO,"Alto Neuroscience, Inc.",NYSE,Healthcare,Biotechnology,0,94022,CA,United States
+NETD,Nabors Energy Transition Corp. II - Class A Ordinary Shares,NASDAQ,Financial Services,Shell Companies,0,77067,TX,United States
+VALU,Value Line Inc,NASDAQ,Financial Services,Financial Data & Stock Exchanges,138,10176-0001,NY,United States
+HRZN,Horizon Technology Finance Corp,NASDAQ,Financial Services,Asset Management,0,06032-2586,CT,United States
+OPY,Oppenheimer Holdings Inc,NYSE,Financial Services,Capital Markets,2916,10004,NY,United States
+VNET,21Vianet Group Inc,NASDAQ,Technology,Information Technology Services,3293,100016,,China
+SGU,Star Group LP,NYSE,Energy,Oil & Gas Refining & Marketing,3052,06902,CT,United States
+ZYXI,Zynex Inc,NASDAQ,Healthcare,Medical Distribution,900,80112,CO,United States
+OSPN,OneSpan Inc,NASDAQ,Technology,Software—Infrastructure,814,02210,MA,United States
+BOTRF,China Everbright Water Ltd.,OTC,Utilities,Utilities—Regulated Water,1755,518000,,China
+FNRC,1st NRG Corp.,OTC,Energy,Oil & Gas E&P,0,80202,CO,United States
+SZKMY,Suzuki Motor Co.,OTC,Consumer Cyclical,Auto Manufacturers,70012,432-8611,,Japan
+BKIRF,Black Iron Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,6,M5R 1J2,ON,Canada
+JSCPF,JSR Corp.,OTC,Basic Materials,Specialty Chemicals,7994,105-8640,,Japan
+OITAF,Oita Bank Ltd.,OTC,Financial Services,Banks - Regional,1750,870-0021,,Japan
+MRZM,"Marizyme, Inc.",OTC,Healthcare,Biotechnology,13,33458,FL,United States
+SOFI,"SoFi Technologies, Inc.",NASDAQ,Financial Services,Credit Services,4400,94105,CA,United States
+EOFBF,Ecofibre Limited,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,2000,NSW,Australia
+KPCUF,KASIKORNBANK Public Co. Ltd.,OTC,Financial Services,Banks - Regional,0,10400,,Thailand
+HMFAF,Hammond Manufacturing Company Limited,OTC,Industrials,Electrical Equipment & Parts,988,N1H 1E5,ON,Canada
+HHBT,HH Biotechnology Holdings Company,OTC,Real Estate,Real Estate Services,121,110003,,China
+OIBZQ,Oi SA,OTC,Communication Services,Telecom Services,6490,20230-070,RJ,Brazil
+SRE,Sempra Energy,NYSE,Utilities,Utilities - Diversified,16835,92101,CA,United States
+LMTI,"Laser Master International, Inc.",OTC,Industrials,Specialty Business Services,18,07029,NJ,United States
+CXDO,"Crexendo, Inc.",NASDAQ,Communication Services,Telecom Services,176,85281,AZ,United States
+WALDW,Waldencast plc,NASDAQ,Technology,Software - Application,272,10606,NY,United States
+SSLLF,Siltronic AG,OTC,Technology,Semiconductors,4500,81677,,Germany
+ASMVF,ASM Pacific Technology,OTC,Technology,Semiconductor Equipment & Materials,10800,768924,,Singapore
+CIMDF,CIMB Group Holdings BHD,OTC,Financial Services,Banks - Regional,33000,50470,,Malaysia
+KALA,Kala Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,34,02476,MA,United States
+CARM,"Carisma Therapeutics, Inc. - Common Stock",NASDAQ,Healthcare,Biotechnology,0,19104,PA,United States
+SFSHF,Safestore Holdings plc,OTC,Real Estate,REIT—Industrial,753,WD6 2BT,,United Kingdom
+VOCLD,CREATD INC.,OTC,Communication Services,Internet Content & Information,14,10003,NY,United States
+VVCVF,VVC Exploration Corp.,OTC,Energy,Oil & Gas E&P,0,M1N 4E7,ON,Canada
+EFIN,Eastern Michigan Financial Corp.,OTC,Financial Services,Banks—Regional,0,48422,MI,United States
+CGBDL,"Carlyle Secured Lending, Inc.",NASDAQ,,,0,,,United States
+SRSCQ,Sears Canada Inc.,OTC,Consumer Cyclical,Department Stores,15783,M5B 2C3,ON,Canada
+YORUF,"Yokohama Rubber Co., Ltd.",OTC,Consumer Cyclical,Auto Parts,28468,105-8685,,Japan
+PCG.PR.H,Pacific Gas & Electric Co,NYSE,,,27990,94612,CA,United States
+DHI,DR Horton Inc,NYSE,Consumer Cyclical,Residential Construction,13450,76011,TX,United States
+CODX,Co-Diagnostics Inc,NASDAQ,Healthcare,Medical Devices,145,84109,UT,United States
+KCGI.UN,Kensington Capital Acquisition Corp. V,NYSE,Financial Services,Shell Companies,0,11590,NY,United States
+BWAGF,BAWAG Group AG,OTC,Financial Services,Banks - Regional,2117,1100,,Austria
+BBLNF,BABYLON HLDGS LTD A NEW,OTC,Healthcare,Health Information Services,1895,78746,TX,United States
+AYTU,Aytu BioScience Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,150,80237,CO,United States
+ILLMF,ILLUMIN HOLDINGS INC,OTC,Communication Services,Advertising Agencies,226,M5J 2M4,ON,Canada
+TUXS,Tuxis Corp.,OTC,,,0,12545,NY,United States
+RINIF,Rinnai Corp.,OTC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",11150,454-0802,,Japan
+PHRRF,PharmaTher Holdings Ltd.,OTC,Healthcare,Biotechnology,0,M5C 1P1,ON,Canada
+NLLGF,Nilorngruppen AB,OTC,Consumer Cyclical,Apparel Manufacturing,593,501 13,,Sweden
+VIZG,VisionGlobal Corp.,OTC,Communication Services,Telecom Services,0,94108,CA,United States
+HGYN,HONG YUAN HLDG GROUP,OTC,Financial Services,Shell Companies,0,450000,,China
+ARSSF,Assura Plc,OTC,Real Estate,REIT - Healthcare Facilities,86,WA14 1GY,,United Kingdom
+STG,Sunlands Technology Group,NYSE,Consumer Defensive,Education & Training Services,2318,100012,,China
+COWP,Canal Capital Corp.,OTC,Real Estate,Real Estate—Development,25,11776,NY,United States
+FNCH,"Finch Therapeutics Group, Inc.",NASDAQ,Healthcare,Biotechnology,18,02143,MA,United States
+JNHMF,Jack Nathan Medical Corp.,OTC,Healthcare,Medical Care Facilities,0,L4H 0R6,ON,Canada
+BLKLF,Blackline Safety Corp,OTC,Technology,Software—Application,496,T2G 1P5,AB,Canada
+GTN.A,Gray Television Inc,NYSE,Communication Services,Broadcasting,9374,30319,GA,United States
+AYAAF,Ayala Land Inc.,OTC,Real Estate,Real Estate—Development,0,1226,,Philippines
+CRDF,"Cardiff Oncology, Inc.",NASDAQ,Healthcare,Biotechnology,25,92121,CA,United States
+PMCUF,Pro Medicus Limited,OTC,Healthcare,Health Information Services,0,3121,VIC,Australia
+BCAP,"Baron Capital Enterprise, Inc.",OTC,Financial Services,Credit Services,1,33309,FL,United States
+CMGHY,Chaoda Modern Agriculture Holdings Ltd.,OTC,Consumer Defensive,Farm Products,92,,,Hong Kong
+OPTT,Ocean Power Technologies Inc,NYSE,Industrials,Specialty Industrial Machinery,72,08831,NJ,United States
+RPHCF,"Rohto Pharmaceutical Co.,Ltd.",OTC,Consumer Defensive,Household & Personal Products,7176,544-8666,,Japan
+PEYTF,PARALLEL ENERGY TR,OTC,,,54,T2P 3N9,AB,Canada
+ELVAF,Evolva Holding AG,OTC,Healthcare,Biotechnology,49,4153,,Switzerland
+PRMRF,Paramount Resources Ltd.,OTC,Energy,Oil & Gas E&P,526,T2P 5C5,AB,Canada
+BAYRY,Bayer A.G.,OTC,Healthcare,Drug Manufacturers - General,96931,51368,,Germany
+XTMIF,XTM Inc.,OTC,Technology,Information Technology Services,0,M6K 3E3,ON,Canada
+SNBIF,SanBio Company Limited,OTC,Healthcare,Biotechnology,65,104-0044,,Japan
+AWRS,All World Resources Corp.,OTC,Technology,Software—Application,0,48708,MI,United States
+VFS,Vinfast Auto Ltd.,NASDAQ,Consumer Cyclical,Auto Manufacturers,15879,,,Vietnam
+SLNG,"Stabilis Energy, Inc.",NASDAQ,Energy,Oil & Gas Integrated,99,77079,TX,United States
+TXO,"MorningStar Partners, L.P.",NYSE,Energy,Oil & Gas E&P,184,76102,TX,United States
+SUI,Sun Communities Inc,NYSE,Real Estate,REIT—Residential,6733,48034-8205,MI,United States
+INBKZ,First Internet Bancorp,NASDAQ,,,0,,,United States
+MEDVF,MEDIVOLVE INC.,OTC,Healthcare,Diagnostics & Research,25,M5H 2M5,ON,Canada
+PSA.PR.N,Public Storage,NYSE,Real Estate,REIT—Industrial,6200,91201-2349,CA,United States
+PFBN,Pacific Alliance Bank (CA),OTC,Financial Services,Banks - Regional,0,91776,CA,United States
+SYHLF,"Symphony Holdings, Ltd.",OTC,Consumer Cyclical,Specialty Retail,301,,,Hong Kong
+VLMTY,Valmet OYJ,OTC,Industrials,Specialty Industrial Machinery,16937,02150,,Finland
+GOCOF,Go Metals Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1H2,BC,Canada
+OCLDY,Orica Ltd.,OTC,Basic Materials,Specialty Chemicals,12500,3002,VIC,Australia
+MDVT,Middlebury National Corp.,OTC,Financial Services,Banks—Regional,0,05753-0189,VT,United States
+DMAQR,Deep Medicine Acquisition Corp.,NASDAQ,,,0,10017,NY,United States
+OUST.WT,"Ouster, Inc.",NYSE,,,0,,,United States
+MMM,3M Co,NYSE,Industrials,Conglomerates,85000,55144-1000,MN,United States
+VABK,Virginia National Bankshares Corporation,NASDAQ,Financial Services,Banks—Regional,157,22911,VA,United States
+PBCRY,PT Bank Central Asia,OTC,Financial Services,Banks - Regional,27273,10310,,Indonesia
+CAJPY,CANON INC,OTC,Technology,Computer Hardware,169151,146-8501,,Japan
+GXYYY,"Galaxy Entertainment Group, Ltd.",OTC,Consumer Cyclical,Resorts & Casinos,18600,,,Hong Kong
+LMHB,Legg Mason Inc,NYSE,,,0,,,United States
+STHRF,,OTC,Energy,Oil & Gas E&P,193,T2P 4K9,AB,Canada
+ACRG,American Clean Resources Group Inc.,OTC,Basic Materials,Other Precious Metals & Mining,0,80228-2039,CO,United States
+MLTNF,MOLTEN METALS CORP.,OTC,Basic Materials,Gold,0,V6E 3V7,BC,Canada
+TODM,Tonopah Divide Mining Co.,OTC,Basic Materials,Gold,0,95947,CA,United States
+WEIGF,Weir Group PLC,OTC,Industrials,Specialty Industrial Machinery,12627,G2 1RW,,United Kingdom
+EDN,Empresa Distribuidora Y Comercializadora Norte,NYSE,Utilities,Utilities—Regulated Electric,4658,,,Argentina
+CYFL,Century Financial Corp.,OTC,Financial Services,Banks—Regional,0,49036,MI,United States
+SGTB,"Suggestion Box, Inc.",OTC,Financial Services,Shell Companies,0,85260,AZ,United States
+DGP,DB Gold Double Long Exchange Traded Notes,NYSE,,,0,,,United States
+PGOL,Patriot Gold Corp.,OTC,Basic Materials,Gold,0,89502,NV,United States
+PWWBF,Powerband Solutions Inc.,OTC,Technology,Software - Application,0,L7N 6B2,ON,Canada
+AIG.PR.A,American International Group Inc,NYSE,Financial Services,Insurance—Diversified,25000,10020,NY,United States
+DSWL,Deswell Industries Inc,NASDAQ,Technology,Electronic Components,941,,,Macau
+OFLX,Omega Flex Inc,NASDAQ,Industrials,Specialty Industrial Machinery,177,19341-2509,PA,United States
+CCZ,"COMCAST 2.0% EX SB 101529""ZONE",NYSE,,,0,,,United States
+SHCO,Soho House & Co Inc,NYSE,Consumer Cyclical,Lodging,7714,10011,NY,United States
+NSAUF,Megumagold Corp.,OTC,Basic Materials,Gold,0,V6C 1H2,BC,Canada
+ENVX,Enovix Corporation,NASDAQ,Industrials,Electrical Equipment & Parts,560,94538,CA,United States
+XNDRF,Xander Resources Inc.,OTC,Basic Materials,Gold,0,V6Z 2K8,BC,Canada
+KBGGY,Kongsberg Gruppen ASA,OTC,Industrials,Aerospace & Defense,13341,3616,,Norway
+RNMNS,RSE ARCHIVE LLC.,OTC,,,0,,,United States
+CDIXD,Cardiff Lexington Corporation,OTC,Financial Services,Asset Management,17,89109,NV,United States
+BAC.PR.O,Bank of America Corporation,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+TTEK,Tetra Tech Inc,NASDAQ,Industrials,Engineering & Construction,27000,91107-6024,CA,United States
+ABVX,Abivax SA,NASDAQ,Healthcare,Biotechnology,26,75009,,France
+BMA,Banco Macro SA,NYSE,Financial Services,Banks - Regional,9192,,,Argentina
+HWKRF,Hawkmoon Resources Corp.,OTC,Basic Materials,Gold,0,V6C 1T2,BC,Canada
+WIHLY,Wihlborgs Fastigheter AB,OTC,Real Estate,Real Estate Services,218,201 20,,Sweden
+IHRT,iHeartMedia Inc,NASDAQ,Communication Services,Broadcasting,9180,78258,TX,United States
+MRSN,Mersana Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,123,02139,MA,United States
+DYSL,Dynasil Corp of America,OTC,Technology,Scientific & Technical Instruments,207,02458,MA,United States
+CENBF,"Cen Biotech, Inc.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,4,N8T 3R9,ON,Canada
+AITX,Artificial Intelligence Technology Solutions Inc.,OTC,Technology,Computer Hardware,90,48220,MI,United States
+TPLWF,Temple & Webster Group Ltd.,OTC,Consumer Cyclical,Internet Retail,0,2044,NSW,Australia
+GBLBF,Groupe Bruxelles Lambert SA,OTC,Financial Services,Asset Management,57,1000,,Belgium
+BLUU,"Blue Water Global Group, Inc.",OTC,Consumer Cyclical,Restaurants,0,30114,GA,United States
+CGFEF,CF Energy Corp.,OTC,Utilities,Utilities—Regulated Gas,0,L3R 8T3,ON,Canada
+TTCM,Tautachrome Inc.,OTC,Technology,Software - Application,0,85755,AZ,United States
+WDAY,Workday Inc,NASDAQ,Technology,Software - Application,18369,94588,CA,United States
+VMXXF,VALHALLA METALS INC,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 4E5,BC,Canada
+SGD,Safe and Green Development Corporation - Common Stock,NASDAQ,Real Estate,Real Estate - Development,2,33132,FL,United States
+POLC,Polishedcom Inc,NYSE,Consumer Cyclical,Specialty Retail,391,11214,NY,United States
+BPMUF,Basilea Pharmaceutica AG,OTC,Healthcare,Biotechnology,147,4123,,Switzerland
+PRMO,"Prom Resources, Inc.",OTC,Consumer Cyclical,Restaurants,15,32806,FL,United States
+DTNOY,DNO ASA,OTC,Energy,Oil & Gas E&P,1449,0250,,Norway
+SDXEF,SDX ENERGY PLC.,OTC,Energy,Oil & Gas E&P,62,W1G 8DP,,United Kingdom
+SHAK,Shake Shack Inc,NYSE,Consumer Cyclical,Restaurants,12196,10014,NY,United States
+MAQCU,Maquia Capital Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,33132,FL,United States
+CAPMF,Capgemini SE,OTC,Technology,Information Technology Services,340400,75017,,France
+ENGN,enGene Holdings Inc.,NASDAQ,Healthcare,Biotechnology,31,H4S 1Z9,QC,Canada
+OZYMF,Orphazyme A S,OTC,Healthcare,Biotechnology,1,2200,,Denmark
+KEFI,Keweenaw Financial Corp.,OTC,Financial Services,Banks - Regional,0,49930,MI,United States
+DOMH,AIkido Pharma Inc.,NASDAQ,Healthcare,Biotechnology,7,10020,NY,United States
+BIDU,Baidu Inc,NASDAQ,Communication Services,Internet Content & Information,41300,100085,,China
+ASTLW,Algoma Steel Group Inc.,NASDAQ,Basic Materials,Steel,2847,P6A 7B4,ON,Canada
+STBFY,Suntory Beverage & Food Ltd,OTC,Consumer Defensive,Beverages—Brewers,23000,108-8503,,Japan
+CNCN,Chun Can Capital Group,OTC,Financial Services,Shell Companies,0,13090,NY,United States
+PHIGW,PHI Group Inc.,OTC,Financial Services,Capital Markets,2518,70508,LA,United States
+AYAG,AMAYA GLOBAL HLDGS CORP.,OTC,Industrials,Consulting Services,33,10013,NY,United States
+CSASF,"Credit Saison Co., Ltd.",OTC,Financial Services,Credit Services,5840,170-6073,,Japan
+FLFVW,Feutune Light Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,08840,NJ,United States
+INTT,inTEST Corp,NYSE,Technology,Semiconductor Equipment & Materials,327,08054,NJ,United States
+EZFL,EZFill Holdings Inc.,NASDAQ,Technology,Software—Application,53,33180,FL,United States
+DTSL,"Delivery Technology Solutions, Inc.",OTC,Industrials,Specialty Business Services,0,33487,FL,United States
+ETCIA,"Electronic Tele-Communications, Inc.",OTC,Technology,Communication Equipment,0,53188,WI,United States
+XTRRF,X-Terra Resources Inc.,OTC,Basic Materials,Other Precious Metals & Mining,0,J9X 6M8,QC,Canada
+NPTVF,Nippon Television Network Corporation,OTC,Communication Services,Broadcasting,5101,105-7444,,Japan
+TSSJF,"Tsutsumi Jewelry Co., Ltd.",OTC,Consumer Cyclical,Luxury Goods,905,335-0004,,Japan
+OERCF,Oesterreichische Post AG,OTC,Industrials,Integrated Freight & Logistics,27119,1030,,Austria
+CADLF,Cadeler A/S,OTC,Industrials,Marine Shipping,232,2300,,Denmark
+VCYT,Veracyte Inc,NASDAQ,Healthcare,Biotechnology,815,94080,CA,United States
+JSNSF,J Sainsbury plc,OTC,Consumer Defensive,Grocery Stores,152000,EC1N 2HT,,United Kingdom
+HEMP,"Hemp, Inc.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,89123,NV,United States
+FMCB,Farmers & Merchants Bancorp,OTC,Financial Services,Banks - Regional,374,95240,CA,United States
+QKLS,"QKL Stores, Inc.",OTC,Consumer Defensive,Grocery Stores,5207,163300,,China
+FPHHF,First Philippine Holdings Corporation,OTC,Utilities,Utilities - Regulated Electric,122,1604,,Philippines
+JHID,John Hancock Exchange-Traded Fund Trust John Hancock International High Dividend ETF,NYSE,,,0,,,United States
+SENEB,Seneca Foods Corp,NASDAQ,Consumer Defensive,Packaged Foods,2809,14480,NY,United States
+MAURY,"Marui Group Co., Ltd.",OTC,Financial Services,Credit Services,4435,164-8701,,Japan
+SPSTF,"Singapore Post, Ltd.",OTC,Industrials,Integrated Freight & Logistics,0,408600,,Singapore
+CALZF,Polynovo Ltd.,OTC,Healthcare,Medical Devices,237,3207,VIC,Australia
+NTCHF,N1 Technologies Inc.,OTC,Basic Materials,Specialty Chemicals,0,,,Belize
+SUBB,Suburban Minerals Corp.,OTC,,,0,89014,NV,United States
+BEST,BEST Inc,NYSE,Industrials,Trucking,3628,310013,,China
+NZIH,NZJ Holdings Inc.,OTC,Industrials,Staffing & Employment Services,4,44114,OH,United States
+STAEY,"Stanley Electric Co., Ltd.",OTC,Consumer Cyclical,Auto Parts,16964,153-8636,,Japan
+MDRRP,Medalist Diversified REIT Inc,NASDAQ,Real Estate,REIT—Diversified,0,23226,VA,United States
+TVTV,WhereverTV Broadcasting Corp.,OTC,Communication Services,Broadcasting,0,33905,FL,United States
+HBCNF,HealthBeacon PLC,OTC,Healthcare,Health Information Services,70,D12 WD85,,Ireland
+SGER,Sterling Energy Resources Inc.,OTC,Energy,Oil & Gas E&P,0,66212,KS,United States
+SAVAW,"Cassava Sciences, Inc.",NASDAQ,Healthcare,Biotechnology,29,78731,TX,United States
+KPTSF,KP Tissue Inc.,OTC,Consumer Defensive,Household & Personal Products,0,L5W 0G8,ON,Canada
+CAHI,"Carrier Alliance Holdings, Inc.",OTC,Consumer Cyclical,Specialty Retail,0,10036,NY,United States
+ACMDY,Atlas Consolidated Mining & Development Corp.,OTC,Basic Materials,Copper,0,1300,,Philippines
+DROOF,Deliveroo plc,OTC,Consumer Cyclical,Internet Retail,4046,EC4R 3TE,,United Kingdom
+TTGT,TechTarget Inc,NASDAQ,Communication Services,Internet Content & Information,960,02466,MA,United States
+HONT,"Honat Bancorp, Inc.",OTC,Financial Services,Banks - Regional,0,18431,PA,United States
+MLPB,ETRACS Alerian MLP Infrastructure Index ETN Series B,NYSE,,,0,,,United States
+COIN,"Coinbase Global, Inc. Class A Common Stock",NASDAQ,Financial Services,Financial Data & Stock Exchanges,3416,19808,DE,United States
+HAIAU,Healthcare AI Acquisition Corp. Unit,NASDAQ,Financial Services,Shell Companies,0,10177,,Cayman Islands
+RSHPF,Irish Residential Properties REIT PLC,OTC,Real Estate,REIT - Residential,95,2,,Ireland
+MATEF,Blockmate Ventures Inc.,OTC,Financial Services,Capital Markets,0,V1L 1K9,BC,Canada
+HSFI,"Homeland Safety International, Inc.",OTC,,,0,75039,TX,United States
+CDCTF,"GoldCrest Co., Ltd.",OTC,Real Estate,Real Estate - Development,175,100-0004,,Japan
+TRFE,TRUSTFEED CORP.,OTC,Communication Services,Internet Content & Information,0,92590,CA,United States
+DAL,Delta Air Lines Inc,NYSE,Industrials,Airlines,103000,30320-6001,GA,United States
+MFLTY,Missfresh Limited,OTC,Consumer Defensive,Grocery Stores,57,100016,,China
+TCCHF,Technogym Spa,OTC,Consumer Cyclical,Leisure,2254,47521,FO,Italy
+NPSCY,Nippon Steel Corporation ,OTC,Basic Materials,Steel,106068,100-8071,,Japan
+CVALF,Covalon Technologies Ltd.,OTC,Healthcare,Biotechnology,0,L4W 5S7,ON,Canada
+MLOV,Mobile Matchmaking Inc.,OTC,,,0,,,United States
+CSTL,Castle Biosciences Inc,NASDAQ,Healthcare,Diagnostics & Research,610,77546,TX,United States
+HUT,Hut 8 Mining Corp.,NASDAQ,Financial Services,Capital Markets,98,33131,FL,United States
+SCNLF,Scancell Holdings plc,OTC,Healthcare,Biotechnology,51,OX4 4GD,,United Kingdom
+CAIB,California International Bank,OTC,Financial Services,Banks—Regional,0,92683,CA,United States
+LB,L Brands Inc,NYSE,,,0,,,United States
+EFMSF,WISDOMTREE METAL SECS LTD REGD NOTES 2007 -WITHOUT FIXED MATURITY ON SILVER (COMMODITY SECURED),OTC,,,0,,,United States
+WRLC,Windrock Ld Co.,OTC,Industrials,Conglomerates,0,37932,TN,United States
+HBIO,Harvard Bioscience Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,436,01746,MA,United States
+HIFS,Hingham Institution for Savings,NASDAQ,Financial Services,Banks—Regional,89,02043,MA,United States
+VYNE,VYNE Therapeutics Inc.,NASDAQ,Healthcare,Biotechnology,12,08807,NJ,United States
+TAIT,Taitron Components Inc,NASDAQ,Technology,Electronics & Computer Distribution,15,91355,CA,United States
+LANZ,"Lancer Orthodontics, Inc.",OTC,Healthcare,Medical Instruments & Supplies,134,92081,CA,United States
+LRCFF,Lovitt Resources Inc.,OTC,Basic Materials,Gold,0,V3Z 9R4,BC,Canada
+MEDP,Medpace Holdings Inc,NASDAQ,Healthcare,Diagnostics & Research,5900,45227,OH,United States
+NMR,Nomura Holdings Inc,NYSE,Financial Services,Capital Markets,26775,103-8645,,Japan
+STBX,Starbox Group Holdings Ltd,NASDAQ,Communication Services,Internet Content & Information,104,55100,,Malaysia
+LTSRF,Lotus Resources Limited,OTC,Basic Materials,Other Industrial Metals & Mining,18,6000,WA,Australia
+RNECY,Renesas Electronics Corp,OTC,Technology,Semiconductors,0,135-0061,,Japan
+MEOAF,Melbana Energy Ltd,OTC,Energy,Oil & Gas E&P,0,2000,NSW,Australia
+ENRT,Enertopia Corp,OTC,Basic Materials,Other Industrial Metals & Mining,0,V1Y 4R2,BC,Canada
+SOPA,Society Pass Incorporated Common Stock,NASDAQ,Technology,Software—Application,0,048943,,Singapore
+FINGF,Finning International Inc.,OTC,Industrials,Industrial Distribution,0,V4N 5C3,BC,Canada
+YHEKF,Yeahka Limited,OTC,Technology,Software—Infrastructure,1105,,,China
+CHLSY,CHOCOLADEFABRIKEN LINDT & SPRUENGLI AG,OTC,Consumer Defensive,Confectioners,14000,8802,,Switzerland
+MSADY,"MS&AD Insurance Group Holdings, Inc.",OTC,Financial Services,Insurance—Property & Casualty,38584,104-0033,,Japan
+NBKCF,National Bank of Canada,OTC,Financial Services,Banks—Diversified,28730,H3B 4L2,QC,Canada
+PVBK,"Pacific Valley Bank (Salinas, CA)",OTC,Financial Services,Banks - Regional,0,93901,CA,United States
+DNDPF,Dundee Corp.,OTC,Basic Materials,Other Precious Metals & Mining,19,M5C 2V9,ON,Canada
+LURAF,Labrador Uranium Inc.,OTC,Energy,Uranium,0,M5V 0R2,ON,Canada
+EVA,Enviva Partners LP,NYSE,Basic Materials,Lumber & Wood Production,1386,20814,MD,United States
+HAYN,Haynes International Inc,NASDAQ,Industrials,Metal Fabrication,1248,46904-9013,IN,United States
+BCHMF,Bachem Holding AG,OTC,Basic Materials,Chemicals,1926,4416,,Switzerland
+TPRP,Tower Properties Company,OTC,Real Estate,Real Estate Services,0,64106,MO,United States
+MYND,2,NYSE,Consumer Defensive,Education & Training Services,1143,100078,,China
+BPT,BP Prudhoe Bay Royalty Trust,NYSE,Energy,Oil & Gas Midstream,0,77002,TX,United States
+GGSM,Gold and GemStone Mining Inc.,OTC,Basic Materials,Other Precious Metals & Mining,0,75038,TX,United States
+CG,Carlyle Group LP-The,NASDAQ,Financial Services,Asset Management,2200,20004-2505,DC,United States
+TCYMF,Tingyi Cayman Islands Holdings Corp.,OTC,Consumer Defensive,Packaged Foods,65956,201103,,China
+GAEC,Gulf Alternative Energy Corp.,OTC,,,1,77055,TX,United States
+NLLSF,Nel ASA,OTC,Industrials,Specialty Industrial Machinery,669,0279,,Norway
+GXXFF,Gold Basin Resources Corporation,OTC,Basic Materials,Gold,0,V6C 2V6,BC,Canada
+SMCAY,SMC Corp Japan,OTC,Industrials,Specialty Industrial Machinery,23356,101-0021,,Japan
+CTCGF,C2C Gold Corp.,OTC,Basic Materials,Gold,0,V6G 1C9,BC,Canada
+ABHBY,ALFEN BEHEER B V UNSPN ADS ECH REP 1 ORD SHS,OTC,Industrials,Electrical Equipment & Parts,931,1332 AP,,Netherlands
+RVNC,Revance Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,597,37203,TN,United States
+VAC,Marriott Vacations Worldwide Corp,NYSE,Consumer Cyclical,Resorts & Casinos,22000,32836,FL,United States
+XCLL,XcelMobility Inc.,OTC,Technology,Software—Application,98,94303,CA,United States
+MTC,MMTEC Inc,NASDAQ,Technology,Software—Application,57,,,Hong Kong
+SSHT,SSHT S&T Group Ltd.,OTC,Industrials,Consulting Services,1,2010,,New Zealand
+HHGI,"Hawaiian Hospitality Group, Inc.",OTC,Industrials,Specialty Business Services,1,96712,HI,United States
+TYIDY,Toyota Industries Corporation,OTC,Industrials,Farm & Heavy Construction Machinery,74887,448-8671,,Japan
+BNNLF,"Bannerman Resources, Ltd.",OTC,Energy,Uranium,0,6008,WA,Australia
+LQDA,iShares USD Corp Bond UCITS ETF,NASDAQ,Healthcare,Biotechnology,63,27560,NC,United States
+SHALY,Shangri-La Asia Ltd.,OTC,Consumer Cyclical,Lodging,25400,,,Hong Kong
+DSNKY,"Daiichi Sankyo Co., Ltd.",OTC,Healthcare,Drug Manufacturers - General,17435,103-8426,,Japan
+HDALF,Haidilao International Hldg Ltd,OTC,Consumer Cyclical,Restaurants,136161,102218,,China
+CLDX,Celldex Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,160,08827,NJ,United States
+KEY.PR.K,KeyCorp,NYSE,Financial Services,Banks - Regional,17333,44114-1306,OH,United States
+HENI,"Hinto Energy, Inc.",OTC,Financial Services,Shell Companies,1,80111,CO,United States
+MSCH,MAINSTREETCHAMBER HOLDING,OTC,Energy,Oil & Gas E&P,0,89169,NV,United States
+AZASF,Arizona Silver Exploration Inc.,OTC,Basic Materials,Other Precious Metals & Mining,0,V6Z 1S4,BC,Canada
+RDYFF,NEWPATH RES INC,OTC,Basic Materials,Gold,0,V6A 4C1,BC,Canada
+UTGN,"UTG, Inc.",OTC,Financial Services,Insurance—Life,40,40484,KY,United States
+FDTC,FNDS3000 Corp.,OTC,Financial Services,Credit Services,0,32256,FL,United States
+BNMDF,Banca Mediolanum SPA,OTC,Financial Services,Banks—Regional,3566,20079,MI,Italy
+SCTSF,SCOTTIE RES CORP.,OTC,Basic Materials,Other Precious Metals & Mining,0,V6E 2J3,BC,Canada
+RLYB,Rallybio Corporation,NASDAQ,Healthcare,Biotechnology,44,06510,CT,United States
+MLPI,ETRACS Alerian MLP Infrastructure Index ETN,NYSE,,,0,,,United States
+ELMS,"Electric Last Mile Solutions, Inc.",NASDAQ,,,0,,,United States
+KHOTF,Kahoot! AS,OTC,Technology,Software - Application,463,0160,,Norway
+SNRG,Susglobal Energy Corp.,OTC,Industrials,Waste Management,5,M5R 1J2,ON,Canada
+MITN,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",NYSE,,,0,,,United States
+FCSUF,Focus Minerals Ltd.,OTC,,,0,6004,WA,Australia
+LVXFF,Leviathan Gold Ltd.,OTC,Basic Materials,Gold,0,V6E 2Y3,BC,Canada
+GCE,Claymore CEF GS Connect ETN,NYSE,,,0,,,United States
+KINS,Kingstone Cos Inc,NASDAQ,Financial Services,Insurance—Property & Casualty,95,12401,NY,United States
+NRHI,,OTC,Basic Materials,Other Industrial Metals & Mining,0,84070,UT,United States
+VDRM,"ViaDerma, Inc.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,90292,CA,United States
+DSCR,Discovery Minerals Ltd.,OTC,Basic Materials,Other Precious Metals & Mining,0,89509,NV,United States
+VONOY,VONOVIA SE,OTC,Real Estate,Real Estate Services,15798,44803,,Germany
+XELAP,"Exela Technologies, Inc. - 6.00% Series B Cumulative Convertible Perpetual Preferred Stock",NASDAQ,Technology,Software - Application,15000,75061,TX,United States
+NDGPY,Nine Dragons Paper Holdings Ltd.,OTC,Basic Materials,Paper & Paper Products,23079,,,China
+UNPA,UNB Corp.,OTC,Financial Services,Banks—Regional,0,17851-0367,PA,United States
+MHHC,MHHC Enterprises Inc.,OTC,Industrials,Specialty Business Services,0,98501,WA,United States
+INNMF,Amplia Therapeutics Ltd.,OTC,Healthcare,Biotechnology,0,3000,VIC,Australia
+OMID,Omid Hldgs Inc,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,,NJ,United States
+YMZBY,Yamazaki Baking Co. Ltd.,OTC,Consumer Defensive,Packaged Foods,32210,101-8585,,Japan
+VYX,Ncr Voyix Corp,NYSE,Technology,Information Technology Services,15000,30308,GA,United States
+CHGCF,"Chugai Pharmaceutical Co., Ltd.",OTC,Healthcare,Drug Manufacturers—General,7604,103-8324,,Japan
+EOSC,Electro-Optical Systems Corp.,OTC,Industrials,Specialty Business Services,7,01754,MA,United States
+LIZI,Lizhi Inc,NASDAQ,Communication Services,Internet Content & Information,699,510655,,China
+GNOLF,Genoil Inc.,OTC,,,0,10020,NY,United States
+CEJOF,Cresco Ltd.,OTC,Technology,Information Technology Services,2657,108-6026,,Japan
+PSDMF,Gaming Realms PLC,OTC,Consumer Cyclical,Gambling,67,SE1 8QH,,United Kingdom
+SEKEF,Seiko Epson Corp.,OTC,Technology,Computer Hardware,79906,392-8502,,Japan
+MRLWF,MARLOWE PLC,OTC,Industrials,Security & Protection Services,4972,SW1X 7HN,,United Kingdom
+MBOF,MARINE BANCORP FLA INC.,OTC,Financial Services,Banks—Regional,0,32963,FL,United States
+ITIPF,ISHARES II PLC,OTC,,,0,,,United States
+SCI,Service Corp International-US,NYSE,Consumer Cyclical,Personal Services,17612,77019,TX,United States
+OBYCF,Obayashi Corp.,OTC,Industrials,Engineering & Construction,15876,108-8502,,Japan
+GSSRF,Gossan Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,R3C 1M4,MB,Canada
+LPG,Dorian LPG Ltd,NYSE,Energy,Oil & Gas Midstream,0,06902,CT,United States
+FISB,1st Capital Bank (Monterey CA),OTC,Financial Services,Banks - Regional,0,93901,CA,United States
+KNCRF,Konecranes Plc,OTC,Industrials,Farm & Heavy Construction Machinery,16200,05801,,Finland
+ACLX,"Arcellx, Inc.",NASDAQ,Healthcare,Biotechnology,130,94065,CA,United States
+SEHKF,"Seahawk Ventures, Inc.",OTC,Basic Materials,Other Industrial Metals & Mining,0,V3J 7W3,BC,Canada
+CTTZF,Centaurus Metals Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,6005,WA,Australia
+NOVVW,Nova Vision Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,059763,,Singapore
+TCBK,TriCo Bancshares,NASDAQ,Financial Services,Banks—Regional,1207,95973,CA,United States
+ATMU,Atmus Filtration Technologies Inc. Common Stock,NYSE,Industrials,Pollution & Treatment Controls,4500,37214,TN,United States
+ZLDPF,Zealand Pharma A/S,OTC,Healthcare,Biotechnology,253,2860,,Denmark
+CISCF,CISCOM CORP,OTC,Technology,Information Technology Services,0,M5J 2N8,ON,Canada
+TGOPY,3i Group,OTC,Financial Services,Asset Management,249,SW1E 5JD,,United Kingdom
+ESOCF,ENEL Societa per Azioni,OTC,Utilities,Utilities—Diversified,65212,00198,RM,Italy
+PYOIF,Promotora Y Operadora de Infraestructura SA,OTC,Industrials,Infrastructure Operations,3371,05120,DF,Mexico
+WDGJF,Wood Group (John) Plc.,OTC,Energy,Oil & Gas Integrated,35636,AB12 3LE,,United Kingdom
+NWBO,"Northwest Biotherapeutics, Inc.",OTC,Healthcare,Biotechnology,22,20814,MD,United States
+RSFFS,RSE ARCHIVE LLC,OTC,,,0,,,United States
+SGRP,SPAR Group Inc,NASDAQ,Industrials,Specialty Business Services,1437,48326,MI,United States
+FERVF,FERROVIAL SE,OTC,Industrials,Infrastructure Operations,24566,1043 GR,,Netherlands
+RMM,RiverNorth Managed Duration Municipal Income Fund Inc,NYSE,Financial Services,Asset Management,0,60654,IL,United States
+DINO,HF Sinclair Corporation,NYSE,Energy,Oil & Gas Refining & Marketing,5218,75201,TX,United States
+ATAI,ATA Inc-China,NASDAQ,Healthcare,Biotechnology,133,10179,,Germany
+YGRAF,Yangarra Resources Ltd.,OTC,Energy,Oil & Gas E&P,72,T2P 2X6,AB,Canada
+DMAN,"Demand Brands, Inc.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,6,90403,CA,United States
+NKGFF,Nevada King Gold Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 3E8,BC,Canada
+ICFNF,Income Financial Trust,OTC,,,0,M5V 3K2,ON,Canada
+EVARF,"Lombard Medical, Inc.",OTC,Healthcare,Medical Devices,113,OX11 7HJ,,United Kingdom
+GRGG,"Green For Energy, Inc.",OTC,Technology,Software—Application,0,71106,LA,United States
+WSBC,WesBanco Inc,NASDAQ,Financial Services,Banks—Regional,2321,26003,WV,United States
+AFMJF,Alphamin Resources Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,30517,,Mauritius
+GJP,STRATS LLC,NYSE,,,0,,,United States
+PVGDF,Provenance Gold Corp.,OTC,Basic Materials,Other Precious Metals & Mining,0,V6C 3E8,BC,Canada
+INBC,"InBankshares, Corp",OTC,Financial Services,Banks—Regional,175,80111,CO,United States
+ED,Consolidated Edison Inc,NYSE,Utilities,Utilities—Regulated Electric,14592,10003,NY,United States
+KGAUF,Kongsberg Automotive ASA,OTC,Consumer Cyclical,Auto Parts,5270,3611,,Norway
+WTLC,Western Metals Corp.,OTC,Energy,Oil & Gas Refining & Marketing,0,63105,MO,United States
+PSTO,"Powerstorm Holdings, Inc.",OTC,Industrials,Electrical Equipment & Parts,0,19901,DE,United States
+RYZB,"RayzeBio, Inc. - Common Stock",NASDAQ,Healthcare,Biotechnology,88,92121,CA,United States
+VIVJS,RSE ARCHIVE LLC,OTC,,,0,,,United States
+SLS,SELLAS Life Sciences Group Inc,NASDAQ,Healthcare,Biotechnology,17,10036,NY,United States
+WUXAY,Wuxi Apptec Co Ltd.,OTC,Healthcare,Diagnostics & Research,41148,200131,,China
+FRSB,"First Resource Bank (Exton, PA)",OTC,Financial Services,Banks - Regional,0,19341,PA,United States
+VTWRF,Vantage Towers AG,OTC,Real Estate,Real Estate Services,711,40549,,Germany
+SANA,"Sana Biotechnology, Inc.",NASDAQ,Healthcare,Biotechnology,328,98102,WA,United States
+TBVPF,"Thai Beverage Public Co., Ltd.",OTC,Consumer Defensive,Beverages - Wineries & Distilleries,0,10900,,Thailand
+THSGF,THESIS GOLD INC.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 2J3,BC,Canada
+EFGXY,EFG International AG,OTC,Financial Services,Banks—Diversified,3025,8022,,Switzerland
+CNGL,Canna-Global Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,90292,CA,United States
+DVLP,"Golden Developing Solutions, Inc.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,33346,FL,United States
+ILUS,Ilustrato Pictures International Inc.,OTC,Financial Services,Asset Management,1805,10004,NY,United States
+ACR.PR.D,ACRES Commercial Realty Corp.,NYSE,Real Estate,REIT - Mortgage,0,11556,NY,United States
+OROCF,Orocobre Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,1350,4000,QLD,Australia
+SR,Spire Inc,NYSE,Utilities,Utilities—Regulated Gas,3589,63101,MO,United States
+ITW,Illinois Tool Works Inc,NYSE,Industrials,Specialty Industrial Machinery,45000,60025,IL,United States
+CNLTL,Connecticut Light & Power Co. (The),OTC,Utilities,Utilities - Regulated Electric,1529,06037-1616,CT,United States
+XNDA,XINDA INTERNATIONAL CORP.,OTC,Technology,Software—Application,0,92691,CA,United States
+PEYUF,Peyto Exploration & Development Corp,OTC,Energy,Oil & Gas E&P,0,T2P 0G5,AB,Canada
+CMCLF,"China Molybdenum Co., Ltd.",OTC,Basic Materials,Other Industrial Metals & Mining,12754,471500,,China
+SCLTF,Searchlight Res Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 2R1,BC,Canada
+AGFAF,Agraflora Organics Intl Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,V6C 1H2,BC,Canada
+TORCF,TINONE RES INC,OTC,Basic Materials,Gold,0,V6E 3V7,BC,Canada
+DTEV,"Data Evolution Holdings, Inc.",OTC,,,0,70123,LA,United States
+DPCSU,DP Cap Acquisition Corp I,NASDAQ,Financial Services,Shell Companies,0,02115,MA,United States
+NPNVF,Valqua Ltd.,OTC,Industrials,Specialty Industrial Machinery,1682,141-6024,,Japan
+FANUY,Fanuc Corporation,OTC,Industrials,Specialty Industrial Machinery,9432,401-0597,,Japan
+RGRNF,Regis Resources NL,OTC,Basic Materials,Gold,0,6008,WA,Australia
+GFL,GFL Environmental Inc,NYSE,Industrials,Waste Management,20000,L4K 0H9,ON,Canada
+MNTHY,Minth Group Limited,OTC,Consumer Cyclical,Auto Parts,20929,314006,,China
+VYEY,"Victory Oilfield Tech, Inc.",OTC,Energy,Oil & Gas Equipment & Services,8,78746,TX,United States
+TMP,Tompkins Financial Corp,NYSE,Financial Services,Banks - Regional,942,14851,NY,United States
+APLO,"Apollo Bancorp, Inc.",OTC,Financial Services,Banks—Regional,0,15613,PA,United States
+NEXT,NextDecade Corp,NASDAQ,Energy,Oil & Gas E&P,102,77002,TX,United States
+REMYF,Remy Cointreau SA,OTC,Consumer Defensive,Beverages - Wineries & Distilleries,2021,16100,,France
+INSM,Insmed Inc,NASDAQ,Healthcare,Biotechnology,912,08807,NJ,United States
+TPTA,"Terra Property Trust, Inc. 6.00",NYSE,,,0,,,United States
+AKO.A,Embotelladora Andina SA,NYSE,Consumer Defensive,Beverages - Non-Alcoholic,0,,,Chile
+PKDC,Parker Drilling Company,OTC,Energy,Oil & Gas Equipment & Services,2670,77046,TX,United States
+AINC,Ashford Inc,NYSE,Financial Services,Asset Management,7827,75254,TX,United States
+COUV,"Corporate Universe, Inc.",OTC,Industrials,Electrical Equipment & Parts,8,33431,DE,United States
+NIHL,"New Infinity Holdings, Ltd.",OTC,Financial Services,Shell Companies,4,90046,CA,United States
+JORFF,Jourdan Resources Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,M5R 2E1,ON,Canada
+CTGO,"Contango Ore, Inc.",NYSE,Basic Materials,Gold,11,77098,TX,United States
+AUNFF,Aurcana Corp.,OTC,Basic Materials,Silver,0,V8T 3Z1,BC,Canada
+WRAP,"Wrap Technologies, Inc.",NASDAQ,Technology,Scientific & Technical Instruments,69,85281,AZ,United States
+SKWD,SKYWARD SPECIALTY INS GROUP INC,NASDAQ,Financial Services,Insurance - Property & Casualty,448,77024-4284,TX,United States
+MSC,Studio City International Holdings Ltd,NYSE,Consumer Cyclical,Resorts & Casinos,3571,,,Hong Kong
+DTSRF,Ether Cap Corp.,OTC,Financial Services,Asset Management,4,M5H 3P5,ON,Canada
+TFC.PR.O,Truist Financial Corporation De,NYSE,Financial Services,Banks - Regional,49037,28202,NC,United States
+WT,"WisdomTree, Inc.",NYSE,Financial Services,Asset Management,303,10119,NY,United States
+CIM.PR.B,Chimera Investment Corp,NYSE,Real Estate,REIT—Mortgage,39,10111,NY,United States
+FSUMF,Fortescue Metals Group Ltd,OTC,Basic Materials,Other Industrial Metals & Mining,13690,6004,WA,Australia
+RITPF,RIT Capital Partners Plc.,OTC,,,62,SW1A 1NR,,United Kingdom
+NWSAL,News Corp,OTC,Communication Services,Entertainment,25000,10036,NY,United States
+FCCN,Spectral Capital Corp.,OTC,Technology,Information Technology Services,1,98105,WA,United States
+AORT,"Artivion, Inc.",NYSE,Healthcare,Medical Devices,1500,30144,GA,United States
+EXER,"Exact Energy Resources, Inc.",OTC,,,0,89128,NV,United States
+PYHOF,Playmates Holdings Ltd.,OTC,Consumer Cyclical,Leisure,78,,,Hong Kong
+KRP,Kimbell Royalty Partners LP,NYSE,Energy,Oil & Gas E&P,0,76102,TX,United States
+AMPGW,"AmpliTech Group, Inc.",NASDAQ,Technology,Communication Equipment,36,11788,NY,United States
+LAZY,"Lazydays Holdings, Inc.",NASDAQ,Consumer Cyclical,Auto & Truck Dealerships,1500,33610,FL,United States
+ET.PR.E,Energy Transfer LP,NYSE,,,13786,75225,TX,United States
+SSSAF,SHURGARD SELF STORAGE LTD.,OTC,Real Estate,Real Estate Services,709,8399,,Luxembourg
+PCST,Pure Broadcast Corporation,OTC,Consumer Defensive,Education & Training Services,0,55438,MN,United States
+WKC,World Kinect Corp,NYSE,Energy,Oil & Gas Refining & Marketing,5289,33178,FL,United States
+MVPT,MVP Holdings Inc New,OTC,Industrials,Conglomerates,35,93711,CA,United States
+IMMG,Immage Biotherapeutics Corp.,OTC,,,3,20817,MD,United States
+LWLDF,LYXOR UCITS ETF MSCI AC ASIA PAC EX JAPAN FCP,OTC,,,0,,,United States
+JNVR,Janover Inc. - Common Stock,NASDAQ,Technology,Software—Infrastructure,0,33487,FL,United States
+MEOBF,Mesoblast Ltd.,OTC,Healthcare,Biotechnology,83,3000,VIC,Australia
+COOLU,Corner Growth Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,94301,CA,United States
+DEER,"Deer Consumer Products, Inc.",OTC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",890,518057,,China
+TNYA,"Tenaya Therapeutics, Inc.",NASDAQ,Healthcare,Biotechnology,141,94080,CA,United States
+MX,MagnaChip Semiconductor Corp,NYSE,Technology,Semiconductors,897,28851,,South Korea
+BITB,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,NYSE,,,0,,,United States
+BKQNY,Bank of Queensland Ltd.,OTC,Financial Services,Banks - Regional,3163,4006,QLD,Australia
+AWH,Aspira Women's Health Inc.,NASDAQ,Healthcare,Diagnostics & Research,85,78738,TX,United States
+COMSP,ComSovereign Holding Corp. - 9.,NASDAQ,Communication Services,Telecom Services,25,85750,AZ,United States
+PVBC,Provident Bancorp Inc,NASDAQ,Financial Services,Banks - Regional,198,01913,MA,United States
+XCOMQ,"Xtera Communications, Inc.",OTC,Technology,Communication Equipment,103,75013,TX,United States
+BCHPY,Brainchip Holdings Ltd.,OTC,Technology,Semiconductors,78,2000,NSW,Australia
+IVA,Inventiva S.A.,NASDAQ,Healthcare,Biotechnology,117,21121,,France
+LVWJS,LANDA APP LLC,OTC,,,0,10011,NY,United States
+JETR,"Star Jets International, Inc.",OTC,Industrials,Airports & Air Services,0,10022,NY,United States
+FTEK,Fuel Tech Inc,NASDAQ,Industrials,Pollution & Treatment Controls,66,60555-1617,IL,United States
+LYG,Lloyds Banking Group PLC,NYSE,Financial Services,Banks—Regional,62569,EC2V 7HN,,United Kingdom
+EIX,Edison International,NYSE,Utilities,Utilities—Regulated Electric,13003,91770,CA,United States
+NVYTF,Novacyt Clamart,OTC,Healthcare,Medical Devices,120,78140,,France
+NDBKY,"Nedbank Group, Ltd.",OTC,Financial Services,Banks—Regional,25900,2196,,South Africa
+AGFY,Agrify Corporation,NASDAQ,Industrials,Engineering & Construction,136,48084,MI,United States
+DTRUY,DAIMLER TRUCK HLDG AG,OTC,Industrials,Farm & Heavy Construction Machinery,104416,70771,,Germany
+EXPR,Express Inc,NYSE,Consumer Cyclical,Apparel Retail,3300,43230,OH,United States
+PLTNR,Plutonian Acquisition Corp. Rights,NASDAQ,,,0,10018,NY,United States
+FIRRY,First Tractor Co. Ltd.,OTC,Industrials,Farm & Heavy Construction Machinery,7145,471004,,China
+TWIRF,Tree Island Steel Ltd.,OTC,Basic Materials,Steel,450,V6V 1T8,BC,Canada
+LITRF,Lithium Royalty Corp,OTC,Basic Materials,Other Industrial Metals & Mining,0,M4T 2Y7,ON,Canada
+TNMD,"Tianrong Med Group, Inc.",OTC,Communication Services,Internet Content & Information,0,,NY,United States
+ATNI,ATN International Inc,NASDAQ,Communication Services,Telecom Services,2400,01915,MA,United States
+IDEX,Ideanomics Inc,NASDAQ,Industrials,Farm & Heavy Construction Machinery,565,10018,NY,United States
+FRGY,Frontier Energy Corp.,OTC,Energy,Oil & Gas Drilling,1,T6E 6A6,AB,Canada
+CFLT,"Confluent, Inc.",NASDAQ,Technology,Software - Infrastructure,2744,94041,CA,United States
+PAFRF,Pan African Resources PLC,OTC,Basic Materials,Gold,2469,2196,,South Africa
+ISMAY,Indra Sistemas SA,OTC,Technology,Information Technology Services,57755,28108,,Spain
+ARTD,"ARTISTdirect, Inc.",OTC,,,68,90404,CA,United States
+CMAXW,"CareMax, Inc.",NASDAQ,Healthcare,Health Information Services,1500,33126,FL,United States
+FEBP,PGIM US Large-Cap Buffer 12 ETF - January PGIM US Large-Cap Buffer 12 ETF - February,NYSE,,,0,,,United States
+LJAQ,LightJump Acquisition Corporation,NASDAQ,,,0,,,United States
+BJRI,BJ's Restaurants Inc,NASDAQ,Consumer Cyclical,Restaurants,21230,92647,CA,United States
+RMD,ResMed Inc,NYSE,Healthcare,Medical Instruments & Supplies,0,92123,CA,United States
+GAN,GAN Ltd,NASDAQ,Consumer Cyclical,Gambling,701,92618,CA,United States
+IITSF,Intesa Sanpaolo S.p.A.,OTC,Financial Services,Banks—Regional,94194,10121,TO,Italy
+OPHLY,"Ono Pharmaceutical Co., Ltd.",OTC,Healthcare,Drug Manufacturers—General,3761,541-8564,,Japan
+FNMA,Fannie Mae,OTC,Financial Services,Mortgage Finance,8100,20005,DC,United States
+FBCD,"FBC Holding, Inc.",OTC,Consumer Cyclical,Apparel Retail,1,85259,AZ,United States
+PWCO,"PwrCor, Inc.",OTC,Utilities,Utilities - Renewable,0,10165,NY,United States
+DVNCF,Danavation Technologies Corp.,OTC,Technology,Software - Application,0,L4H 1E6,ON,Canada
+SBS,Cia de Saneamento Basico do Estado de Sao Paulo,NYSE,Utilities,Utilities—Regulated Water,11606,05429-900,SP,Brazil
+PTBTQ,"Pope & Talbot, Inc.",OTC,,,2373,97201,OR,United States
+SAH,Sonic Automotive Inc,NYSE,Consumer Cyclical,Auto & Truck Dealerships,10500,28211,NC,United States
+LKQ,LKQ Corp,NASDAQ,Consumer Cyclical,Auto Parts,49000,60661,IL,United States
+RVVQF,Ravenquest Biomed Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,V6E 2K3,BC,Canada
+THAR,Tharimmune Inc,NASDAQ,Healthcare,Biotechnology,2,08807,NJ,United States
+MAKOF,Mako Mining Corp.,OTC,Basic Materials,Gold,0,V6C 0A6,BC,Canada
+UPNRY,Uponor Oyj,OTC,Industrials,Building Products & Equipment,3527,01511,,Finland
+HRGN,Harvard Apparatus Regenerative Technology Inc,OTC,Healthcare,Biotechnology,7,01746,MA,United States
+KAIFF,KAIROS MINERALS LTD,OTC,Basic Materials,Gold,0,6008,WA,Australia
+BTSR,"BrightStar Information Technology Group, Inc.",OTC,,,50,94588,CA,United States
+KTHN,Katahdin Bankshares Corp.,OTC,Financial Services,Banks—Regional,165,04765,ME,United States
+FFXXF,Fairfax Africa Hldgs Corp,OTC,Financial Services,Asset Management,0,M5J 2N7,ON,Canada
+DQWS,Dswiss Inc,OTC,Consumer Defensive,Household & Personal Products,12,59200,,Malaysia
+DNPUF,"Sumitomo Dainippon Pharma Co., Ltd.",OTC,Healthcare,Drug Manufacturers—Specialty & Generic,6250,541-0045,,Japan
+NCL,Northann Corp. Common Stock,NYSE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",71,95624,CA,United States
+HKBNY,HKBN Ltd,OTC,Communication Services,Telecom Services,4428,,,Hong Kong
+CHFFY,China Everbright International Ltd.,OTC,Industrials,Waste Management,12340,,,Hong Kong
+SPE.PR.C,"Special Opportunities Fund, Inc.",NYSE,,,0,07663,NJ,United States
+MBIO,Mustang Bio Inc,NASDAQ,Healthcare,Biotechnology,113,01605,MA,United States
+RXO,"RXO, Inc.",NYSE,Industrials,Trucking,6051,28277,NC,United States
+DLAD,"DealerAdvance, Inc.",OTC,,,0,75001-5112,TX,United States
+NIFCY,Nifco Inc.,OTC,Consumer Cyclical,Auto Parts,10169,239-8560,,Japan
+UUGRY,United Utilities Group PLC,OTC,Utilities,Utilities—Regulated Water,6000,WA5 3LP,,United Kingdom
+CLVLY,Clinuvel Pharmaceuticals Ltd.,OTC,Healthcare,Biotechnology,0,3000,VIC,Australia
+SNV,Synovus Financial Corp,NYSE,Financial Services,Banks - Regional,4798,31901,GA,United States
+AXREF,Amarc Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 4H1,BC,Canada
+YOTA,Yotta Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,10036,NY,United States
+INN.PR.E,Summit Hotel Properties Inc,NYSE,Real Estate,REIT - Hotel & Motel,78,78738-6723,TX,United States
+FRMUF,Firm Capital Property Trust,OTC,Real Estate,REIT—Retail,0,M6A 1V5,ON,Canada
+ABG,Asbury Automotive Group Inc,NYSE,Consumer Cyclical,Auto & Truck Dealerships,15000,30097,GA,United States
+PHMB,"PharmaCom BioVet, Inc.",OTC,Healthcare,Medical Care Facilities,0,27609,NC,United States
+HUMDF,Hua Medicine,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,170,,,China
+GMOYF,"GMO Internet, Inc.",OTC,Communication Services,Telecom Services,6159,150-8512,,Japan
+DB,Deutsche Bank AG,NYSE,Financial Services,Banks—Regional,90130,60325,,Germany
+SADL,"Sadlier (WILLIAM H.), Inc.",OTC,Communication Services,Publishing,157,10005,NY,United States
+CJIMF,Gunpoint Exploration Ltd.,OTC,Basic Materials,Other Precious Metals & Mining,0,V6K 3E4,BC,Canada
+SJM,JM Smucker Co-The,NYSE,Consumer Defensive,Packaged Foods,5800,44667-0280,OH,United States
+FTIIU,FutureTech II Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,10805,NY,United States
+FLYNF,Flying Nickel Mining Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1T2,BC,Canada
+AETUF,Arc Resources Ltd.,OTC,Energy,Oil & Gas E&P,0,T2P 0H7,AB,Canada
+BBW,Build-A-Bear Workshop Inc,NYSE,Consumer Cyclical,Specialty Retail,1000,63103,MO,United States
+LUXFF,LUXXFOLIO HLDGS INC,OTC,Financial Services,Capital Markets,0,V6B 2T4,BC,Canada
+OMTK,Omnitek Engineering Corp.,OTC,Consumer Cyclical,Auto Parts,6,92081,CA,United States
+BECN,Beacon Roofing Supply Inc,NASDAQ,Industrials,Industrial Distribution,8063,20170,VA,United States
+OTTW,Ottawa Bancorp Inc,OTC,Financial Services,Banks—Regional,0,61350,IL,United States
+IFLM,Independent Film Development Corp,OTC,Communication Services,Entertainment,2,92614,CA,United States
+BWLVF,Bowleven Plc.,OTC,Energy,Oil & Gas E&P,4,SE1 9SG,,United Kingdom
+RRRI,"Rock Ridge Resources, Inc.",OTC,Energy,Oil & Gas Integrated,0,92352,CA,United States
+ELTTF,Elmos Semiconductor AG,OTC,Technology,Semiconductors,1200,44227,,Germany
+OTSPS,OTIS GALLERY LLC.,OTC,,,0,,,United States
+SSEZF,SSE Plc,OTC,Utilities,Utilities—Diversified,12180,PH1 3AQ,,United Kingdom
+TNKE,"Tanke, Inc.",OTC,Industrials,Pollution & Treatment Controls,0,89101,NV,United States
+BNDSY,Banco De Sabadell SA,OTC,Financial Services,Banks - Diversified,19148,03007,,Spain
+ARLLF,Argan Neuilly Sur Seine,OTC,,,29,92200,,France
+DGX,Quest Diagnostics Inc,NYSE,Healthcare,Diagnostics & Research,40000,07094,NJ,United States
+REDLF,Red 5 Limited,OTC,Basic Materials,Gold,0,6005,WA,Australia
+IMHDY,Isetan Mitsukoshi Holdings Ltd.,OTC,,,0,,,United States
+IFABF,iFabric Corp.,OTC,Consumer Cyclical,Apparel Manufacturing,0,L3R 1B8,ON,Canada
+CDROW,"Codere Online Luxembourg, S.A.",NASDAQ,Consumer Cyclical,Gambling,249,2557,,Luxembourg
+EYES,Second Sight Medical Products Inc,NASDAQ,,,0,,,United States
+MONDF,Mondi Plc.,OTC,Basic Materials,Paper & Paper Products,21200,KT13 0NY,,United Kingdom
+DLYT,Dais Corporation,OTC,Industrials,Electrical Equipment & Parts,21,33556,FL,United States
+CINGW,Cingulate Inc.,NASDAQ,Healthcare,Biotechnology,15,66205,KS,United States
+IWRS,"Irwin Resources, Inc.",OTC,,,0,V6C 1E1,BC,Canada
+FFTTF,Fatfish Blockchain Ltd.,OTC,Financial Services,Capital Markets,0,3000,VIC,Australia
+AAUKF,Anglo American plc,OTC,Basic Materials,Other Industrial Metals & Mining,105000,EC1N 6RA,,United Kingdom
+HLUN,"HEALTHeUNIVERSE, Inc.",OTC,Healthcare,Biotechnology,0,91722,CA,United States
+IVCA,Investcorp India Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,KY1-1102,,Cayman Islands
+PFX,PhenixFIN Corporation,NASDAQ,Financial Services,Asset Management,9,10022,NY,United States
+HCVIU,Hennessy Capital Investment Corp. VI,NASDAQ,Financial Services,Shell Companies,0,83014,WY,United States
+AHH.PR.A,Armada Hoffler Properties Inc,NYSE,Real Estate,REIT—Diversified,164,23462-3039,VA,United States
+ORRCF,Oroco Resource Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 3Z3,BC,Canada
+FAVO,Favo Realty Inc.,OTC,Financial Services,Credit Services,0,11530,NY,United States
+DNAG,"DNAPrint Genomics, Inc.",OTC,,,24,34243,FL,United States
+DLHC,DLH Holdings Corp,NASDAQ,Industrials,Specialty Business Services,3200,30305,GA,United States
+UBSFF,UbiSoft Entertainment Inc.,OTC,Communication Services,Electronic Gaming & Multimedia,19409,94160,,France
+AEBZY,Anadolu Efes Biracilik Ve Malt AS,OTC,Consumer Defensive,Beverages—Brewers,18437,34771,,Turkey
+BSVN,Bank7 Corp,NASDAQ,Financial Services,Banks - Regional,123,73116,OK,United States
+SANW,S&W Seed Co,NASDAQ,Consumer Defensive,Farm Products,134,80501-6085,CO,United States
+WNAVF,WEALTHNAVI INC.,OTC,Financial Services,Asset Management,134,150-0002,,Japan
+BHFAP,Brighthouse Financial Inc,NASDAQ,Financial Services,Insurance—Life,1500,28277,NC,United States
+APXYY,Appen Limited,OTC,Technology,Information Technology Services,992,2067,NSW,Australia
+LEHNQ,Lehman Brothers Holdings Capital Trust VI,OTC,Financial Services,Capital Markets,0,10285,NY,United States
+OAMCF,Overactive Media Corp.,OTC,Communication Services,Entertainment,0,M6K 1Y7,ON,Canada
+NRACU,Noble Rock Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,19807,DE,United States
+HYCBF,ISHARES II PLC,OTC,,,0,,,United States
+BDL,Flanigan's Enterprises Inc,NYSE,Consumer Cyclical,Restaurants,665,33334,FL,United States
+UMAC,"Unusual Machines, Inc.",NYSE,Financial Services,Shell Companies,3,00901-1607,PR,United States
+MSLM,"Mascot Silver-Lead Mines, Inc.",OTC,,,0,83837,ID,United States
+CLOW,"Cloudweb, Inc.",OTC,Financial Services,Shell Companies,0,94040,CA,United States
+ZKBEF,SWISSCANTO,OTC,,,0,,,United States
+MDDNF,Meridian Energy Limited,OTC,Utilities,Utilities—Renewable,878,8013,,New Zealand
+GGGSF,Greggs Plc.,OTC,Consumer Defensive,Grocery Stores,32000,NE12 8BU,,United Kingdom
+VODPF,Vodafone Group Plc,OTC,Communication Services,Telecom Services,104000,RG14 2FN,,United Kingdom
+SNLAY,Sino Land Co. Ltd.,OTC,Real Estate,Real Estate—Development,9700,,,Hong Kong
+DIDAF,Distribuidora Internacional De Alimentacion SA,OTC,Consumer Defensive,Discount Stores,29959,28232,,Spain
+SIZYF,Major Precious Metals Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1H2,BC,Canada
+AUDYF,Ausnutria Dairy Corporation Ltd,OTC,Consumer Defensive,Packaged Foods,4273,,,Hong Kong
+DIST,Distoken Acquisition Corporation - Ordinary Shares,NASDAQ,Financial Services,Shell Companies,0,,,China
+SAIC,Science Applications International Corp,NASDAQ,Technology,Information Technology Services,24000,20190,VA,United States
+INTAF,Intact Financial Corp.,OTC,Financial Services,Insurance - Property & Casualty,30000,M5G 0A1,ON,Canada
+CKYS,"CyberKey Solutions, Inc.",OTC,,,0,84770,UT,United States
+ACTHF,ADURO CLEAN TECHNOLOGIES INC.,OTC,Industrials,Pollution & Treatment Controls,0,N7S 6L2,ON,Canada
+BEN,Franklin Resources Inc,NYSE,Financial Services,Asset Management,9100,94403,CA,United States
+SILO,Silo Pharma Inc.,NASDAQ,Healthcare,Biotechnology,3,07632,NJ,United States
+AMAL,Amalgamated Bank,NASDAQ,Financial Services,Banks—Regional,409,10001,NY,United States
+BCOMF,B Communications Ltd,OTC,Communication Services,Telecom Services,9316,6492102,,Israel
+HMY,Harmony Gold Mining Co Ltd,NYSE,Basic Materials,Gold,34913,1759,,South Africa
+AELTF,Adacel Technologies Limited,OTC,Technology,Software—Application,0,3205,VIC,Australia
+VSTE,Vast Renewables Limited,NASDAQ,,,0,,,United States
+TGH.PR.A,Textainer Group Holdings Limited,NYSE,Industrials,Rental & Leasing Services,162,,,Bermuda
+ARVY,Alliance Recovery Corp.,OTC,Industrials,Conglomerates,0,19801,DE,United States
+SLGWF,Slang Worldwide Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,M4M 3G3,ON,Canada
+BUGVF,Primo Nutraceuticals Inc.,OTC,Healthcare,Drug Manufacturers - Specialty & Generic,0,V6C 1J9,BC,Canada
+METC,Ramaco Resources Inc,NASDAQ,Basic Materials,Coking Coal,725,40507,KY,United States
+ACFN,"Acorn Energy, Inc.",OTC,Technology,Scientific & Technical Instruments,26,19801,DE,United States
+CCTG,CCSC Technology International Holdings Limited,NASDAQ,Industrials,Electrical Equipment & Parts,304,,,Hong Kong
+AZZ,AZZ Inc,NYSE,Industrials,Specialty Business Services,3837,76107,TX,United States
+HGMCF,Harmony Gold Mining Company Ltd.,OTC,Basic Materials,Gold,34913,1759,,South Africa
+GRWG,GrowGeneration Corp,NASDAQ,Consumer Cyclical,Specialty Retail,425,80111,CO,United States
+PCOK,"Pacific Oak Strategic Opportunity REIT, Inc.",OTC,Real Estate,REIT - Diversified,0,90025,CA,United States
+WYLDF,WYLD NETWORKS AB,OTC,Technology,Information Technology Services,35,211 22,,Sweden
+SOYO,"SOYO Group, Inc.",OTC,,,42,91761,CA,United States
+CKPT,Checkpoint Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,24,02453,MA,United States
+JINFF,China Gold International Resources Corp. Ltd.,OTC,Basic Materials,Other Precious Metals & Mining,2089,V7X 1M4,BC,Canada
+PXMVD,PIXIUM VISION,OTC,Healthcare,Medical Instruments & Supplies,42,75012,,France
+ADERY,"Aida Engineering Co., Ltd.",OTC,Industrials,Specialty Industrial Machinery,2046,252-5181,,Japan
+PTWOU,Pono Capital Two Inc,NASDAQ,Financial Services,Shell Companies,0,96813,HI,United States
+MBVA,Millennium Bankshares Corp.,OTC,Financial Services,Banks—Regional,0,20164,VA,United States
+SCTBY,Securitas A B,OTC,Industrials,Security & Protection Services,358000,102 28,,Sweden
+SESMF,Suess MicroTec AG,OTC,Technology,Semiconductor Equipment & Materials,1133,85748,,Germany
+BLEU,bleuacacia ltd,NASDAQ,Financial Services,Shell Companies,0,10110,NY,United States
+CNDB.UN,Concord Acquisition Corp III,NYSE,Financial Services,Shell Companies,0,10022,NY,United States
+CMXHF,CSL Ltd.,OTC,Healthcare,Biotechnology,32065,3000,VIC,Australia
+RYLPF,Royal Phillips NV,OTC,Healthcare,Medical Devices,69656,1096 BC,,Netherlands
+LRGR,"Luminar Media Group, Inc.",OTC,Financial Services,Shell Companies,0,M5A 1N1,ON,Canada
+APELF,Alps Alpine Co Ltd.,OTC,Technology,Electronic Components,29926,145-8501,,Japan
+SMWPY,Connect Group PLC,OTC,,,0,,,United States
+VTTGF,VAT Group AG,OTC,Industrials,Specialty Industrial Machinery,2666,9469,,Switzerland
+XFLS,Xfuels Inc.,OTC,Energy,Oil & Gas E&P,0,T2P 0R8,AB,Canada
+WBD,"Warner Bros. Discovery, Inc.",NASDAQ,Communication Services,Entertainment,35300,10003,NY,United States
+SG,Sirius International Insurance Group Ltd,NYSE,Consumer Cyclical,Restaurants,6186,90018,CA,United States
+ADSEW,ADS-TEC Energy PLC,NASDAQ,Industrials,Electrical Equipment & Parts,189,D02 T380,,Ireland
+TV,Grupo Televisa SAB,NYSE,Communication Services,Telecom Services,35923,12210,DF,Mexico
+OIIIF,O3 Mining Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,46,M5H 3B7,ON,Canada
+APM,Aptorum Group Ltd,NASDAQ,Healthcare,Biotechnology,18,W1S 1BN,,United Kingdom
+ORRAF,Orora Ltd,OTC,Consumer Cyclical,Packaging & Containers,4657,3122,VIC,Australia
+TGRP,TRON Group Inc.,OTC,Healthcare,Biotechnology,50,58200,,Malaysia
+HJGP,"Hanjiao Group, Inc.",OTC,Consumer Cyclical,Internet Retail,34,,,China
+RYLBF,ROYAL BK CDA 1ST PFD BO,OTC,Financial Services,Banks - Diversified,90166,M5J 2J5,ON,Canada
+MLP,Maui Land & Pineapple Co Inc,NYSE,Real Estate,Real Estate Services,9,96761,HI,United States
+DWAHY,Daiwa House Industry Co. Ltd.,OTC,Real Estate,Real Estate—Development,49768,530-8241,,Japan
+ATIN,ATI Nationwide Holding Corp.,OTC,,,0,,,United States
+EQMEF,Equity Metals Corporation,OTC,Basic Materials,Other Precious Metals & Mining,0,V6E 3T5,BC,Canada
+QCRH,QCR Holdings Inc,NASDAQ,Financial Services,Banks—Regional,953,61265,IL,United States
+GLRI,Glori Energy Inc,OTC,Financial Services,Shell Companies,35,77053,TX,United States
+SUP,Superior Industries International Inc,NYSE,Consumer Cyclical,Auto Parts,6600,48033,MI,United States
+BSRTF,Bsr Real Estate Invt Tr,OTC,Real Estate,REIT - Residential,250,M5H 2S7,ON,Canada
+FNRN,First Northern Community Bancorp,OTC,Financial Services,Banks—Regional,192,95620,CA,United States
+NASO,Naples Soap Company Inc.,OTC,Consumer Defensive,Household & Personal Products,3,33967,FL,United States
+DCI,Donaldson Co Inc,NYSE,Industrials,Specialty Industrial Machinery,13000,55431,MN,United States
+MITEY,Mitsubishi Estate Co. Ltd.,OTC,Real Estate,Real Estate—Diversified,10655,100-8133,,Japan
+PUGE,Puget Technologies Inc,OTC,Financial Services,Shell Companies,2,33432,FL,United States
+MCHOY,MultiChoice Group Limited,OTC,Communication Services,Entertainment,7100,2194,,South Africa
+CSPHF,CSTONE PHARMACEUTICALS,OTC,Healthcare,Biotechnology,474,215123,,China
+CNPOF,Canopy Rivers Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,M5H 3Y2,ON,Canada
+BOLSY,B3 SA Brasil Bolsa Balcao,OTC,Financial Services,Financial Data & Stock Exchanges,2889,18970-020,SP,Brazil
+GTMIF,"Gastem, Inc.",OTC,Energy,Oil & Gas E&P,0,H3B 3A7,QC,Canada
+NKTR,Nektar Therapeutics,NASDAQ,Healthcare,Biotechnology,216,94158,CA,United States
+ROK,Rockwell Automation Inc,NYSE,Industrials,Specialty Industrial Machinery,29000,53204,WI,United States
+SQ,Square Inc,NYSE,Technology,Software - Infrastructure,12985,94612,CA,United States
+THWWW,Target Hospitality Corp.,NASDAQ,Industrials,Specialty Business Services,921,77381,TX,United States
+PLGC,"Playlogic Entertainment, Inc.",OTC,Communication Services,Electronic Gaming & Multimedia,101,1077 XX,,Netherlands
+IMGX,"Image Metrics, Inc.",OTC,Communication Services,Electronic Gaming & Multimedia,30,90245,CA,United States
+FLAF,"Farm Lands of Africa, Inc.",OTC,Consumer Defensive,Farm Products,0,,,Gibraltar
+HOVNP,Hovnanian Enterprises Inc,NASDAQ,,,0,,,United States
+FAUMF,FIRST AMERN URANIUM INC,OTC,Basic Materials,Other Industrial Metals & Mining,0,V7X 1M3,BC,Canada
+DWRKF,Draegerwerk AG,OTC,,,0,,,United States
+PBH,Prestige Consumer Healthcare Inc,NYSE,Healthcare,Drug Manufacturers - Specialty & Generic,560,10591,NY,United States
+APLM,Apollomics Inc,NASDAQ,Healthcare,Biotechnology,43,94404,CA,United States
+CCB,Coastal Financial Corp-WA,NASDAQ,Financial Services,Banks - Regional,528,98203-3646,WA,United States
+BMNDF,BIOMIND LABS INC.,OTC,Healthcare,Biotechnology,5,,,Uruguay
+XFINW,ExcelFin Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,94111,CA,United States
+NXCR,NexCore Healthcare Capital Corp.,OTC,,,0,,,United States
+DSCSY,Disco Corp.,OTC,Technology,Semiconductor Equipment & Materials,4553,143-8580,,Japan
+SEBYF,SEB S.A.,OTC,Consumer Cyclical,"Furnishings, Fixtures & Appliances",31000,69130,,France
+IRAAU,Iris Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,1001,,Cayman Islands
+KLKBF,Kuala Lumpur Kepong Berhad,OTC,Basic Materials,Specialty Chemicals,48487,30000,,Malaysia
+ARSLF,Altima Resources Ltd.,OTC,Energy,Oil & Gas E&P,0,V6C 2T5,BC,Canada
+MOBNF,M O B A NETWORK AB,OTC,Technology,Software - Application,9,114 34,,Sweden
+PDPTF,Pudo Inc.,OTC,Industrials,Integrated Freight & Logistics,0,L4V 1S6,ON,Canada
+NIHK,"Video River Networks, Inc.",OTC,Real Estate,Real Estate—Diversified,1,90501,CA,United States
+UPIPF,UNIVERSAL PROPTECH INC.,OTC,Industrials,Building Products & Equipment,0,M5K 1H1,ON,Canada
+BIPH,"Biophan Technologies, Inc.",NYSE,,,0,,,United States
+FUJSF,"Fuji Seal, Inc.",OTC,Consumer Cyclical,Packaging & Containers,5767,532-0003,,Japan
+GENC,Gencor Industries Inc,NYSE,Industrials,Farm & Heavy Construction Machinery,314,32810,FL,United States
+LMSBF,LIMESTONE BOAT CO LTD.,OTC,Consumer Cyclical,Recreational Vehicles,0,L9Y 2L6,ON,Canada
+AOGOU,Arogo Capital Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,33131,FL,United States
+SYTA,Siyata Mobile Inc.,NASDAQ,Technology,Communication Equipment,23,H3K 1G6,QC,Canada
+PRMFF,"Perimeter Solutions, SA",OTC,Basic Materials,Specialty Chemicals,219,63105,MO,United States
+KIMTF,Kia Motors Corp.,OTC,,,0,,,United States
+PUPOF,Public Power Corporation of Greece,OTC,Utilities,Utilities - Renewable,12970,10432,,Greece
+RAVE,Rave Restaurant Group Inc,NASDAQ,Consumer Cyclical,Restaurants,25,75056,TX,United States
+RSF,RiverNorth Marketplace Lending Corporation,NYSE,,,0,60654,IL,United States
+HPYCF,Happy Creek Minerals Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1H2,BC,Canada
+ALPN,Alpine Immune Sciences Inc,NASDAQ,Healthcare,Biotechnology,126,98102,WA,United States
+BLEUR,bleuacacia ltd,NASDAQ,,,0,10110,NY,United States
+NNGVF,Tesoro Minerals Corp.,OTC,Basic Materials,Gold,0,V6C 1T2,BC,Canada
+SSUTF,SIGNA SPORTS UNITED WTS,OTC,Consumer Cyclical,Specialty Retail,3623,10623,,Germany
+IDGXF,Integrated Diagnostics Holdings plc,OTC,Healthcare,Diagnostics & Research,6718,JE2 3RT,,Jersey
+WIZEY,Wise plc,OTC,Technology,Information Technology Services,5353,E1 6JJ,,United Kingdom
+NRPI,"NRP Stone, Inc.",OTC,Industrials,Aerospace & Defense,0,84098,UT,United States
+CLGPF,Clean Seed Capital Group Ltd,OTC,Industrials,Farm & Heavy Construction Machinery,0,V5E 2P7,BC,Canada
+SSEBF,Silver Spruce Resources Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,B4A 1E8,NS,Canada
+TNLIY,Trainline Plc.,OTC,Consumer Cyclical,Travel Services,950,EC1N 2TD,,United Kingdom
+ASPHF,ASCENTAGE PHARMA GROUP,OTC,Healthcare,Biotechnology,565,215000,,China
+ARAY,Accuray Inc,NASDAQ,Healthcare,Medical Devices,1024,53717-1954,WI,United States
+CPLT,"CommercePlanet, Inc.",OTC,,,96,90245,CA,United States
+CLRYF,Clarocity Corporation,OTC,Industrials,Specialty Business Services,0,92010,CA,United States
+ARCH,Arch Coal Inc,NYSE,Basic Materials,Coking Coal,3404,63141,MO,United States
+VRRM,Verra Mobility Corp,NASDAQ,Industrials,Infrastructure Operations,1581,85201,AZ,United States
+BOIRF,Boiron SA,OTC,Healthcare,Drug Manufacturers - Specialty & Generic,2813,69510,,France
+IPGDF,Independence Gold NL,OTC,Basic Materials,Other Industrial Metals & Mining,0,6151,WA,Australia
+FRCKL,FIRST REP BANK D/S SER K,OTC,Financial Services,Banks—Regional,7213,94111,CA,United States
+FSUGY,Fortescue Metals Group Ltd,OTC,Basic Materials,Other Industrial Metals & Mining,13690,6004,WA,Australia
+SEVN,Seven Hills Realty Trust,NASDAQ,Real Estate,REIT—Mortgage,0,02458-1634,MA,United States
+VAUCF,Viva Gold Corp.,OTC,Basic Materials,Gold,0,V2Y 0E2,BC,Canada
+ACIU,AC Immune SA,NASDAQ,Healthcare,Biotechnology,126,1015,,Switzerland
+SMAGF,Soma Gold Corp.,OTC,Basic Materials,Gold,0,V6E 3S7,BC,Canada
+EMDF,"E Med Future, Inc.",OTC,Communication Services,Entertainment,2,34233,FL,United States
+VLY,Valley National Bancorp,NASDAQ,Financial Services,Banks—Regional,3749,10119,NY,United States
+RENEU,Cartesian Growth Corporation II,NASDAQ,Financial Services,Shell Companies,0,10017,NY,United States
+LLESF,Lendlease Corporation Limited,OTC,Real Estate,Real Estate—Diversified,0,2000,NSW,Australia
+CAOHF,FDG Electric Vehicles Ltd.,OTC,Consumer Cyclical,Auto Parts,964,,,Hong Kong
+KNBA,"Kinbasha Gaming International, Inc.",OTC,Consumer Cyclical,Gambling,189,89169,NV,United States
+MIST,Milestone Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,39,H4M 2X6,QC,Canada
+LHYFF,LHYFE S A,OTC,Basic Materials,Specialty Chemicals,180,44000,,France
+SVTPF,S-Ventures PLC,OTC,Financial Services,Asset Management,39,SW1X 9BW,,United Kingdom
+CFEIY,China Feihe Limited,OTC,Consumer Defensive,Packaged Foods,9552,100016,,China
+UNLYF,"Unilever, PLC",OTC,Consumer Defensive,Household & Personal Products,126988,EC4Y 0DY,,United Kingdom
+HERF,Red Oak Hereford Farms Inc.,OTC,Consumer Defensive,Farm Products,22,51566,IA,United States
+SHCMF,"Search Minerals, Inc.",OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 3T5,BC,Canada
+MACQF,Themac Resources Group Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1T2,BC,Canada
+ZSYC,SMART CLOSET INC.,OTC,Financial Services,Shell Companies,2,92676,CA,United States
+SNWAF,SANWA HOLDINGS CORP,OTC,Industrials,Building Products & Equipment,12773,163-0478,,Japan
+BCRD,BLUEONE CARD INC,OTC,Technology,Software - Application,1,92660,CA,United States
+LANDM,Gladstone Land Corporation,NASDAQ,Real Estate,REIT—Specialty,0,22102-3211,VA,United States
+WKME,WalkMe Ltd.,NASDAQ,Technology,Software—Application,1200,6789903,,Israel
+CHGI,"China Carbon Graphite Group, Inc.",OTC,Industrials,Electrical Equipment & Parts,9,91765,CA,United States
+LXP.PR.C,Lexington Realty Trust,NYSE,Real Estate,REIT—Industrial,64,10119-4015,NY,United States
+CWAN,"Clearwater Analytics Holdings, Inc.",NYSE,Technology,Software—Application,1728,83702,ID,United States
+EQS,Equus Total Return Inc,NYSE,Financial Services,Asset Management,0,77002,TX,United States
+TCEHY,Tencent Holding Ltd.,OTC,Communication Services,Internet Content & Information,105309,518054,,China
+ESSA,ESSA Bancorp Inc,NASDAQ,Financial Services,Banks - Regional,232,18360-0160,PA,United States
+FLTLF,FLOW TRADERS LTD,OTC,,,646,1018 LL,,Netherlands
+NWUC,Nationwide Utilities Corp.,OTC,Energy,Oil & Gas E&P,0,V6M 2A5,BC,Canada
+SRAX,Social Reality Inc,NASDAQ,Communication Services,Advertising Agencies,0,91361,CA,United States
+LOGN,Logansport Financial Corp.,OTC,Financial Services,Banks—Regional,0,46947,IN,United States
+AXTI,AXT Inc,NASDAQ,Technology,Semiconductor Equipment & Materials,1559,94538-6339,CA,United States
+CIFRW,Cipher Mining Inc.,NASDAQ,Financial Services,Capital Markets,26,10017,NY,United States
+CYYNF,Cynata Therapeutics Ltd.,OTC,Healthcare,Biotechnology,0,3121,VIC,Australia
+ROWKF,"Renoworks Software, Inc.",OTC,Technology,Software—Application,0,T2P 3N9,AB,Canada
+NINOF,Nikon Corp.,OTC,Consumer Cyclical,Leisure,18790,108-6290,,Japan
+BRGC,BrightRock Gold Corp.,OTC,Basic Materials,Other Precious Metals & Mining,0,60031,IL,United States
+HENGF,Hengdeli Holdings Ltd,OTC,Industrials,Conglomerates,1453,,,Hong Kong
+GLW,Corning Inc,NYSE,Technology,Electronic Components,49800,14831,NY,United States
+PTWO,"Pono Capital Two, Inc.",NASDAQ,Financial Services,Shell Companies,0,96813,HI,United States
+ONE,OneSmart International Education Group Ltd,NYSE,,,0,,,United States
+ABPR,"Airborne Security & Protective Services, Inc.",OTC,Industrials,Security & Protection Services,0,33162,FL,United States
+DLMAF,"Dollarama, Inc.",OTC,Consumer Defensive,Discount Stores,0,H4P 0A1,QC,Canada
+ENMPF,Ensurge Micropower ASA,OTC,Technology,Electronic Components,37,0160,,Norway
+CUK,Carnival PLC,NYSE,Consumer Cyclical,Leisure,106000,33178-2428,FL,United States
+OPT,Opthea Ltd,NASDAQ,Healthcare,Biotechnology,24,3141,VIC,Australia
+YARIY,Yara International ASA,OTC,Basic Materials,Agricultural Inputs,17500,0277,,Norway
+EROSF,Eros Resources Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1H2,BC,Canada
+AUBAP,Atlantic Union Bankshares Corporation,NASDAQ,,,0,,,United States
+BGNE,BeiGene Ltd,NASDAQ,Healthcare,Biotechnology,10600,KY1-1108,,Cayman Islands
+PGXPF,Pelangio Exploration Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,M5C 1P1,ON,Canada
+AEYE,AudioEye Inc,NASDAQ,Technology,Software—Application,120,85711,AZ,United States
+CYTHW,"Cyclo Therapeutics, Inc.",NASDAQ,Healthcare,Drug Manufacturers - Specialty & Generic,9,32653,FL,United States
+CVR,Chicago Rivet & Machine Co,NYSE,Industrials,Tools & Accessories,208,60563,IL,United States
+VSTA,Vasta Platform Ltd,NASDAQ,Consumer Defensive,Education & Training Services,1795,01310-100,SP,Brazil
+TRUMF,Terumo Corp.,OTC,Healthcare,Medical Instruments & Supplies,30207,151-0072,,Japan
+KELRF,Keisei Electric Rail,OTC,Industrials,Railroads,12013,272-8510,,Japan
+BZLFY,Bunzl plc,OTC,Consumer Defensive,Food Distribution,22451,W1H 7JT,,United Kingdom
+SEOJF,Stora Enso Oyj,OTC,Basic Materials,Paper & Paper Products,19842,00101,,Finland
+TKCM,Token Communities Ltd.,OTC,Financial Services,Capital Markets,2,34211,FL,United States
+TGTX,TG Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,264,27560,NC,United States
+PPC,Pilgrim's Pride Corp,NASDAQ,Consumer Defensive,Packaged Foods,61200,80634-9038,CO,United States
+BMXMF,Biomerieux 69 Marcy L'Etoile,OTC,Healthcare,Diagnostics & Research,12557,69280,,France
+GOOXF,Givot Olam Oil Exploration LP,OTC,Energy,Oil & Gas E&P,9,97775,,Israel
+DECXF,Decade Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V0T 1W0,BC,Canada
+PGPM,Pilgrim Petroleum Corp.,OTC,,,0,75001,TX,United States
+AVPI,"AVP, Inc.",OTC,Communication Services,Entertainment,32,90045,CA,United States
+TOP,TOP Financial Group Limited,NASDAQ,Financial Services,Capital Markets,11,,,Hong Kong
+GPTRF,Grande Portage Resources Ltd.,OTC,Basic Materials,Gold,0,V6E 3V7,BC,Canada
+GFMH,Goliath Film & Media Holdings,OTC,Communication Services,Entertainment,0,89703,NV,United States
+GDMIF,Goldstar Minerals Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,G1S 3P3,QC,Canada
+MSBB,MERCER BANCORP INC,OTC,Financial Services,Banks - Regional,29,45822,OH,United States
+BKSD,"Blueprint Technologies, Inc.",OTC,Technology,Communication Equipment,121,33760,FL,United States
+CAPC,"Capstone Companies, Inc.",OTC,Industrials,Electrical Equipment & Parts,7,33441,FL,United States
+BKEAY,Bank of East Asia Limited,OTC,Financial Services,Banks - Regional,8140,,,Hong Kong
+NCSM,NCS Multistage Holdings Inc,NASDAQ,Energy,Oil & Gas Equipment & Services,228,77070,TX,United States
+CNXN,PC Connection Inc,NASDAQ,Technology,Electronics & Computer Distribution,2685,03054-4631,NH,United States
+PSTI,Pluristem Therapeutics Inc,NASDAQ,,,0,,,United States
+GRXXF,Graphite Energy Corp.,OTC,Basic Materials,Gold,0,V6J 4M6,BC,Canada
+TKOMF,"Tokio Marine Holdings, Inc.",OTC,Financial Services,Insurance - Property & Casualty,43217,100-0004,,Japan
+CDEVY,"City Developments, Ltd.",OTC,Real Estate,Real Estate—Development,0,048619,,Singapore
+ELEAF,El. En Spa,OTC,Healthcare,Medical Devices,2137,50041,FI,Italy
+ROSS.UN,Ross Acquisition Corp II,NYSE,Financial Services,Shell Companies,0,33480,FL,United States
+RYGYF,Reysas Gayrimenkul Yatirim Ortaklig,OTC,Real Estate,REIT - Industrial,12,34696,,Turkey
+EXNN,Exent Corporation,OTC,Financial Services,Shell Companies,0,517000,,China
+CNLFF,Canlan Ice Sports Corp.,OTC,Consumer Cyclical,Leisure,1000,V5B 3B8,BC,Canada
+HFBL,Home Federal Bancorp Inc-LA,NASDAQ,Financial Services,Banks—Regional,74,71101,LA,United States
+BSYN,"Biosynergy, Inc.",OTC,,,0,,,United States
+SCPX,"Scorpius Holdings, Inc.",NYSE,Healthcare,Biotechnology,77,27560,NC,United States
+LGIH,LGI Homes Inc,NASDAQ,Consumer Cyclical,Residential Construction,1089,77380,TX,United States
+DSEEY,"Daiwa Securities Group, Inc.",OTC,Financial Services,Capital Markets,14731,100-6751,,Japan
+ODEFF,"Petrichor Energy, Inc.",OTC,Energy,Oil & Gas E&P,0,V6C 2T5,BC,Canada
+HXGBY,Hexagon AB,OTC,Technology,Scientific & Technical Instruments,24581,111 23,,Sweden
+TKIAF,Taikisha Ltd,OTC,,,0,,,United States
+RENT,"Rent the Runway, Inc.",NASDAQ,Consumer Cyclical,Apparel Retail,880,11201,NY,United States
+CLS,Celestica Inc,NYSE,Technology,Electronic Components,20611,M2N 6L7,ON,Canada
+CTPR,CTPARTNERS EXECUTIVE SEARCH INC,OTC,Industrials,Staffing & Employment Services,631,10036,NY,United States
+PDXP,"PDX Partners, Inc.",OTC,Technology,Communication Equipment,0,46201,IN,United States
+VRAYQ,VIEWRAY INC,OTC,Healthcare,Medical Devices,295,80202,CO,United States
+ICR.PR.A,"Inpoint Commercial Real Estate Income, Inc.",NYSE,Real Estate,REIT - Mortgage,0,60523,IL,United States
+BML.PR.H,Bank of America Corp,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+BLWYF,Bellway Plc.,OTC,Consumer Cyclical,Residential Construction,2979,NE13 8BF,,United Kingdom
+NBY,NovaBay Pharmaceuticals Inc,NYSE,Healthcare,Biotechnology,29,94608,CA,United States
+BLRDY,Billerud Korsnas AB,OTC,,,6134,169 27,,Sweden
+ELSE,Electro-Sensors Inc,NASDAQ,Technology,Scientific & Technical Instruments,34,55343-9108,MN,United States
+ACMB,Agro Capital Management Corp,OTC,Industrials,Conglomerates,37,10022,NY,United States
+NB,NioCorp Developments Ltd. - Common Stock,NASDAQ,Basic Materials,Other Industrial Metals & Mining,7,80112,CO,United States
+EXMT,Anything Technologies Media Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,89706,NV,United States
+INDOY,Indorama Ventures Public Company Limited,OTC,Basic Materials,Chemicals,0,10110,,Thailand
+CROX,Crocs Inc,NASDAQ,Consumer Cyclical,Footwear & Accessories,7030,80021,CO,United States
+JJU,iPath Series B Bloomberg Aluminum Subindex Total Return ETN,NYSE,,,0,,,United States
+CNVVF,ConvaTec Group plc,OTC,Healthcare,Medical Instruments & Supplies,10000,RG1 3JH,,United Kingdom
+ABL,Abacus Life Inc,NASDAQ,Financial Services,Insurance—Life,0,32835,FL,United States
+NVCR,Novocure Ltd,NASDAQ,Healthcare,Medical Devices,1453,JE2 4UF,,Jersey
+CPWY,"Clean Energy Pathways, Inc.",OTC,Technology,Electronic Components,0,82834,WY,United States
+HNNMY,Hennes & Mauritz AB,OTC,Consumer Cyclical,Apparel Manufacturing,101103,106 38,,Sweden
+BAC.PR.K,Bank of America Corp,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+KSIH,KS International Holdings Corporation,OTC,Technology,Software—Infrastructure,16,114,,Taiwan
+SVNDY,"Seven & I Holdings Co., Ltd.",OTC,Consumer Defensive,Grocery Stores,84154,102-8452,,Japan
+CMRE.PR.B,Costamare Inc,NYSE,Industrials,Marine Shipping,2700,98000,,Monaco
+WBTMU,WESTBROOK THOMPSON OVERRIDING RYT U UNITS,OTC,,,0,,,United States
+BRST,Broad Street Realty Inc.,OTC,Real Estate,Real Estate Services,47,20814,MD,United States
+LFMD,"LifeMD, Inc.",NASDAQ,Healthcare,Health Information Services,199,10001,NY,United States
+BURCP,"Burnham Holdings, Inc.",OTC,,,0,,,United States
+ETEK,"Eco-Tek Group, Inc.",OTC,Financial Services,Shell Companies,2,L4L 7X6,ON,Canada
+SGLDF,Sabre Gold Mines Corp.,OTC,Basic Materials,Gold,0,V6C 3L6,BC,Canada
+CNVVY,ConvaTec Group plc,OTC,Healthcare,Medical Instruments & Supplies,10000,RG1 3JH,,United Kingdom
+KBLB,"Kraig Biocraft Laboratories, Inc.",OTC,Basic Materials,Specialty Chemicals,36,48104,MI,United States
+CPF,Central Pacific Financial Corp,NYSE,Financial Services,Banks - Regional,696,96813,HI,United States
+FLME.UN,Flame Acquisition Corp.,NYSE,Financial Services,Shell Companies,0,77002,TX,United States
+BHSE,Bull Horn Holdings Corp.,NASDAQ,,,0,,,United States
+FUAPF,Global Cannabis Applications Corp,OTC,Technology,Software—Infrastructure,0,V6E 4A6,BC,Canada
+HOLOW,MicroCloud Hologram Inc.,NASDAQ,Technology,Electronic Components,101,518000,,China
+GPOVF,Grupo Carso S.A. de CV,OTC,Industrials,Conglomerates,94449,11529,DF,Mexico
+MNOIY,Mandarin Oriental International Ltd.,OTC,Consumer Cyclical,Lodging,0,,,Hong Kong
+SBAY,"Subaye, Inc.",OTC,,,1539,510006,,China
+VBNK,VersaBank,NASDAQ,Financial Services,Banks—Regional,119,N6A 5P2,ON,Canada
+STGPF,Scentre Group,OTC,Real Estate,REIT—Retail,2964,2000,NSW,Australia
+GIII,G-III Apparel Group Ltd,NASDAQ,Consumer Cyclical,Apparel Manufacturing,3600,10018,NY,United States
+STLXF,Stellar AfricaGold Inc.,OTC,Basic Materials,Gold,0,V6M 3P6,BC,Canada
+LMGHF,VICTORY PARTN VIII NORWAY HLDG AS,OTC,Communication Services,Telecom Services,600,0164,,Norway
+PRLHW,Pearl Holdings Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,10017,NY,United States
+DLNG.PR.A,Dynagas LNG Partners LP,NYSE,,,0,,,United States
+OXLCM,Oxford Lane Capital Corp,NASDAQ,Financial Services,Asset Management,0,06830,CT,United States
+SAIDF,Fidelity Minerals Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 3Z3,BC,Canada
+GPLS,"Geopulse Exploration, Inc.",OTC,Technology,Software—Infrastructure,0,90036,CA,United States
+WLAN,"Wialan Technologies, Inc.",OTC,Technology,Communication Equipment,0,33351,FL,United States
+DNBBF,DNB Bank ASA,OTC,Financial Services,Banks—Regional,10596,0191,,Norway
+TREIF,Treatment.Com International Inc.,OTC,Healthcare,Health Information Services,0,V6C 3H1,BC,Canada
+BQSSF,Boss Energy Limited,OTC,Basic Materials,Other Industrial Metals & Mining,81,6008,WA,Australia
+IPB,IndexPlus Trust,NYSE,,,0,,,United States
+RZREF,Razer Energy Corp.,OTC,Energy,Oil & Gas E&P,87,T2P 3L5,AB,Canada
+TRLM,TRULEUM INC,OTC,Energy,Oil & Gas E&P,0,80401,CO,United States
+ACBA,Ace Global Business Acquisition Limited,NASDAQ,Financial Services,Shell Companies,0,,,Hong Kong
+NAVB,Navidea Biopharmaceuticals Inc,OTC,Healthcare,Biotechnology,11,43017-3552,OH,United States
+USM,United States Cellular Corp,NYSE,Communication Services,Telecom Services,4300,60631,IL,United States
+PSBZP,"PS Business Parks, Inc.",OTC,Real Estate,REIT—Diversified,0,10154,NY,United States
+BNTGY,Brenntag AG,OTC,Basic Materials,Specialty Chemicals,17500,45131,,Germany
+TKOI,"Telkonet, Inc.",OTC,Technology,Scientific & Technical Instruments,29,53186,WI,United States
+TS,Tenaris SA,NYSE,Energy,Oil & Gas Equipment & Services,25292,2449,,Luxembourg
+RCTRF,Trans Canada Gold Corp.,OTC,Energy,Oil & Gas E&P,0,V6C 2T8,BC,Canada
+SQNS,Sequans Communications SA,NYSE,Technology,Semiconductors,285,92700,,France
+GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme,OTC,Industrials,Engineering & Construction,3166,115 26,,Greece
+TISCY,Taisei Corp.,OTC,Industrials,Engineering & Construction,14466,163-0606,,Japan
+WLMIY,"Wilmar International, Ltd.",OTC,Consumer Defensive,Packaged Foods,100000,138568,,Singapore
+HLGNW,"Heliogen, Inc.",OTC,Utilities,Utilities - Renewable,220,91103,CA,United States
+PLUR,Pluri Inc,NASDAQ,Healthcare,Biotechnology,123,3508409,,Israel
+CBAT,CBAK Energy Technology Inc,NASDAQ,Industrials,Electrical Equipment & Parts,1063,116450,,China
+THFWF,Thorpe FW Plc.,OTC,Industrials,Electrical Equipment & Parts,900,B98 9HH,,United Kingdom
+KNKBF,Kinnevik AB,OTC,,,45,103 13,,Sweden
+BVRDF,Bureau Veritas Registre International De Classification,OTC,Industrials,Consulting Services,82000,92200,,France
+LVCA,"Lake Victoria Mining Company, Inc.",OTC,Financial Services,Shell Companies,8,84109,UT,United States
+CTCX,Carmell Therapeutics Corp,NASDAQ,Healthcare,Biotechnology,14,15203,PA,United States
+GGGSY,Greggs Plc.,OTC,Consumer Defensive,Grocery Stores,32000,NE12 8BU,,United Kingdom
+FTBD,Fidelity Merrimack Street Trust Fidelity Tactical Bond ETF,NYSE,,,0,,,United States
+DLMI,"Diamond Lake Minerals, Inc.",OTC,Real Estate,Real Estate Services,0,84111,UT,United States
+VPIM,Vitality Prime Inc.,OTC,Technology,Scientific & Technical Instruments,0,92111,CA,United States
+PPJE,"PPJ Healthcare Enterprises, Inc.",OTC,Healthcare,Health Information Services,0,89502,NV,United States
+MPGPF,PageGroup PLC,OTC,Industrials,Staffing & Employment Services,8572,KT15 2NX,,United Kingdom
+BWMX,Betterware de Mexico SAPI de CV,NASDAQ,Consumer Cyclical,Specialty Retail,2294,45350,JA,Mexico
+JHX,James Hardie Industries PLC,NYSE,Basic Materials,Building Materials,5473,2,,Ireland
+TKVR,ZHEJIANG DASHANG MEDIA CO,OTC,Financial Services,Shell Companies,483,3111121,,China
+LFWD,ReWalk Robotics Ltd.,NASDAQ,Healthcare,Medical Devices,108,2069203,,Israel
+SIGY,"Sigyn Therapeutics, Inc.",OTC,Healthcare,Biotechnology,5,92106,CA,United States
+PHIO,Phio Pharmaceuticals Corp,NASDAQ,Healthcare,Biotechnology,9,01752,MA,United States
+MONOY,"Monotaro Co., Ltd.",OTC,Consumer Cyclical,Internet Retail,1275,660-0876,,Japan
+MDDVF,Medical Developments International Ltd.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,3179,VIC,Australia
+APPF,Appfolio Inc,NASDAQ,Technology,Software - Application,1504,93117,CA,United States
+IIJIF,"Internet Initiative Japan, Inc.",OTC,Communication Services,Telecom Services,4451,102-0071,,Japan
+U,Unity Software Inc,NYSE,Technology,Software—Application,6748,94103-3104,CA,United States
+NVVEW,Nuvve Holding Corp.,NASDAQ,Consumer Cyclical,Specialty Retail,56,92106,CA,United States
+RSLCS,RSE ARCHIVE LLC.,OTC,,,0,,,United States
+ECMLF,Ecometals Ltd.,OTC,Basic Materials,Gold,0,V6E 3V7,BC,Canada
+CRKN,Crown ElectroKinetics Corp.,NASDAQ,Basic Materials,Specialty Chemicals,16,97330,OR,United States
+FLIDY,FLSmidth & Co. A/S,OTC,Industrials,Specialty Industrial Machinery,9377,2500,,Denmark
+NEGXF,"Nexgenrx, Inc.",OTC,Healthcare,Healthcare Plans,0,M9C 5L6,ON,Canada
+SLRC,Solar Capital Ltd,NASDAQ,Financial Services,Asset Management,0,10022-1606,NY,United States
+ATCH,"AtlasClear Holdings, Inc.",NYSE,Technology,Software - Infrastructure,0,33607,FL,United States
+SYY,Sysco Corp,NYSE,Consumer Defensive,Food Distribution,72000,77077-2099,TX,United States
+KELYB,Kelly Services Inc,NASDAQ,Industrials,Staffing & Employment Services,6200,48084-4782,MI,United States
+PBMLF,Pacific Booker Minerals Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 3Z3,BC,Canada
+SLFPY,Standard Life Aberdeen PLC,OTC,Financial Services,Asset Management,4719,EH2 2LL,,United Kingdom
+ECPL,"EcoPlus, Inc.",OTC,Industrials,Waste Management,3,28078,NC,United States
+NPK,National Presto Industries Inc,NYSE,Industrials,Aerospace & Defense,973,54703-3703,WI,United States
+PCCYF,"PetroChina Co., Ltd.",OTC,Energy,Oil & Gas Integrated,398440,100007,,China
+METCL,"Ramaco Resources, Inc. - 9.00% ",NASDAQ,,,0,,,United States
+FOR,Forestar Group Inc,NYSE,Real Estate,Real Estate - Development,329,76006,TX,United States
+HKD,AMTD Digital Inc,NYSE,Technology,Software - Application,199,75008,,France
+CWEN.A,Clearway Energy Inc,NYSE,Utilities,Utilities—Renewable,61,08540,NJ,United States
+PRIF-G,"Priority Income Fund, Inc. 6.25",NYSE,,,0,33401,FL,United States
+VLCJF,Velocity Minerals Ltd.,OTC,Basic Materials,Gold,0,V6C 2W2,BC,Canada
+SLNM,"Salon Media Group, Inc.",OTC,Communication Services,Internet Content & Information,24,94105,CA,United States
+RMETF,Rackla Metals Inc,OTC,Basic Materials,Gold,0,V6C 3L6,BC,Canada
+ESS,Essex Property Trust Inc,NYSE,Real Estate,REIT—Residential,1747,94403-7107,CA,United States
+ICBT,"ICBS, Ltd.",OTC,Industrials,Conglomerates,0,J7V 7P2,QC,Canada
+APCFF,ATLAS PEARLS LTD,OTC,Consumer Cyclical,Luxury Goods,555,6008,WA,Australia
+BRRGF,Bergenbio AS,OTC,Healthcare,Biotechnology,18,5009,,Norway
+TELNY,Telenor ASA,OTC,Communication Services,Telecom Services,14000,1360,,Norway
+APXIW,APx Acquisition Corp. I,NASDAQ,Financial Services,Shell Companies,0,05370,DF,Mexico
+SGAPY,Singapore Telecommunications Ltd.,OTC,Communication Services,Telecom Services,24070,239732,,Singapore
+SIVBQ,,OTC,Financial Services,Banks—Regional,8553,95054-1191,CA,United States
+EVTL,Vertical Aerospace Ltd.,NYSE,Industrials,Aerospace & Defense,316,BS2 0UW,,United Kingdom
+WRN,Western Copper & Gold Corp,NYSE,Basic Materials,Other Industrial Metals & Mining,14,V6E 3Z3,BC,Canada
+EFSI,"Eagle Financial Services, Inc.",OTC,Financial Services,Banks—Regional,241,22611,VA,United States
+SYHMD,SYNTHOMER PLC U/ADR NEW,OTC,,,0,,,United States
+HMDCF,Hutchison China Ltd.,OTC,Healthcare,Drug Manufacturers - Specialty & Generic,1988,,,Hong Kong
+JTGPF,JUST GROUP PLC,OTC,Financial Services,Insurance—Specialty,1124,RH2 7RP,,United Kingdom
+ANSS,ANSYS Inc,NASDAQ,Technology,Software—Application,6200,15317,PA,United States
+GRNF,GRN Holding Corporation,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,98101,WA,United States
+KIKOF,Kikkoman Corp.,OTC,Consumer Defensive,Packaged Foods,7775,278-8601,,Japan
+DOGEF,Orsted A/S,OTC,Utilities,Utilities—Renewable,8905,7000,,Denmark
+IONGF,Ion Energy Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,M5H 3V9,ON,Canada
+STXYF,SatixFy Communications Ltd.,OTC,Technology,Communication Equipment,191,670315,,Israel
+QTCI,Quantum Capital Inc.,OTC,Financial Services,Credit Services,17,33301,FL,United States
+VGDFF,VANGUARD FUNDS PLC,OTC,,,0,,,United States
+SPGX,Sustainable Projects Group Inc.,OTC,Industrials,Conglomerates,8,34109,FL,United States
+CMIT,"CMARK International, Inc.",OTC,Industrials,Specialty Business Services,8,29223,SC,United States
+AINHF,ACCESS INNOVATION HLDGS,OTC,Communication Services,Entertainment,220,2060,NSW,Australia
+AIKO,Alternative Investment Corporation,OTC,Financial Services,Shell Companies,2,10022,NY,United States
+ACONW,"Aclarion, Inc.",NASDAQ,Healthcare,Health Information Services,4,80021,CO,United States
+PAFO,Pacifico Acquisition Corp.,NASDAQ,,,0,,,United States
+IROHW,Iron Horse Acquisitions Corp. Warrant,NASDAQ,Financial Services,Shell Companies,0,91610,CA,United States
+XOS,"Xos, Inc.",NASDAQ,Industrials,Farm & Heavy Construction Machinery,272,90065,CA,United States
+DLOC,"Digital Locations, Inc.",OTC,Industrials,Engineering & Construction,0,93101,CA,United States
+CGNH,CardioGenics Holdings Inc.,OTC,Healthcare,Diagnostics & Research,4,L4V 1W8,ON,Canada
+CANOQ,"Cano Health, Inc.",OTC,Healthcare,Medical Care Facilities,4010,33178,FL,United States
+EAWD,ENERGY & WTR DEV CORP.,OTC,Industrials,Pollution & Treatment Controls,4,33702,FL,United States
+PRA,ProAssurance Corp,NYSE,Financial Services,Insurance—Property & Casualty,1094,35209,AL,United States
+BKKLY,Bangkok Bank Public Co Ltd.,OTC,Financial Services,Banks - Regional,0,10500,,Thailand
+OPK,OPKO Health Inc,NASDAQ,Healthcare,Diagnostics & Research,3930,33137,FL,United States
+MMSI,Merit Medical Systems Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,6950,84095,UT,United States
+NTRBW,Nutriband Inc.,NASDAQ,Healthcare,Biotechnology,0,32801,FL,United States
+AJX,Great Ajax Corp,NYSE,Real Estate,REIT - Mortgage,0,97223,OR,United States
+IEXA,"iExalt, Inc.",OTC,Industrials,Specialty Business Services,100,77034,TX,United States
+CRXPF,VERT INFRASTRUCTURE LTD.,OTC,Real Estate,Real Estate Services,0,V6C 2Z4,BC,Canada
+GROVW,GROVE COLLABORATIVE WTS,OTC,,,0,,,United States
+AGR,Avangrid Inc,NYSE,Utilities,Utilities—Regulated Electric,7999,06477,CT,United States
+INTI,Inhibitor Therapeutics Inc. ,OTC,Healthcare,Biotechnology,3,33606-2173,FL,United States
+AUDAQ,"Audacy, Inc.",OTC,Communication Services,Broadcasting,3539,19103,PA,United States
+SEAOF,Seaco Ltd.,OTC,Industrials,Marine Shipping,8700,HM 08,,Bermuda
+PGNY,Progyny Inc,NASDAQ,Healthcare,Health Information Services,563,10018,NY,United States
+DVNHF,Frontier Services Group Ltd,OTC,Industrials,Integrated Freight & Logistics,1998,,,Hong Kong
+ULH,Universal Logistics Holdings Inc,NASDAQ,Industrials,Trucking,8646,48089,MI,United States
+MSRM,"Mushrooms, Inc.",OTC,Consumer Defensive,Farm Products,0,33928,FL,United States
+RTNTF,Rio Tinto Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,57000,SW1Y 4AD,,United Kingdom
+NTBL,Notable Labs Ltd.,NASDAQ,Healthcare,Biotechnology,13,94404,CA,United States
+FSUN,FirstSun Capital Bancorp,OTC,Financial Services,Banks—Regional,1106,80202,CO,United States
+FECOF,FEC Resources Inc.,OTC,Energy,Oil & Gas E&P,0,V6C 2B5,BC,Canada
+SKPO,"Skye Petroleum, Inc.",OTC,Energy,Oil & Gas Equipment & Services,4,77478,TX,United States
+BDCL,ETRACS 2xLeveraged Long Wells Fargo Business Development Company Index ETN,NYSE,,,0,,,United States
+SB.PR.D,Safe Bulkers Inc,NYSE,Industrials,Marine Shipping,9,98000,,Monaco
+CHYL,China Senior Living Industry International Holding Corporation,OTC,Financial Services,Shell Companies,55,80222,CO,United States
+MTAL,Metals Acquisition Corp,NYSE,Basic Materials,Copper,0,JE4 9WG,,Jersey
+CLRB,Cellectar Biosciences Inc,NASDAQ,Healthcare,Biotechnology,15,07932,NJ,United States
+SNN,Smith & Nephew PLC,NYSE,Healthcare,Medical Devices,18000,WD18 8YE,,United Kingdom
+HEEVF,HELIUM EVOLUTION INC.,OTC,Energy,Oil & Gas E&P,0,T2P 3E6,AB,Canada
+GOOD,Gladstone Commercial Corp,NASDAQ,Real Estate,REIT - Diversified,0,22102-3211,VA,United States
+KSMRF,"Contagious Gaming, Inc. ",OTC,Communication Services,Electronic Gaming & Multimedia,0,V6C 1H2,BC,Canada
+VRED,"Virtual Ed Link, Inc.",OTC,Consumer Defensive,Education & Training Services,0,07004,NJ,United States
+BWAQU,Blue World Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,10001,NY,United States
+EFXT,Enerflex Ltd,NYSE,Energy,Oil & Gas Equipment & Services,4900,T2G OK3,AB,Canada
+ARUXF,Acrux Ltd.,OTC,Healthcare,Biotechnology,0,3003,VIC,Australia
+SDAD,S.H. Resources & Development Corp.,OTC,Financial Services,Shell Companies,0,90210,CA,United States
+KRTX,Karuna Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,339,02110,MA,United States
+CRXM,"Taxus Cardium Pharmaceuticals Group, Inc.",OTC,Healthcare,Biotechnology,3,92121,CA,United States
+MXROF,MAX Resource Corp.,OTC,Basic Materials,Other Precious Metals & Mining,0,V6E 1S4,BC,Canada
+EXXAF,Exxaro Resources Ltd.,OTC,Energy,Thermal Coal,0,0163,,South Africa
+VICA,Rafina Innovations Inc.,OTC,Healthcare,Medical Devices,4,G51 1HJ,,United Kingdom
+VLMGF,Viscount Mining Corp,OTC,Basic Materials,Other Precious Metals & Mining,0,V7M 3J3,BC,Canada
+AAP,Advance Auto Parts Inc,NYSE,Consumer Cyclical,Specialty Retail,40000,27609,NC,United States
+MPIR,"Empire Diversified Energy, Inc.",OTC,Energy,Oil & Gas Midstream,0,33301,FL,United States
+PMVP,"PMV Pharmaceuticals, Inc.",NASDAQ,Healthcare,Biotechnology,63,08540,NJ,United States
+BNRE,Brookfield Reinsurance Ltd.,NYSE,Financial Services,Insurance—Reinsurance,0,HM08,,Bermuda
+FDS,FactSet Research Systems Inc,NYSE,Financial Services,Financial Data & Stock Exchanges,12515,06850,CT,United States
+TWLVU,Twelve Seas Investment Company II,NASDAQ,Financial Services,Shell Companies,0,10003-1502,NY,United States
+SWPRF,Swiss Prime Site AG,OTC,Real Estate,Real Estate—Diversified,612,6300,,Switzerland
+CSSEL,"Chicken Soup for the Soul Entertainment, Inc.",NASDAQ,Communication Services,Entertainment,1329,06807,CT,United States
+LMDXF,LumiraDx Limited,OTC,Healthcare,Diagnostics & Research,1210,SE1 2AQ,,United Kingdom
+MSTO,Masterbeat Corp,OTC,Real Estate,Real Estate Services,0,85251,AZ,United States
+TRN,Trinity Industries Inc,NYSE,Industrials,Railroads,9480,75254-2957,TX,United States
+DIALF,Dialight Plc.,OTC,Industrials,Electrical Equipment & Parts,1358,EC2N 1HQ,,United Kingdom
+XTRXF,XTRACKERS II,OTC,,,0,,,United States
+DNOW,NOW Inc,NYSE,Industrials,Specialty Industrial Machinery,2375,77041,TX,United States
+TBLD,Thornburg Income Builder Opportunities Trust,NASDAQ,,,0,87506,NM,United States
+WMMVY,Wal-Mart De Mexico S.A.B. de C.V.,OTC,Consumer Defensive,Discount Stores,237605,02770,DF,Mexico
+KNBIF,Kane Biotech Inc.,OTC,Healthcare,Biotechnology,0,R3T 6G2,MB,Canada
+DDEJF,Dundee Corp.,OTC,Basic Materials,Other Precious Metals & Mining,19,M5C 2V9,ON,Canada
+RNGG,Reno Gold Corp.,OTC,Basic Materials,Gold,1,L4K 3R1,ON,Canada
+WEJWF,WEJO GROUP LIMITED WTS,OTC,Technology,Software—Infrastructure,251,M3 5EN,,United Kingdom
+GOVX,"GeoVax Labs, Inc.",NASDAQ,Healthcare,Biotechnology,14,30080,GA,United States
+FNDM,"Fund.com, Inc.",OTC,Financial Services,Capital Markets,30,10005,NY,United States
+LBTI,Lithium & Boron Technology Inc.,OTC,Basic Materials,Chemicals,47,817000,,China
+SIXF,AIM ETF Products Trust AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,NYSE,,,0,,,United States
+CRWS,Crown Crafts Inc,NASDAQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",172,70737,LA,United States
+SQFTW,"Presidio Property Trust, Inc.",NASDAQ,Real Estate,REIT - Diversified,18,92123-4366,CA,United States
+XITO,XENOUS HLDGS INC,OTC,Financial Services,Shell Companies,0,50450,,Malaysia
+DNIEF,Danieli S.p.A.- Officine Meccaniche Danieli & C.,OTC,Industrials,Specialty Industrial Machinery,9645,33042,UD,Italy
+RGLXY,RTL Group SA,OTC,Communication Services,Broadcasting,18623,1543,,Luxembourg
+USNU,"U.S. Neurosurgical Holdings, Inc.",OTC,Healthcare,Medical Care Facilities,3,20850,MD,United States
+VRBFF,VanadiumCorp Resource Inc,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6M 3W5,BC,Canada
+ADV,Advantage Solutions Inc,NASDAQ,Communication Services,Advertising Agencies,20000,92618,CA,United States
+TMICF,Trend Micro Inc.,OTC,Technology,Software—Infrastructure,7669,151-0053,,Japan
+AILIN,Ameren Illinois Company,OTC,Utilities,Utilities - Regulated Electric,3280,62234,IL,United States
+OCC,Optical Cable Corp,NASDAQ,Technology,Communication Equipment,327,24019,VA,United States
+NCPCF,Nickel Creek Platinum Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,3,V6C 2X8,BC,Canada
+PMMAF,Puma AG Rudolf Dassler Sport,OTC,Consumer Cyclical,Footwear & Accessories,18681,91074,,Germany
+TRKUF,TARKU RES LTD,OTC,Basic Materials,Other Industrial Metals & Mining,0,S7K 5M5,SK,Canada
+BRAV,"Bravada International, Ltd.",OTC,Consumer Cyclical,Internet Retail,8,90046,CA,United States
+WEMXF,Weimob Inc.,OTC,Technology,Software—Application,5704,,,China
+DCCPF,DCC Plc,OTC,Energy,Oil & Gas Refining & Marketing,16000,18,,Ireland
+SSPLF,SAFE SUPPLY STREAMING CO,OTC,Financial Services,Asset Management,0,V6C2X8,BC,Canada
+WDGJY,Wood Group (John) Plc.,OTC,Energy,Oil & Gas Integrated,35636,AB12 3LE,,United Kingdom
+KGBLY,Kingboard Laminates Holdings Ltd.,OTC,Technology,Electronic Components,10200,,,Hong Kong
+SYKWF,Sky Network Television Ltd.,OTC,Communication Services,Entertainment,679,1060,,New Zealand
+RKT,Rocket Cos Inc,NYSE,Financial Services,Mortgage Finance,14700,48226,MI,United States
+UPCHY,Uni-President China Holdings Ltd.,OTC,Consumer Defensive,Beverages - Non-Alcoholic,33321,,,China
+VCYE,VELOCITY ENERGY INC,OTC,Energy,Oil & Gas E&P,2,77060,TX,United States
+SAHRF,Sahara Energy Ltd.,OTC,Energy,Oil & Gas E&P,0,T2P 0X8,AB,Canada
+AJOY,Ayujoy Herbals Ltd.,OTC,Consumer Defensive,Packaged Foods,0,400002,,India
+UBSI,United Bankshares Inc-WV,NASDAQ,Financial Services,Banks—Regional,2635,25301,WV,United States
+VCIGF,Vitreous Glass Inc.,OTC,Industrials,Waste Management,0,T4A 0H5,AB,Canada
+KAYS,"Kaya Holdings, Inc.",OTC,Healthcare,Drug Manufacturers - Specialty & Generic,4,33304,FL,United States
+HQDA,HQDA Elderly Life Network Corp.,OTC,Healthcare,Medical Care Facilities,18,91770,CA,United States
+WYPH,"WayPoint Biomedical Holdings, Inc.",OTC,Financial Services,Shell Companies,0,92647,CA,United States
+FWRD,Forward Air Corp,NASDAQ,Industrials,Integrated Freight & Logistics,4155,37745,TN,United States
+GMRCF,GELUM RES LTD,OTC,Basic Materials,Gold,0,V6C 1S4,BC,Canada
+LGCP,Legion Capital Corp,OTC,Financial Services,Asset Management,0,32801,FL,United States
+AXS,Axis Capital Holdings Ltd,NYSE,Financial Services,Insurance—Specialty,2048,HM 08,,Bermuda
+VCST,"ViewCast.com, Inc.",OTC,Technology,Software—Application,47,75075,TX,United States
+ECSL,"eCare Solutions, Inc.",OTC,Industrials,Conglomerates,0,33410,FL,United States
+ONON,On Holding AG,NYSE,Consumer Cyclical,Footwear & Accessories,1701,8005,,Switzerland
+SWSSW,Springwater Special Situations Corp.,NASDAQ,Financial Services,Shell Companies,0,10174,NY,United States
+MFGI,"Merchants Financial Group, Inc.",OTC,Financial Services,Banks - Regional,0,55987,MN,United States
+SFFFF,Peugeot Invest Société anonyme,OTC,Financial Services,Asset Management,0,92200,,France
+NXSCF,NEXT SCIENCE LTD.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,2000,NSW,Australia
+UBX,UNITY Biotechnology Inc,NASDAQ,Healthcare,Biotechnology,22,94080,CA,United States
+ANKOF,Angkor Resources Corp. ,OTC,Basic Materials,Gold,0,T0H 3C0,AB,Canada
+SCWO,"374Water, Inc.",NASDAQ,Industrials,Pollution & Treatment Controls,23,27701,NC,United States
+AVGDF,Avidian Gold Corp.,OTC,Basic Materials,Gold,0,M5C 1T4,ON,Canada
+VLXGF,Volex plc,OTC,Industrials,Electrical Equipment & Parts,12000,RG24 8PZ,,United Kingdom
+PNXLF,Argentina Lithium & Energy Corp,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 3N6,BC,Canada
+KVLQF,ValOre Metals Corp.,OTC,Energy,Uranium,0,V6C 2V6,BC,Canada
+SPRN,"Supernova Energy, Inc.",OTC,Energy,Oil & Gas E&P,1,11570,NY,United States
+PJT,PJT Partners Inc,NYSE,Financial Services,Capital Markets,1012,10017,NY,United States
+LXFR,Luxfer Holdings PLC,NYSE,Industrials,Specialty Industrial Machinery,1300,53217,WI,United States
+NVAAF,Nova Minerals Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,3161,VIC,Australia
+BAC.PR.E,Bank of America Corp,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+CANN,General Cannabis Corp.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,150,80228,CO,United States
+UIS,Unisys Corp,NYSE,Technology,Information Technology Services,16500,19422,PA,United States
+IGTAU,Inception Growth Acquisition Limited,NASDAQ,Financial Services,Shell Companies,0,10014,NY,United States
+CHRHF,CHERVON HLDGS LTD,OTC,Industrials,Specialty Industrial Machinery,6522,211106,,China
+TKCBF,Tokai Carbon Company Ltd.,OTC,Basic Materials,Specialty Chemicals,4378,107-8636,,Japan
+RRVCS,RSE ARCHIVE LLC,OTC,,,0,,,United States
+AFJKU,"Aimei Health Technology Co., Ltd",NASDAQ,,,0,,,United States
+AOMFF,Alstom,OTC,Industrials,Railroads,74513,93400,,France
+JDSEF,JADESTONE ENERGY PLC,OTC,Energy,Oil & Gas E&P,369,079909,,Singapore
+CHBOF,,OTC,,,18,,,China
+LKCRU,LAKE AREA CORN PROCESSORS LLC,OTC,,,43,57057,SD,United States
+TWST,Twist Bioscience Corp,NASDAQ,Healthcare,Diagnostics & Research,919,94080,CA,United States
+VSBC,VitaSpring Biomedical Co. Ltd.,OTC,Healthcare,Biotechnology,0,92618,CA,United States
+TYOBY,"Toyobo Co., Ltd.",OTC,Basic Materials,Specialty Chemicals,10885,530-0001,,Japan
+BZLFF,Bunzl plc,OTC,Consumer Defensive,Food Distribution,22451,W1H 7JT,,United Kingdom
+TOTDF,Toto Ltd.,OTC,Industrials,Building Products & Equipment,34152,802-8601,,Japan
+PWUP,PowerUp Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,10013,NY,United States
+GXSFF,Goldsource Mines Inc.,OTC,Basic Materials,Gold,0,V6C 3P1,BC,Canada
+LGVN,Longeveron Inc.,NASDAQ,Healthcare,Biotechnology,23,33136,FL,United States
+INUMF,INFINITUM COPPER CORP.,OTC,Basic Materials,Copper,0,V6E 2E9,BC,Canada
+CNBP,Cornerstone Bancorp Inc.,OTC,Financial Services,Banks—Regional,0,60067,IL,United States
+PBBK,"PB Bankshares, Inc.",NASDAQ,Financial Services,Banks - Regional,35,19320,PA,United States
+MCHVF,"MGM China Holdings, Ltd.",OTC,Consumer Cyclical,Resorts & Casinos,10568,,,Macau
+ZVRA,KemPharm Inc,NASDAQ,Healthcare,Biotechnology,32,34747,FL,United States
+IVP,"Inspire Veterinary Partners, Inc. - Class A Common Stock",NASDAQ,Consumer Cyclical,Personal Services,0,23452,VA,United States
+MYFT,"My Freightworld Technologies, Inc.",OTC,Industrials,Trucking,0,66212,KS,United States
+KTWIY,Kurita Water Industries Ltd.,OTC,Industrials,Pollution & Treatment Controls,7784,164-0001,,Japan
+IIPR,Innovative Industrial Properties Inc,NYSE,Real Estate,REIT - Industrial,21,84098-7660,UT,United States
+BWXXF,BWX Limited,OTC,Consumer Defensive,Household & Personal Products,0,3168,VIC,Australia
+ACMT,ACMAT Corp.,OTC,Financial Services,Insurance - Specialty,0,06032-2418,CT,United States
+SITS,Southern ITS International Inc.,OTC,Financial Services,Shell Companies,0,92211,NV,United States
+STQN,"Strategic Acquisitions, Inc.",OTC,Financial Services,Credit Services,3,07078,NJ,United States
+AVSR,Avistar Communications Corp.,OTC,Technology,Communication Equipment,38,94402,CA,United States
+TOKIF,Tree Of Knowledge Intl Corp.,OTC,Healthcare,Medical Care Facilities,0,M2N 6K7,ON,Canada
+GRPI,"GRUPO International, Inc.",OTC,,,0,22430,BJ,Mexico
+SKTPP,Skytop Lodge Corp.,OTC,Consumer Cyclical,Lodging,0,18357-1099,PA,United States
+QETA,Quetta Acquisition Corporation,NASDAQ,,,0,,,United States
+DYXC,DiaSys Corp.,OTC,,,10,06702,CT,United States
+LTOUF,Larsen & Toubro Ltd.,OTC,Industrials,Engineering & Construction,49039,400001,,India
+FSTJ,First America Resources Corp,OTC,Financial Services,Shell Companies,1,60450,IL,United States
+CHIZF,CHINA TRADITIONAL CHINESE MEDICINE HLDGS CO LTD,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,17373,,,Hong Kong
+SSEUF,SSGA SPDR ETFS EUROPE II PLC,OTC,,,0,,,United States
+COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,NASDAQ,,,0,,,United States
+SYXZF,Synnex Technology International Corp.,OTC,,,0,,,United States
+ALSSF,Alsea SA,OTC,Consumer Cyclical,Restaurants,79271,01040,DF,Mexico
+PBNAF,Pembina Pipeline Corp.,OTC,Energy,Oil & Gas Midstream,0,T2P 1G1,AB,Canada
+WMPN,"William Penn Bancorp, Inc.",NASDAQ,Financial Services,Banks—Regional,93,19007,PA,United States
+HRNNF,Hydro One Limited,OTC,Utilities,Utilities—Regulated Electric,7044,M5G 2P5,ON,Canada
+E,Eni SpA,NYSE,Energy,Oil & Gas Integrated,32188,00144,RM,Italy
+CBRSF,Champion Bear Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,T2T 3C4,AB,Canada
+MTBC,MTBC Inc,NASDAQ,,,0,,,United States
+AISXF,AISIX SOLUTIONS INC,OTC,Technology,Software - Application,0,V6E 3Z3,BC,Canada
+BAYZF,Bayer A.G.,OTC,Healthcare,Drug Manufacturers - General,96931,51368,,Germany
+GFGY,Granite Falls Energy LLC,OTC,Energy,Oil & Gas Refining & Marketing,82,56241-0216,MN,United States
+LTH,"Life Time Group Holdings, Inc.",NYSE,Consumer Cyclical,Leisure,9000,55317,MN,United States
+USNL,"U.S. National Telecom, Inc.",OTC,Real Estate,Real Estate Services,1,33131,FL,United States
+OGNRF,Orogen Royalties Inc.,OTC,Basic Materials,Gold,0,V6C 1H2,BC,Canada
+JDDSF,JD Sports Fashion plc,OTC,Consumer Cyclical,Apparel Retail,75149,BL9 8RR,,United Kingdom
+RCVGS,RSE ARCHIVE LLC.,OTC,,,0,10012,NY,United States
+HDYNQ,HyperDynamics Corp.,OTC,Energy,Oil & Gas E&P,16,77079,TX,United States
+SBIGY,SABRE INS GROUP PLC,OTC,Financial Services,Insurance Brokers,153,RH4 2YY,,United Kingdom
+ROBK,"Rotate Black, Inc.",OTC,Consumer Cyclical,Resorts & Casinos,0,49770,MI,United States
+GLOP.PR.C,GasLog Partners LP,NYSE,,,0,18537,,Greece
+MATH,Metalpha Technology Holding Limited,NASDAQ,Financial Services,Capital Markets,14,,,Hong Kong
+CBSZF,"Cybernet Systems Co., Ltd.",OTC,Technology,Software - Application,571,101-0022,,Japan
+ABEC,Analytica Bio-Energy Corp.,OTC,,,0,,,United States
+OPCGF,Organic Potash Corp.,OTC,Basic Materials,Chemicals,0,L6T 5B1,ON,Canada
+SBMSF,Danakali Ltd.,OTC,Basic Materials,Agricultural Inputs,0,6006,WA,Australia
+SCRYY,SCOR,OTC,Financial Services,Insurance—Reinsurance,3522,75795,,France
+VRTHF,Veritas Pharma Inc,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,V1Z 3L4,BC,Canada
+NYMTZ,"New York Mortgage Trust, Inc. -",NASDAQ,Real Estate,REIT—Mortgage,79,10016,NY,United States
+SWISF,GlobeX Data Ltd.,OTC,Technology,Software - Application,0,M5X 1C9,ON,Canada
+AMCI,AMCI Acquisition Corp,NASDAQ,,,0,,,United States
+AIO,AllianzGI Artificial Intelligence & Technology Opportunities Fund,NYSE,,,0,10019,NY,United States
+BKBLF,Magnetic North Acquisition Corp.,OTC,Financial Services,Capital Markets,0,T2P 0C1,AB,Canada
+ELECF,Electric Royalties Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,1,V6E 4H1,BC,Canada
+BCNHF,INVESCO MARKETS II PLC,OTC,,,0,,,United States
+NDGPF,Nine Dragons Paper Holdings Ltd.,OTC,Basic Materials,Paper & Paper Products,23079,,,China
+GGII,"Green Globe International, Inc.",OTC,Consumer Defensive,Tobacco,0,85255,AZ,United States
+PROT,"Proteonomix, Inc.",OTC,Healthcare,Biotechnology,0,07506,NJ,United States
+RBBN,Ribbon Communications Inc,NASDAQ,Communication Services,Telecom Services,3107,75023,TX,United States
+NRSAF,Norse Atlantic ASA,OTC,Industrials,Airlines,1062,4838,,Norway
+ELMUY,Elisa Communications Corp.,OTC,,,5666,00061,,Finland
+HINOY,Hino Motors Ltd.,OTC,Industrials,Farm & Heavy Construction Machinery,34231,191-8660,,Japan
+GARPF,Golden Agri-Resources,OTC,Consumer Defensive,Farm Products,99800,118535,,Singapore
+TELIF,TELESCOPE INNOVATIONS CORP,OTC,Healthcare,Biotechnology,0,V6T 1Z3,BC,Canada
+DX-C,"Dynex Capital, Inc. 6.900% Seri",NYSE,Real Estate,REIT—Mortgage,22,23060-9245,VA,United States
+NTPY,NetPay International Inc.,OTC,Technology,Software - Infrastructure,1,46722562,,Israel
+SBBTF,Schibsted ASA,OTC,Communication Services,Publishing,5000,0180,,Norway
+AOZOY,Aozora Bank Ltd.,OTC,Financial Services,Banks—Regional,2442,102-8660,,Japan
+FNCB,FNCB Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,209,18512,PA,United States
+ALL.PR.B,Allstate Corp-The,NYSE,,,0,,,United States
+HFBG,"Hall of Fame Beverages, Inc.",OTC,,,3,85338,AZ,United States
+MFH,JMU Ltd,NASDAQ,Financial Services,Capital Markets,9,10019,NY,United States
+BML.PR.J,Bank of America Corp,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+FNMAH,Fannie Mae,OTC,Financial Services,Mortgage Finance,8100,20005,DC,United States
+NTRS,Northern Trust Corp,NASDAQ,Financial Services,Asset Management,23100,60603,IL,United States
+CBMDF,CBM Asia Developmental Corp.,OTC,Energy,Oil & Gas E&P,0,V6M 4E1,BC,Canada
+EVO,Evotec SE,NASDAQ,Healthcare,Drug Manufacturers - Specialty & Generic,5086,22419,,Germany
+UMRRF,US MASTERS RESIDENTIAL PROPERTY FUND,OTC,Real Estate,REIT—Residential,0,2000,NSW,Australia
+WFLDF,Wellfield Technologies Inc.,OTC,Technology,Software - Application,0,V6C 2X8,BC,Canada
+TRTN.PR.E,Triton International Limited,NYSE,Industrials,Rental & Leasing Services,244,HM 10,,Bermuda
+MNDO,Mind CTI Ltd,NASDAQ,Technology,Software - Application,153,2066724,,Israel
+VADP,Vado Corp,OTC,Financial Services,Shell Companies,52,90292,CA,United States
+IDTA,Identa Corp.,OTC,Healthcare,Diagnostics & Research,0,93420,,Israel
+TEUCF,Box Ships Inc.,OTC,Industrials,Marine Shipping,1,16673,,Greece
+APNHY,Aspen Pharmacare Holdings plc,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,8612,,,South Africa
+MOMO,Momo Inc,NASDAQ,Communication Services,Internet Content & Information,1705,100102,,China
+BIRMF,"Biorem, Inc.",OTC,Industrials,Pollution & Treatment Controls,0,N0B 2J0,ON,Canada
+EGPLF,Eagle Plains Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V1C 2R7,BC,Canada
+LQMT,"Liquidmetal Technologies, Inc.",OTC,Industrials,Metal Fabrication,7,92630,CA,United States
+PBR.A,Petroleo Brasileiro SA,NYSE,Energy,Oil & Gas Integrated,45149,20031-912,RJ,Brazil
+GTGEF,Green 2 Blue Energy Corp.,OTC,Energy,Oil & Gas E&P,0,V6C 1A5,BC,Canada
+APDN,Applied DNA Sciences Inc,NASDAQ,Healthcare,Diagnostics & Research,52,11790,NY,United States
+VNPKF,VERDE AGRITECH LTD,OTC,Basic Materials,Agricultural Inputs,250,30180-008,MG,Brazil
+TSUSF,Tsuruha Holdings Inc.,OTC,Healthcare,Pharmaceutical Retailers,11298,065-0024,,Japan
+ASGI,Aberdeen Standard Global Infrastructure Income Fund,NYSE,,,0,19103,PA,United States
+HKUOF,"Hakuhodo Dy Holdings, Inc.",OTC,Communication Services,Advertising Agencies,27936,107-6320,,Japan
+TRIS,Tristar Acquisition I Corp.,NYSE,Financial Services,Shell Companies,0,30305,GA,United States
+MUBDF,MACKENZIE UNCNSTRND ETF,OTC,,,0,,,United States
+PSGFF,Precious Shipping Plc,OTC,Industrials,Marine Shipping,0,10500,,Thailand
+HTIBP,"Healthcare Trust, Inc.",NASDAQ,Real Estate,REIT—Healthcare Facilities,0,02840,RI,United States
+RNDXF,Randgold & Exploration Company Limited,OTC,Basic Materials,Gold,0,2196,,South Africa
+PYYX,"Pyxus International, Inc.",OTC,Consumer Defensive,Tobacco,3000,27560-2009,NC,United States
+PTNYF,Parcelpal Technology Inc,OTC,Industrials,Integrated Freight & Logistics,193,V6B 2Z4,BC,Canada
+CTHR,Charles & Colvard Ltd,NASDAQ,Consumer Cyclical,Luxury Goods,48,27560,NC,United States
+HOUS,Anywhere Real Estate Inc.,NYSE,Real Estate,Real Estate Services,7965,07940,NJ,United States
+RAKR,Rainmaker Worldwide Inc.,OTC,Industrials,Pollution & Treatment Controls,0,K9H 2P8,ON,Canada
+ISRVF,ISHARES PLC,OTC,,,0,,,United States
+USB.PR.P,US Bancorp,NYSE,Financial Services,Banks—Regional,75465,55402,MN,United States
+UHG,United Homes Group Inc,NASDAQ,Consumer Cyclical,Residential Construction,0,29036,SC,United States
+OGEN,Oragenics Inc,NYSE,Healthcare,Biotechnology,6,33634,FL,United States
+XYLB,XY LABS INC.,OTC,Technology,Software—Application,0,92154,CA,United States
+JBFCF,Jollibee Foods Corp.,OTC,Consumer Cyclical,Restaurants,11823,1605,,Philippines
+NDENF,Bankers Cobalt Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 2I7,BC,Canada
+PKREF,Peak Resources Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,6000,WA,Australia
+CTSH,Cognizant Technology Solutions Corp,NASDAQ,Technology,Information Technology Services,347700,07666,NJ,United States
+IGRW,Interactive Health Network,OTC,Healthcare,Health Information Services,1,20012,DC,United States
+JZ,Jianzhi Education Technology Group Co Ltd,NASDAQ,Consumer Defensive,Education & Training Services,62,100086,,China
+NEMKY,NEMETSCHEK SE,OTC,Technology,Software—Application,3406,81829,,Germany
+PIXY,ShiftPixy Inc,NASDAQ,Industrials,Staffing & Employment Services,31,33142,FL,United States
+TISCF,Taisei Corp.,OTC,Industrials,Engineering & Construction,14466,163-0606,,Japan
+MDEX,Madison Technologies Inc.,OTC,Communication Services,Broadcasting,1,10577,NY,United States
+PRLHU,Pearl Holdings Acquisition Corp Unit,NASDAQ,Financial Services,Shell Companies,0,10017,NY,United States
+FUSEF,Fuse Cobalt Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V3B 5X6,BC,Canada
+CLMPF,Canadian Prem Sand Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,T2P 2X6,AB,Canada
+CRVW,"Careview Communications, Inc.",OTC,Healthcare,Health Information Services,56,75067,TX,United States
+CITEW,Cartica Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,20006,DC,United States
+TOELF,Tokyo Electron Ltd.,OTC,Technology,Semiconductor Equipment & Materials,17204,107-6325,,Japan
+FMAO,Farmers & Merchants Bancorp Inc-Archbold OH,NASDAQ,Financial Services,Banks—Regional,456,43502,OH,United States
+CREX,Creative Realities Inc,NASDAQ,Technology,Software—Application,120,40223,KY,United States
+MSGP,MedSmart Group Inc.,OTC,Healthcare,Medical Care Facilities,4,33154,FL,United States
+ASMXF,ASM International N.V.,OTC,Technology,Semiconductor Equipment & Materials,4542,1322 AP,,Netherlands
+VGR,Vector Group Ltd,NYSE,Consumer Defensive,Tobacco,551,33137,FL,United States
+VHAQ.UN,Viveon Health Acquisition Corp.,NYSE,,,0,30326,GA,United States
+ATOGF,AUTO1 GROUP SE,OTC,Consumer Cyclical,Auto & Truck Dealerships,6094,10961,,Germany
+IXAQU,IX Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,SE1 7HX,,United Kingdom
+LEBGF,Legible Inc.,OTC,Communication Services,Publishing,9,V5T 2X2,BC,Canada
+PTNRF,PARTNER COMMUNICATIONS CO LTD,OTC,Communication Services,Telecom Services,2637,4810302,,Israel
+ACSAF,ACS Actividades De Construccion Y Servicios SA,OTC,Industrials,Engineering & Construction,133890,28036,,Spain
+IOSP,Innospec Inc,NASDAQ,Basic Materials,Specialty Chemicals,2400,80112,CO,United States
+AMMX,AmeraMex International Inc.,OTC,Industrials,Farm & Heavy Construction Machinery,19,95973,CA,United States
+RMGGF,Resolute Mining Ltd.,OTC,Basic Materials,Gold,0,6000,WA,Australia
+TYNPF,Nippon Sanso Holdings Corp.,OTC,Basic Materials,Chemicals,19579,142-0062,,Japan
+NXE,NexGen Energy Ltd,NYSE,Energy,Uranium,56,V6E 0C3,BC,Canada
+AQUNR,Aquaron Acquisition Corp.,NASDAQ,,,0,10022,NY,United States
+CDAB,Coeur D Alene Bancorp,OTC,Financial Services,Banks - Regional,0,83814,ID,United States
+PARG,Power Americas Resource Group Ltd.,OTC,Financial Services,Shell Companies,0,11570,NY,United States
+NFTN,NFiniTi Inc.,OTC,Financial Services,Shell Companies,0,63734,SI,Mexico
+NCTY,The9 Ltd,NASDAQ,Communication Services,Electronic Gaming & Multimedia,72,200080,,China
+KNEOF,Kneomedia Limited,OTC,Technology,Software—Application,0,3000,VIC,Australia
+MSSA,Metal Sky Star Acquisition Corporation,NASDAQ,Financial Services,Shell Companies,0,10001,NY,United States
+UTL,Unitil Corp,NYSE,Utilities,Utilities—Diversified,531,03842-1720,NH,United States
+VASO,Vaso Corporation,OTC,Healthcare,Health Information Services,272,11803,NY,United States
+GTMLF,GREEN TECHNOLOGY METALS LTD.,OTC,Basic Materials,Other Industrial Metals & Mining,0,6008,WA,Australia
+ENCTF,Encanto Potash Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V7X 1J1,BC,Canada
+LILAK,Liberty Latin America Ltd,NASDAQ,Communication Services,Telecom Services,10600,HM 11,,Bermuda
+WRB.PR.F,WR Berkley Corp,NYSE,,,0,,,United States
+DGNOF,Diagnos Inc.,OTC,Healthcare,Health Information Services,0,J4Z 1A7,QC,Canada
+IPDN,Professional Diversity Network Inc,NASDAQ,Industrials,Staffing & Employment Services,37,60603-5713,IL,United States
+TNSMF,Titanium Sands Ltd.,OTC,Basic Materials,Other Industrial Metals & Mining,0,6000,WA,Australia
+BIOR,"Biora Therapeutics, Inc.",NASDAQ,Healthcare,Biotechnology,54,92122,CA,United States
+KVUE,Kenvue Inc. Common Stock,NYSE,Consumer Defensive,Household & Personal Products,22000,08558,NJ,United States
+MAXD,Max Sound Corporation,OTC,Technology,Software—Application,0,92130,CA,United States
+IVSBF,Investors AB,OTC,Financial Services,Asset Management,18260,103 32,,Sweden
+TNSGF,Findev Inc.,OTC,Financial Services,Mortgage Finance,0,,ON,Canada
+RPM,RPM International Inc,NYSE,Basic Materials,Specialty Chemicals,17300,44256,OH,United States
+VGDVF,Vanguard Funds PLC,OTC,,,0,,,United States
+PETRY,Petrobras Distribuidora S.A.,OTC,Consumer Cyclical,Specialty Retail,3500,20211-140,RJ,Brazil
+AHT.PR.I,Ashford Hospitality Trust Inc,NYSE,Real Estate,REIT—Hotel & Motel,0,75254-4308,TX,United States
+EMFGF,Fluence Corporation Limited,OTC,Industrials,Pollution & Treatment Controls,0,55427,MN,United States
+DY,Dycom Industries Inc,NYSE,Industrials,Engineering & Construction,15611,33408,FL,United States
+CHYCY,Chiyoda Corp.,OTC,Industrials,Engineering & Construction,3941,220-8765,,Japan
+FSMK,"1st Summit Bancorp Johnstown, Inc.",OTC,Financial Services,Banks - Regional,0,15904,PA,United States
+JMPLY,Johnson Matthey plc,OTC,Basic Materials,Specialty Chemicals,12638,EC4A 4AB,,United Kingdom
+PSYTF,Pason Systems Inc.,OTC,Energy,Oil & Gas Equipment & Services,0,T2H 1K4,AB,Canada
+SRKZF,Sky Gold Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1H2,BC,Canada
+DMLP,Dorchester Minerals LP,NASDAQ,Energy,Oil & Gas E&P,27,75219-4541,TX,United States
+ISPFF,iShares II plc.,OTC,,,0,,,United States
+COVA,COVA Acquisition Corp.,NASDAQ,,,0,,,United States
+XDSL,"mPhase Technologies, Inc.",OTC,Technology,Solar,20,20852,MD,United States
+AVEFF,Avecho Biotechnology Ltd.,OTC,Healthcare,Biotechnology,0,3168,VIC,Australia
+BRNGF,Buru Energy Ltd.,OTC,Energy,Oil & Gas E&P,0,6005,WA,Australia
+BCVVF,BOC Aviation Limited,OTC,Industrials,Rental & Leasing Services,195,068897,,Singapore
+RSI,"Rush Street Interactive, Inc.",NYSE,Consumer Cyclical,Gambling,700,60611,IL,United States
+ZCRMF,"Zincore Metals, Inc.",OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 2Y3,BC,Canada
+CNBL,"Citizens National Bancshares of Bossier, Inc.",OTC,Financial Services,Banks - Regional,0,71111,LA,United States
+ANDMF,ANDROMEDA METALS LTD.,OTC,Basic Materials,Other Industrial Metals & Mining,0,5000,SA,Australia
+DRKOF,Martello Technologies Group Inc.,OTC,Technology,Software—Infrastructure,72,K2K 0G7,ON,Canada
+USNA,USANA Health Sciences Inc,NYSE,Consumer Defensive,Packaged Foods,1800,84120,UT,United States
+FITGF,FIT Hon Teng Limited,OTC,Technology,Electronic Components,52488,23680,,Taiwan
+TTHG,"Titanium Holdings Group, Inc.",OTC,Industrials,Conglomerates,0,78207,TX,United States
+FL,Foot Locker Inc,NYSE,Consumer Cyclical,Apparel Retail,15200,10001,NY,United States
+REPL,Replimune Group Inc,NASDAQ,Healthcare,Biotechnology,284,01801,MA,United States
+BRRDF,Borregaard ASA,OTC,Basic Materials,Specialty Chemicals,1107,1701,,Norway
+BFH,"Bread Financial Holdings, Inc.",NYSE,Financial Services,Credit Services,7000,43219,OH,United States
+MRDH,"Meridian Holdings, Inc.",OTC,Industrials,Consulting Services,14,90250,CA,United States
+ZAZA,ZaZa Energy Corp,OTC,Basic Materials,Independent Oil & Gas,20,77010,TX,United States
+OUKPY,Outotec OYJ,OTC,Industrials,Farm & Heavy Construction Machinery,17134,00100,,Finland
+MDRM,"Modern Mobility Aids, Inc.",OTC,Healthcare,Health Information Services,0,L6W 3K6,ON,Canada
+SPH,Suburban Propane Partners LP,NYSE,Utilities,Utilities - Regulated Gas,3240,07981-0206,NJ,United States
+AMDOF,AMEDEO AIR FOUR PLUS LTD,OTC,,,0,EC3V 3NF,,United Kingdom
+AOSL,Alpha & Omega Semiconductor Ltd,NASDAQ,Technology,Semiconductors,2468,94085,CA,United States
+CCHBF,COCA COLA HBC LTD,OTC,Consumer Defensive,Beverages - Non-Alcoholic,33000,6312,,Switzerland
+CALC,CALCIMEDICA INC,NASDAQ,Healthcare,Biotechnology,14,92037,CA,United States
+YLLXF,Yellow Cake Plc,OTC,Energy,Uranium,2,JE1 2LH,,Jersey
+PERT,"Permanent Technologies, Inc.",OTC,Industrials,Tools & Accessories,0,02171,MA,United States
+TARA,ArTara Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,25,10010,NY,United States
+VSMD,"Vasamed, Inc.",OTC,Healthcare,Medical Instruments & Supplies,0,55344,MN,United States
+RMRK,Rimrock Gold Corp.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,2,89103,NV,United States
+LGNDZ,Ligand Pharmaceuticals Incorporated,OTC,,,58,33458,FL,United States
+STVA,Stevva Corp.,OTC,,,0,58100,,Greece
+KRMCF,KRM22 PLC,OTC,Financial Services,Asset Management,45,EC4V 5EH,,United Kingdom
+STZ,Constellation Brands Inc,NYSE,Consumer Defensive,Beverages—Wineries & Distilleries,10700,14564,NY,United States
+SDGCF,"Sundrug Co.,Ltd.",OTC,Healthcare,Pharmaceutical Retailers,6371,183-0005,,Japan
+KYCHW,Keyarch Acquisition Corporation,NASDAQ,,,0,,,United States
+THMG,"Thunder Mountain Gold, Inc.",OTC,Basic Materials,Other Precious Metals & Mining,2,83713,ID,United States
+LSAK,"Lesaka Technologies, Inc.",NASDAQ,Technology,Software - Infrastructure,2303,2196,,South Africa
+MNODD,Mondi Plc.,OTC,Basic Materials,Paper & Paper Products,21000,KT13 0NY,,United Kingdom
+VLERF,Valeura Energy Inc.,OTC,Energy,Oil & Gas E&P,34,T2P 2R9,AB,Canada
+FSTF,First State Financial Corp.,OTC,Financial Services,Banks - Regional,135,34236,FL,United States
+HSCT,HOOPS SCOUTING USA,OTC,Communication Services,Internet Content & Information,0,92260,CA,United States
+JMPHF,Leveljump Healthcare Corp.,OTC,Healthcare,Diagnostics & Research,27,M3B 2R7,ON,Canada
+VSSSF,Visionstate Corp.,OTC,Technology,Information Technology Services,0,T6E 5G2,AB,Canada
+CCWF,"Church & Crawford, Inc.",OTC,Energy,Oil & Gas E&P,0,M5J 2Y7,ON,Canada
+NOVVR,Nova Vision Acquisition Corporation,NASDAQ,,,0,059763,,Singapore
+HRTG,Heritage Insurance Holdings Inc,NYSE,Financial Services,Insurance - Property & Casualty,612,33607,FL,United States
+APLN,"AE Holding I, Inc.",OTC,,,0,V7V 1C7,BC,Canada
+TFGL,Tracker Financial Group Ltd ,OTC,Financial Services,Shell Companies,0,89139,NV,United States
+WSR,Whitestone REIT,NYSE,Real Estate,REIT—Retail,78,77063-3223,TX,United States
+BBIG,"Vinco Ventures, Inc.",NASDAQ,Consumer Cyclical,Leisure,45,14450,NY,United States
+RGGI,Resgreen Group International Inc,OTC,Technology,Information Technology Services,1,48315,MI,United States
+BWOWF,Wowjoint Holdings Limited,OTC,Industrials,Farm & Heavy Construction Machinery,186,101118,,China
+RUPRF,Rupert Resources Ltd.,OTC,Basic Materials,Gold,0,M5C 1P1,ON,Canada
+RCAC,Revelstone Capital Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,92606,CA,United States
+TMOAY,Tomtom NV,OTC,Technology,Software - Application,3697,1011 AC,,Netherlands
+BTEAF,Beneteau SA,OTC,Consumer Cyclical,Recreational Vehicles,7884,85803,,France
+MLRT,Metalert Inc,OTC,Technology,Communication Equipment,8,90015,CA,United States
+SNVFF,Sonoro Energy Ltd.,OTC,Energy,Oil & Gas E&P,0,T2P 3R7,AB,Canada
+LGCXF,Lahontan Gold Corp.,OTC,Basic Materials,Other Precious Metals & Mining,0,M5V 0R2,ON,Canada
+BUNM,"Burned Media, Ltd.",OTC,Consumer Cyclical,Specialty Retail,0,89014,NV,United States
+PRGO,Perrigo Co PLC,NYSE,Healthcare,Drug Manufacturers—Specialty & Generic,9140,D02 TY74,,Ireland
+SRUUF,Sprott Physical Uranium Trust Fund,OTC,Energy,Uranium,0,M5J 2J1,ON,Canada
+CNCSF,CHINA CASTSON 81 FINCE,OTC,Financial Services,Asset Management,16,,,Hong Kong
+UCLE,US Nuclear Corp.,OTC,Technology,Scientific & Technical Instruments,0,91303,CA,United States
+LBUY,"Leafbuyer Technologies, Inc.",OTC,Communication Services,Internet Content & Information,0,80112,CO,United States
+BNXAF,Banxa Holdings Inc.,OTC,Technology,Information Technology Services,149,3121,VIC,Australia
+QFTA,Quantum FinTech Acquisition Corporation,NYSE,Financial Services,Shell Companies,0,33607,FL,United States
+AAPT,"All American Pet Company, Inc.",OTC,Industrials,Specialty Business Services,16,89128,NV,United States
+LITSF,LITHOS ENERGY LTD,OTC,Basic Materials,Other Industrial Metals & Mining,0,V6E 2E9,BC,Canada
+OTFT,Outfront Companies,OTC,,,0,33417,FL,United States
+QFIN,360 Finance Inc,NASDAQ,Financial Services,Credit Services,2199,200122,,China
+SNCY,"Sun Country Airlines Holdings, Inc.",NASDAQ,Industrials,Airlines,2783,55450,MN,United States
+NEPT,Neptune Wellness Solutions Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,50,H7T 0A3,QC,Canada
+ILAL,International Land Alliance Inc.,OTC,Real Estate,Real Estate—Development,4,92101,CA,United States
+AEHL,Antelope Enterprise Holdings Limited,NASDAQ,Industrials,Building Products & Equipment,297,,,China
+LBTYA,Liberty Global PLC,NASDAQ,Communication Services,Telecom Services,9860,HM 11,,Bermuda
+AMRX,Amneal Pharmaceuticals Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,7600,08807,NJ,United States
+WYNN,Wynn Resorts Ltd,NASDAQ,Consumer Cyclical,Resorts & Casinos,27800,89109,NV,United States
+AMS,American Shared Hospital Services,NYSE,Healthcare,Medical Care Facilities,28,94111-2619,CA,United States
+ULTA,Ulta Beauty Inc,NASDAQ,Consumer Cyclical,Specialty Retail,18500,60440,IL,United States
+CBAOF,Fibra Terrafina,OTC,Real Estate,REIT - Industrial,0,11000,DF,Mexico
+BRYGF,"Baroyeca Gold & Silver, Inc.",OTC,Basic Materials,Other Industrial Metals & Mining,0,V6C 1T2,BC,Canada
+BHNGF,Bhang Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,M5H 3S1,ON,Canada
+MPB,Mid Penn Bancorp Inc,NASDAQ,Financial Services,Banks—Regional,590,17110,PA,United States
+SNTZ,"Santana Mining, Inc.",OTC,,,0,,,United States
+NEUE,"NeueHealth, Inc.",NYSE,Healthcare,Healthcare Plans,2840,55437,MN,United States
+LTTC,"Lattice, Inc.",OTC,Technology,Communication Equipment,27,08109,NJ,United States
+TCNAF,Transcanna Holdings Inc.,OTC,Healthcare,Drug Manufacturers - Specialty & Generic,0,V7V 1E1,BC,Canada
+CERGF,Ceres Global Ag Corp.,OTC,Consumer Defensive,Food Distribution,169,55416,MN,United States
+ADOCY,Adocia ACT,OTC,Healthcare,Biotechnology,97,69003,,France
+PETZ,TDH Holdings Inc,NASDAQ,Consumer Defensive,Packaged Foods,51,,,China
+BIIB,Biogen Inc,NASDAQ,Healthcare,Drug Manufacturers - General,7570,02142,MA,United States
+RGTPQ,REGENETP INC,OTC,Healthcare,Biotechnology,42,84104,UT,United States
+TRYPF,Tryp Therapeutics Inc.,OTC,Healthcare,Biotechnology,0,V1Y 2B3,BC,Canada
+MCQEF,"Macquarie Group, Ltd.",OTC,Financial Services,Capital Markets,21270,2000,NSW,Australia
+WNC,Wabash National Corp,NYSE,Industrials,Farm & Heavy Construction Machinery,6700,47905,IN,United States
+ET-I,Energy Transfer L.P.,NYSE,Energy,Oil & Gas Midstream,13786,75225,TX,United States
+INTV,"Integrated Ventures, Inc.",OTC,Technology,Software - Application,1,16946,PA,United States
+GEN,Gen Digital Inc.,NASDAQ,Technology,Software—Infrastructure,3700,85281,AZ,United States
+PSMMF,Persimmon Plc,OTC,Consumer Cyclical,Residential Construction,5554,YO19 4FE,,United Kingdom
+TAHEF,Tahera Diamond Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,M5K 1P2,ON,Canada
+HUDRF,Hudson Resources Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V7Y 1C6,BC,Canada
+FDLB,Fidelity Federal Bancorp,OTC,Financial Services,Banks—Regional,51,47708,IN,United States
+TIEMF,TIEMCO LTD,OTC,,,68,130-8555,,Japan
+NE.WTA,NE-WTA,NYSE,,,0,,,United States
+AACI,Armada Acquisition Corp. I,NASDAQ,Financial Services,Shell Companies,0,19103,PA,United States
+OSLE.CL,Oaktree Specialty Lending Corp,NYSE,,,0,,,United States
+BRYN,"Bryn Resources, Inc.",OTC,Industrials,Specialty Business Services,1,14301,NY,United States
+CREG,China Recycling Energy Corp,NASDAQ,Utilities,Utilities—Renewable,14,710075,,China
+BATRK,Liberty Media Corp-Liberty Braves,NASDAQ,Communication Services,Entertainment,1240,80112,CO,United States
+MSCLF,SATELLOS BIOSCIENCE INC.,OTC,Healthcare,Biotechnology,0,M5J 2J1,ON,Canada
+KBR,KBR Inc,NYSE,Industrials,Engineering & Construction,34000,77002,TX,United States
+KNRRY,Knorr-Bremse,OTC,Consumer Cyclical,Auto Parts,33025,80809,,Germany
+GVFF,Greenville Federal Financial Corp.,OTC,Financial Services,Banks - Regional,0,45331,OH,United States
+SULMF,Sulliden Mining Capital Inc.,OTC,Basic Materials,Other Industrial Metals & Mining,11,M5R 1J2,ON,Canada
+GRC,Gorman-Rupp Co-The,NYSE,Industrials,Specialty Industrial Machinery,1450,44903,OH,United States
+RKLIF,Rentokil Initial Plc,OTC,Industrials,Specialty Business Services,58600,,,United Kingdom
+VOLVF,Volvo AB,OTC,Industrials,Farm & Heavy Construction Machinery,89715,405 08,,Sweden
+PLAB,Photronics Inc,NASDAQ,Technology,Semiconductor Equipment & Materials,1885,06804,CT,United States
+GBLBY,Groupe Bruxelles Lambert SA,OTC,Financial Services,Asset Management,57,1000,,Belgium
+GGBL,Guar Global Ltd.,OTC,,,4,302012,,India
+BLEVF,Beleave Inc.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,L6H 0H2,ON,Canada
+DWAC,Digital World Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,33133,FL,United States
+RIV-A,"RiverNorth Opportunities Fund, Inc.",NYSE,Financial Services,Asset Management,0,60654,IL,United States
+PLYZ,Plyzer Technologies Inc.,OTC,Technology,Software - Infrastructure,37,M5R 2G3,ON,Canada
+ISOL,"1mage Software, Inc.",OTC,Technology,Software—Infrastructure,13,80112,CO,United States
+INAV,Mohr Industry Nav ETF,NYSE,,,0,,,United States
+GDSTU,Goldenstone Acquisition Ltd,NASDAQ,Financial Services,Shell Companies,0,60504,IL,United States
+NGLD,Nevada Canyon Gold Corp,OTC,Basic Materials,Gold,0,89509,NV,United States
+BNPQF,BNP Paribas,OTC,Financial Services,Banks—Regional,190000,75009,,France
+FNMAJ,Fannie Mae,OTC,Financial Services,Mortgage Finance,8100,20005,DC,United States
+TRARF,Teras Resources Inc.,OTC,Basic Materials,Gold,0,T2H 2K1,AB,Canada
+LLBO,"Lifeline BioTechnologies, Inc.",OTC,Healthcare,Medical Devices,0,89502,NV,United States
+BAC.PR.Q,Bank of America Corporation Dep,NYSE,Financial Services,Banks—Diversified,213000,28255,NC,United States
+ONXYY,Ontex Group NV,OTC,Consumer Defensive,Household & Personal Products,7500,9320,,Belgium
+CCNEP,CNB Financial Corporation,NASDAQ,Financial Services,Banks - Regional,722,16830,PA,United States
+IDYA,Ideaya Biosciences Inc,NASDAQ,Healthcare,Biotechnology,124,94080,CA,United States
+AJINY,"Ajinomoto Co., Inc.",OTC,Consumer Defensive,Packaged Foods,34615,104-8315,,Japan
+SFBI,"SFSB, Inc.",OTC,Financial Services,Banks—Regional,0,21015,MD,United States
+VERF,Versailles Financial Corp.,OTC,Financial Services,Banks—Regional,0,45380,OH,United States
+ETCG,Grayscale Ethereum Classic Trust (ETC),OTC,,,0,,,United States
+CHRYY,Chorus Limited,OTC,Communication Services,Telecom Services,852,6011,,New Zealand
+HRGLF,Hargreaves Lansdown PLC,OTC,Financial Services,Asset Management,2277,BS1 5HL,,United Kingdom
+PRIF.PR.L,"Priority Income Fund, Inc.",NYSE,Financial Services,Asset Management,0,33401,FL,United States
+ISPO,Inspirato Inc,NASDAQ,Consumer Cyclical,Travel Services,671,80202,CO,United States
+OXBR,Oxbridge Re Holdings Ltd,NASDAQ,Financial Services,Insurance—Reinsurance,4,KY1-9006,,Cayman Islands
+LFCBY,LIFCO AB,OTC,Industrials,Conglomerates,6899,745 85,,Sweden
+FQVTY,Fevertree Drinks Plc,OTC,Consumer Defensive,Beverages—Non-Alcoholic,300,W6 7NL,,United Kingdom
+REFR,Research Frontiers Inc,NASDAQ,Technology,Electronic Components,6,11797-2033,NY,United States
+YBGJ,Yubo International Biotech Limited,OTC,Healthcare,Medical Instruments & Supplies,20,100034,,China
+KEY.PR.J,KeyCorp,NYSE,Financial Services,Banks - Regional,17333,44114-1306,OH,United States
+NCDL,custom.INSTR_NAME2,NYSE,,,0,,,United States
+ETR,Entergy Corp,NYSE,Utilities,Utilities—Regulated Electric,12177,70113,LA,United States
+ACHV,Achieve Life Sciences Inc,NASDAQ,Healthcare,Biotechnology,20,V6E 4H1,BC,Canada
+BNR,Burning Rock Biotech Ltd,NASDAQ,Healthcare,Diagnostics & Research,1138,510005,,China
+FRMC,Formcap Corp.,OTC,,,0,89501,NV,United States
+YUXXF,Yuexiu Real Estate Investment Trust,OTC,Real Estate,REIT—Office,673,,,Hong Kong
+XXLLY,XXL ASA,OTC,Consumer Cyclical,Specialty Retail,4749,0668,,Norway
+MARIF,Marimaca Copper Corp.,OTC,Basic Materials,Copper,23,V6E 0C5,BC,Canada
+AEMD,Aethlon Medical Inc,NASDAQ,Healthcare,Medical Devices,15,92121,CA,United States
+HHULY,Hamburger Hafen Und Logistik Ag,OTC,Industrials,Marine Shipping,6717,20457,,Germany
+CBEEF,Cabo Drilling Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,0,V3L 2Y8,BC,Canada
+SWTX,SpringWorks Therapeutics Inc,NASDAQ,Healthcare,Biotechnology,305,06902,CT,United States
+GUELF,GLOBAL URANIUM & ENRICHMENT LTD.,OTC,Energy,Uranium,0,6008,WA,Australia
+RVLCF,Rivalry Corp.,OTC,Consumer Cyclical,Gambling,0,M5V 2K6,ON,Canada
+ATVK,Ameritek Ventures,OTC,Industrials,Specialty Industrial Machinery,8,60090,IL,United States
+DTRK,"DATATRAK International, Inc.",OTC,Healthcare,Health Information Services,0,44124,OH,United States
+HUMRF,Hummingbird Resources Ltd,OTC,Basic Materials,Gold,0,B18 6DE,,United Kingdom
+CCLDP,"CareCloud, Inc. - 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ,Healthcare,Health Information Services,4150,08873,NJ,United States
+RECAF,Reconnaissance Energy Africa Ltd.,OTC,Energy,Oil & Gas E&P,0,V7X 1A1,BC,Canada
+GAWK,Gawk Inc,OTC,Technology,Software—Infrastructure,11,90038,CA,United States
+WOBK,Woodsboro Bank MD,OTC,Financial Services,Banks - Regional,0,21798-0036,MD,United States
+SBBSF,Sabana Shari'ah Compliant Industrial Real Estate Investment Trust,OTC,Real Estate,REIT—Industrial,0,556741,,Singapore
+PATK,Patrick Industries Inc,NASDAQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",10000,46516,IN,United States
+HWNI,High Wire Networks Inc.,OTC,Technology,Information Technology Services,342,33432,FL,United States
+GDBYF,Goodbody Health Ltd.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,V6E 4N7,BC,Canada
+SLRN,"ACELYRIN, INC. - Common Stock",NASDAQ,Healthcare,Biotechnology,108,91301,CA,United States
+JUDO,Judo Capital Corp.,OTC,,,0,,,United States
+MET.PR.A,MetLife Inc,NYSE,Financial Services,Insurance - Life,45000,10166-0188,NY,United States
+ADN,"Advent Technologies Holdings, Inc.",NASDAQ,Utilities,Utilities - Renewable,175,02129,MA,United States
+MCCK,"Mestek, Inc.",OTC,Industrials,Building Products & Equipment,0,01085,MA,United States
+VLVLY,Volvo AB,OTC,Industrials,Farm & Heavy Construction Machinery,89715,405 08,,Sweden
+ARCO,Arcos Dorados Holdings Inc,NYSE,Consumer Cyclical,Restaurants,0,11300,,Uruguay
+JUMSY,Jumbo SA,OTC,Consumer Cyclical,Specialty Retail,5785,183 46,,Greece
+OTOW,"O2 Secure Wireless, Inc.",OTC,Technology,Communication Equipment,0,32137,FL,United States
+YQ,17 Education & Technology Group Inc.,NASDAQ,Consumer Defensive,Education & Training Services,480,100102,,China
+BWCGF,BLACKWOLF COPPER & GOLD LTD.,OTC,Basic Materials,Other Precious Metals & Mining,0,V7X 1J1,BC,Canada
+NFYS.UN,Enphys Acquisition Corp.,NYSE,Financial Services,Shell Companies,0,10005,NY,United States
+REAMS,RSE ARCHIVE LLC.,OTC,,,0,,,United States
+KUKE,Kuke Music Holding Limited,NYSE,Communication Services,Entertainment,118,100024,,China
+CCI,Crown Castle International Corp,NYSE,Real Estate,REIT - Specialty,4700,77024-1908,TX,United States
+KLTR,"Kaltura, Inc.",NASDAQ,Technology,Software—Application,580,10003,NY,United States
+OECPF,Oracle Energy Corp,OTC,Energy,Oil & Gas E&P,0,V6E 4H1,BC,Canada
+CCOB,Century Cobalt Corp.,OTC,Basic Materials,Other Industrial Metals & Mining,1,90067,CA,United States
+HLFFF,HelloFresh SE,OTC,Consumer Cyclical,Restaurants,19595,10969,,Germany
+ABLT,"American Biltrite, Inc.",OTC,Industrials,Conglomerates,0,02481-2097,MA,United States
+CHDGF,COSCO International Holdings Ltd.,OTC,Industrials,Marine Shipping,846,,,Hong Kong
+HROW,Harrow Health Inc,NASDAQ,Healthcare,Drug Manufacturers—Specialty & Generic,217,37205,TN,United States
+VAIAF,Vaisala Oyj,OTC,Technology,Scientific & Technical Instruments,2199,01670,,Finland
+IMKTF,INVESCO MARKETS III PLC,OTC,,,0,,,United States
+VEEV,Veeva Systems Inc,NYSE,Healthcare,Health Information Services,6744,94588,CA,United States
+TNON,"Tenon Medical, Inc.",NASDAQ,Healthcare,Medical Devices,22,95032,CA,United States
+CLLKF,BICO Group AB ,OTC,Healthcare,Medical Devices,884,412 77,,Sweden
+TMPWQ,"Tempo Automation Holdings, Inc.",OTC,Technology,Electronic Components,74,94103,CA,United States
+GETY,"Getty Images Holdings, Inc.",NYSE,Communication Services,Internet Content & Information,1700,98104-8603,WA,United States
+BHMDF,BH MACRO LTD,OTC,,,0,,,Jersey
+ORXCF,ORIX Corp.,OTC,Financial Services,Credit Services,34737,105-5135,,Japan
+WILLF,Demant AS,OTC,Healthcare,Medical Devices,21623,2765,,Denmark
+KOSK,One Step Vending Corp,OTC,Healthcare,Medical Distribution,0,10528,NY,United States
+CZOO,Cazoo Group Ltd,NYSE,Consumer Cyclical,Auto & Truck Dealerships,3226,NW1 1JD,,United Kingdom
+MHGI,"Midnight Holdings Group, Inc.",OTC,,,83,48036,MI,United States
+SOND,Sonder Holdings Inc.,NASDAQ,Consumer Cyclical,Lodging,1695,94103,CA,United States
+JPM.PR.L,JPMorgan Chase & Co.,NYSE,Financial Services,Banks—Diversified,309926,10179,NY,United States
+PRDL,"Profitable Developments, Inc.",OTC,Financial Services,Shell Companies,0,CV13 0LQ,,United Kingdom
+CNBW,CNB Corp.,OTC,Financial Services,Banks—Regional,250,29528,SC,United States
+PAA,Plains All American Pipeline LP,NASDAQ,Energy,Oil & Gas Midstream,4100,77002,TX,United States
+ATTBF,Abattis Bioceuticals Corp.,OTC,Healthcare,Drug Manufacturers—Specialty & Generic,0,V6C 2M6,BC,Canada
+BTVCY,Britvic plc,OTC,Consumer Defensive,Beverages - Non-Alcoholic,4430,HP2 4TZ,,United Kingdom
+DVLN,"DVL, Inc.",OTC,Financial Services,Mortgage Finance,0,10022,NY,United States
+QVCC,QVC Inc,NYSE,,,0,,,United States
+CMCAW,Capitalworks Emerging Markets Acquisition Corp,NASDAQ,Financial Services,Shell Companies,0,10105,NY,United States
+SHBI,Shore Bancshares Inc,NASDAQ,Financial Services,Banks - Regional,464,21601,MD,United States
+BDUUY,"Bangkok Dusit Medical Services Public Co., Ltd.",OTC,Healthcare,Medical Care Facilities,0,10310,,Thailand
+HGKGF,Power Assets Holdings Ltd.,OTC,Utilities,Utilities—Independent Power Producers,14,,,Hong Kong
+NSTG,NanoString Technologies Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,550,98109,WA,United States
+PEAK,Healthpeak Properties Inc,NYSE,Real Estate,REIT—Healthcare Facilities,193,80237,CO,United States
+JWSM.UN,Jaws Mustang Acquisition Corporation,NYSE,,,0,33139,FL,United States
+KMAAF,Komax Holding Ag,OTC,Industrials,Specialty Industrial Machinery,3412,6036,,Switzerland
+BSQKZ,BLOCK INC,OTC,Technology,Software - Infrastructure,12985,94612,CA,United States
+MTRN,Materion Corp,NYSE,Basic Materials,Other Industrial Metals & Mining,3404,44124-4191,OH,United States
+WAVE,Eco Wave Power Global AB (publ),NASDAQ,Utilities,Utilities—Renewable,12,6713701,,Israel
+AEAEW,AltEnergy Acquisition Corp.,NASDAQ,Financial Services,Shell Companies,0,10022,NY,United States
+SBET,SharpLink Gaming Ltd.,NASDAQ,Consumer Cyclical,Gambling,62,55401,MN,United States
+AGILQ,"AgileThought, Inc.",OTC,Technology,Information Technology Services,2186,75039,TX,United States
+ASUR,Asure Software Inc,NASDAQ,Technology,Software—Application,564,78701,TX,United States
+ARVCF,Areva-Societe Des Participations Du Commissariat A Lenerg,OTC,,,0,,,United States
+ACCR,Access-Power & Co Inc.,OTC,Communication Services,Telecom Services,1,49417,MI,United States
+JUMSF,Jumbo SA,OTC,Consumer Cyclical,Specialty Retail,5785,183 46,,Greece
+AXTG,"Axis Technologies Group, Inc.",OTC,Financial Services,Capital Markets,3,90049,CA,United States
+MUEL,Mueller (PAUL) Co.,OTC,Industrials,Metal Fabrication,848,65802,MO,United States
+SVAD,"Silverton Adventures, Inc.",OTC,Financial Services,Shell Companies,0,89118,NV,United States
+RMAX,RE-MAX Holdings Inc,NYSE,Real Estate,Real Estate Services,544,80237,CO,United States
+JJNTF,Barclays Bank PLC,OTC,,,0,,,United States
+CHHL,"China Holdings, Inc.",OTC,Healthcare,Diagnostics & Research,6,89107-2001,NV,United States
+RYAN,"Ryan Specialty Group Holdings, Inc.",NYSE,Financial Services,Insurance - Specialty,4350,60606,IL,United States
+SEOVF,Sernova Corp.,OTC,Healthcare,Biotechnology,0,N6G 4X8,ON,Canada
+SLVYY,Solvay SA,OTC,Basic Materials,Chemicals,22000,1120,,Belgium
