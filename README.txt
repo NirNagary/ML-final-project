@@ -1,4 +1,4 @@
-Stock market Clustering for financial data
+#Stock market Clustering for financial data
 
 
 FinalProject3.ipynb shows our code developments
